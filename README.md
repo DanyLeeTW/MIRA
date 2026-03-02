@@ -26,6 +26,29 @@ uv pip install -e ./src
 
 Create `src/.env` (for example by copying `src/.env.example`) and filling in all environment variables.
 
+## Sub-README Navigation (Read in this order)
+
+Use this sequence before running any step scripts/notebooks:
+
+1. `src/README.md`
+   - Confirms package installation context (`uv pip install -e ./src`).
+2. `src/dataset/README.md`
+   - Required before `src/dataset/make_dataset.py` or `src/dataset/make_admission_datasets.py`.
+   - Explains required MIMIC path environment variables.
+3. `src/notebooks/README.md`
+   - Required before notebook-based preprocessing (`extract_pancreatic_cancer_info.ipynb`, `build_procedure_db.ipynb`).
+4. `src/backend/README.md`
+   - Required before starting local HAPI FHIR and running code that posts FHIR resources.
+5. `src/raw/README.md` and `src/resources/README.md`
+   - Explain what data folders/files are expected to be empty vs generated.
+6. `src/runs/README.md`
+   - Required before simulation notebooks in `src/runs/`.
+7. `src/evaluations/README.md`
+   - Required before evaluation notebooks/scripts in `src/evaluations/`.
+8. Optional maintenance only:
+   - `src/MimicEnums/README.md`
+   - `src/codes/README.md`
+
 ## Canonical `src/` Layout
 
 ```text
@@ -44,13 +67,14 @@ src/
 
 ## Reproduction Flow
 
-From the repository root (`MIRA/`):
+From the repository root (`MIRA/`) unless a linked README says otherwise.
+Before each step, read the linked sub-README first.
 
 Canonical package order for end-to-end reproduction:
 `src/dataset` -> `src/notebooks` (pancreatic context) -> `src/backend` + Qdrant -> `src/notebooks` (procedure DB) -> `src/runs` -> `src/evaluations`.
 `src/MimicEnums` and `src/codes` regeneration are optional maintenance steps and are not required for standard runs.
 
-1. Build diagnosis datasets
+1. Build diagnosis datasets (read first: `src/dataset/README.md`)
 
 ```bash
 uv run --project src python src/dataset/make_dataset.py
@@ -99,7 +123,7 @@ unset MIRA_MAX_DIAGNOSES
 uv run --project src python src/dataset/make_dataset.py
 ```
 
-2. Prepare pancreatic cancer context resource (required when running pancreatic cancer cases)
+2. Prepare pancreatic cancer context resource (required when running pancreatic cancer cases; read first: `src/notebooks/README.md`)
 
 Requires `OPENAI_API_KEY` and diagnosis datasets from Step 1.
 
@@ -110,19 +134,19 @@ src/notebooks/extract_pancreatic_cancer_info.ipynb
 
 This notebook writes directly to `src/resources/pancreatic_cancer_info.json`.
 
-3. (Optional) Regenerate MIMIC enums/code maps
+3. (Optional) Regenerate MIMIC enums/code maps (read first: `src/MimicEnums/README.md` and `src/codes/README.md`)
 
 Not required for standard runs. The generated enums are already versioned under `src/MimicEnums/`.
 Use `src/MimicEnums/make_enums_and_code_maps.py` only when intentionally refreshing enum/code-map artifacts.
 Medication code-map regeneration is separate and optional; see `src/codes/README.md`.
 
-4. Start local FHIR backend
+4. Start local FHIR backend (read first: `src/backend/README.md`)
 
 ```bash
 docker compose -f src/backend/hapi-fhir-server/docker-compose.yml up -d
 ```
 
-5. Start Qdrant (local)
+5. Start Qdrant (local; read first: `src/notebooks/README.md` and `src/raw/README.md`)
 
 ```bash
 docker run -p 6333:6333 -p 6334:6334 \
@@ -131,7 +155,7 @@ docker run -p 6333:6333 -p 6334:6334 \
   qdrant/qdrant
 ```
 
-6. Build procedure vector DB
+6. Build procedure vector DB (read first: `src/notebooks/README.md`)
 
 Run this after Step 5 so Qdrant is available.
 
@@ -140,7 +164,7 @@ Run this after Step 5 so Qdrant is available.
 src/notebooks/build_procedure_db.ipynb
 ```
 
-7. Run simulations
+7. Run simulations (read first: `src/runs/README.md`)
 
 - Baseline: `src/runs/run_simulation.ipynb` (uses `src/runs/run.py`)
 - Bias: `src/runs/run_simulation_bias.ipynb` (uses `src/runs/run.py` + `src/runs/run_with_sex_bias.py`)
@@ -152,7 +176,7 @@ src/notebooks/build_procedure_db.ipynb
 
 Run outputs are written under `src/raw/evaluable_outputs/`.
 
-8. Run evaluations
+8. Run evaluations (read first: `src/evaluations/README.md`)
 
 Follow `src/evaluations/README.md`:
 
