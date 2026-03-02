@@ -8,7 +8,14 @@ Repository for reproducing the experiments for the MIRA manuscript.
 
 ## Environment Setup
 
-From `HospitalAgent/`:
+From the repository root (for example `.../MIRA/`, not the parent directory):
+
+```bash
+git clone https://github.com/Dyke-F/MIRA.git
+cd MIRA
+```
+
+Run setup only from `MIRA/`:
 
 ```bash
 python3.12 -m venv src/.venv
@@ -37,7 +44,7 @@ src/
 
 ## Reproduction Flow
 
-From `HospitalAgent/`:
+From the repository root (`MIRA/`):
 
 Canonical package order for end-to-end reproduction:
 `src/dataset` -> `src/notebooks` (pancreatic context) -> `src/backend` + Qdrant -> `src/notebooks` (procedure DB) -> `src/runs` -> `src/evaluations`.
