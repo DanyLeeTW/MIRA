@@ -1,0 +1,34 @@
+,route
+0,Intrajejunal
+1,Oral
+2,Intravenous
+3,Intra-arterial
+4,Intralymphatic
+5,Ocular
+6,Subcutaneous
+7,Jejunostomy
+8,Gastrostomy
+9,Respiratory tract
+10,Extracorporeal hemodialysis
+11,Intracerebroventricular
+12,Intravitreal
+13,Otic
+14,Topical
+15,Intralesional
+16,Transdermal
+17,Per vagina
+18,Intrapericardial
+19,Sublingual
+20,Nasogastric
+21,Gastroenteral
+22,Intrapleural
+23,Intrathecal
+24,Buccal
+25,Orogastric
+26,Intraosseous
+27,Intradermal
+28,Nasal
+29,Per rectum
+30,Perineural
+31,Intracatheter instillation
+32,Intramuscular
