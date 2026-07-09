@@ -1,0 +1,32 @@
+---
+source_file: "src/fhir_handlers.py"
+type: "code"
+community: "FHIR Request Handlers"
+location: "L84"
+tags:
+  - graphify/code
+  - graphify/INFERRED
+  - community/FHIR_Request_Handlers
+---
+
+# FHIRResourceHandler
+
+## Connections
+- [[._fetch_result_impl()]] - `method` [EXTRACTED]
+- [[._generate_result_resource_impl()]] - `method` [EXTRACTED]
+- [[.fetch_result()]] - `method` [EXTRACTED]
+- [[.generate_result_resource()]] - `method` [EXTRACTED]
+- [[.to_fhir()]] - `method` [EXTRACTED]
+- [[ABC]] - `inherits` [EXTRACTED]
+- [[LabRequestFHIR]] - `uses` [INFERRED]
+- [[MedicationRequestFHIR]] - `uses` [INFERRED]
+- [[MicrobiologyRequestFHIR]] - `uses` [INFERRED]
+- [[PhysicalExamRequestFHIR]] - `uses` [INFERRED]
+- [[ProcedureRequestFHIR]] - `uses` [INFERRED]
+- [[ProcedureSearch]] - `uses` [INFERRED]
+- [[Qdrant_Collection]] - `uses` [INFERRED]
+- [[RadiologyRequestFHIR]] - `uses` [INFERRED]
+- [[UrineRequestFHIR]] - `uses` [INFERRED]
+- [[VitalSigns]] - `uses` [INFERRED]
+
+#graphify/code #graphify/INFERRED #community/FHIR_Request_Handlers

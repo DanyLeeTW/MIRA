@@ -46,19 +46,19 @@ MAX_EVAL_PARALLEL_SIZE: int | None = (
 # med assistant settings
 # note: these models are outdated, and should no longer be used;
 # we leave them here as they were used in our study
-MEDICAL_ASSISTANT_MODEL: str = "gpt-4o"
+MEDICAL_ASSISTANT_MODEL: str = "glm-5.2"
 MEDICAL_ASSISTANT_TEMPERATURE: float = 0.05
 
 # patient assistant settings
 # note: these models are outdated, and should no longer be used;
 # we leave them here as they were used in our study
-PATIENT_ASSISTANT_MODEL: str = "gpt-4o"
+PATIENT_ASSISTANT_MODEL: str = "glm-5.2"
 PATIENT_ASSISTANT_TEMPERATURE: float = 0.05
 
 # reasoning model
 # note: these models are outdated, and should no longer be used;
 # we leave them here as they were used in our study
-REASONING_MODEL: str = "o1"
+REASONING_MODEL: str = "glm-5.2"
 
 
 SELECTED_HADM_IDS: Dict[str, List[int]] = {

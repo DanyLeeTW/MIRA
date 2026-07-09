@@ -1,5 +1,6 @@
 import asyncio
 import json
+import os
 import threading
 from dataclasses import dataclass
 from typing import Any, Callable, Dict, List, Literal, Optional
@@ -10,6 +11,16 @@ from config import EVALUATION_MODE
 from openai import OpenAI
 from pydantic import BaseModel, Field, model_validator
 from tenacity import retry, wait_exponential
+
+
+# Custom OpenAI client configuration
+def _create_openai_client() -> OpenAI:
+    """Create an OpenAI client with custom base URL if configured."""
+    base_url = os.getenv("OPENAI_BASE_URL")
+    api_key = os.getenv("OPENAI_API_KEY")
+    if base_url:
+        return OpenAI(base_url=base_url, api_key=api_key or "")
+    return OpenAI(api_key=api_key or "")
 
 # from termcolor import colored
 
@@ -502,3 +513,12 @@ def format_conversation(messages):
     # print(colored(formatted_conversation, "yellow"))
     # print(colored(" * " * 100, "red"))
     return formatted_conversation
+
+
+__all__ = [
+    "MedAssistant",
+    "PatientAssistant",
+    "PatientContext",
+    "_create_openai_client",
+    "Response",
+]

@@ -12,7 +12,12 @@ from typing import Callable, Dict, List, Optional, Tuple
 
 import numpy as np
 import pandas as pd
-from assistants import MedAssistant, PatientAssistant, PatientContext
+from assistants import (
+    MedAssistant,
+    PatientAssistant,
+    PatientContext,
+    _create_openai_client,
+)
 from backend.fhir_client import post_fhir_resource
 
 # from backend.fhir_client import base_url, headersList, post_fhir_resource, session
@@ -268,7 +273,7 @@ def prepare_patient(
 
     # Initialize medical assistant
     medical_assistant = MedAssistant(
-        client=OpenAI(),
+        client=_create_openai_client(),
         name="Medical Doctor",
         model=medical_assistant_model,
         instructions=medical_system_prompt,
@@ -298,7 +303,7 @@ def prepare_patient(
 
     # Initialize patient assistant
     patient_assistant = PatientAssistant(
-        client=OpenAI(),
+        client=_create_openai_client(),
         name="Patient",
         model=patient_assistant_model,
         instructions=patient_instructions,
