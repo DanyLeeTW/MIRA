@@ -1,0 +1,15 @@
+{
+  "hadm_id": 22502504,
+  "subject_id": 10014354,
+  "gender": "M",
+  "age": 60,
+  "admission_type": "EU OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 60 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EU OBSERVATION\n\nRecent Lab Results:\nRed Blood Cells: 3.51 m/uL\nSodium: 132.0 mEq/L\nAnion Gap: 11.0 mEq/L\nMagnesium: 2.1 mg/dL\nH: 0.0 nan\nUrea Nitrogen: 10.0 mg/dL\nPotassium: 4.0 mEq/L\nChloride: 96.0 mEq/L\nCreatine Kinase, MB Isoenzyme: 2.0 ng/mL\nGlucose: 101.0 mg/dL\n\nCurrent Medications:\nAspirin 81mg\nAspirin 325mg\nAtorvastatin 80mg\nClopidogrel 75mg\nClopidogrel 75mg\nGlucagon 1mg\nAcetaminophen 500mg\nD5W 250mL\nInsulin 56UNIT\nInsulin 56UNIT\n",
+  "diagnosis_icd": "R0789",
+  "diagnosis_name": "Other chest pain",
+  "lab_events_count": 26,
+  "microbiology_count": 0,
+  "medication_count": 16,
+  "procedure_codes": []
+}

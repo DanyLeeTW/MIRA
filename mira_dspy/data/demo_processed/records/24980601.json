@@ -1,0 +1,15 @@
+{
+  "hadm_id": 24980601,
+  "subject_id": 10014354,
+  "gender": "M",
+  "age": 60,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 60 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nVitamin B12: 513.0 pg/mL\nAbsolute Lymphocyte Count: 2.84 K/uL\nEosinophils: 3.0 %\nAbsolute Eosinophil Count: 0.26 K/uL\nAtypical Lymphocytes: 1.0 %\nMonocytes: 10.0 %\nLymphocytes: 32.0 %\nAbsolute Neutrophil Count: 4.47 K/uL\nThyroid Stimulating Hormone: 28.0 uIU/mL\nThyroxine (T4), Free: 0.7 ng/dL\n\nCurrent Medications:\nSucralfate 1gm\nHYDROmorphone (Dilaudid) 2mg\nLORazepam 0.5mg\nRamelteon 8mg\nRamelteon 8mg\nSarna Lotion 1Appl\nAtorvastatin 40mg\nFenofibrate 48mg\nFurosemide 20mg\nFurosemide 20mg\n",
+  "diagnosis_icd": "F447",
+  "diagnosis_name": "Conversion disorder with mixed symptom presentation",
+  "lab_events_count": 152,
+  "microbiology_count": 0,
+  "medication_count": 76,
+  "procedure_codes": []
+}

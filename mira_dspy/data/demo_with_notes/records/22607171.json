@@ -1,0 +1,19 @@
+{
+  "hadm_id": 22607171,
+  "subject_id": 10015860,
+  "gender": "M",
+  "age": 53,
+  "admission_type": "EU OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "E1165",
+  "diagnosis_name": "Type 2 diabetes mellitus with hyperglycemia",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10015860\nAdmission ID: 22607171\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 86,
+  "microbiology_count": 0,
+  "medication_count": 18,
+  "procedure_codes": []
+}

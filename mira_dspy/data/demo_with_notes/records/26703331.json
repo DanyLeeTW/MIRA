@@ -1,0 +1,22 @@
+{
+  "hadm_id": 26703331,
+  "subject_id": 10019003,
+  "gender": "F",
+  "age": 65,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "J9601",
+  "diagnosis_name": "Acute respiratory failure with hypoxia",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10019003\nAdmission ID: 26703331\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 385,
+  "microbiology_count": 1,
+  "medication_count": 35,
+  "procedure_codes": [
+    "D7021ZZ",
+    "02HV33Z"
+  ]
+}

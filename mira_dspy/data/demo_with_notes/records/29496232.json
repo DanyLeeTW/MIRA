@@ -1,0 +1,22 @@
+{
+  "hadm_id": 29496232,
+  "subject_id": 10005348,
+  "gender": "M",
+  "age": 76,
+  "admission_type": "ELECTIVE",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "1625",
+  "diagnosis_name": "Malignant neoplasm of lower lobe, bronchus or lung",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10005348\nAdmission ID: 29496232\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 188,
+  "microbiology_count": 11,
+  "medication_count": 51,
+  "procedure_codes": [
+    "3241",
+    "403"
+  ]
+}

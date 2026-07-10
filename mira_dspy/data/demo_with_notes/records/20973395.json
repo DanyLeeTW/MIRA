@@ -1,0 +1,22 @@
+{
+  "hadm_id": 20973395,
+  "subject_id": 10016810,
+  "gender": "F",
+  "age": 66,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "5400",
+  "diagnosis_name": "Acute appendicitis with generalized peritonitis",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10016810\nAdmission ID: 20973395\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 156,
+  "microbiology_count": 1,
+  "medication_count": 89,
+  "procedure_codes": [
+    "4572",
+    "4709"
+  ]
+}

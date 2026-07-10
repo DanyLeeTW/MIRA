@@ -1,0 +1,21 @@
+{
+  "hadm_id": 26486158,
+  "subject_id": 10014354,
+  "gender": "M",
+  "age": 60,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "Z5111",
+  "diagnosis_name": "Encounter for antineoplastic chemotherapy",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10014354\nAdmission ID: 26486158\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 2538,
+  "microbiology_count": 9,
+  "medication_count": 116,
+  "procedure_codes": [
+    "3E04305"
+  ]
+}

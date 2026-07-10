@@ -1,0 +1,17 @@
+{
+  "hadm_id": 20790339,
+  "subject_id": 10015860,
+  "gender": "M",
+  "age": 53,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 53 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nGlucose: 314.0 mg/dL\nHematocrit: 30.3 %\nMCH: 28.7 pg\nMonocytes: 2.8 %\nRDW: 14.0 %\nBasophils: 0.7 %\nEosinophils: 0.6 %\nRed Blood Cells: 3.67 m/uL\nNeutrophils: 92.2 %\nWhite Blood Cells: 11.9 K/uL\n\nCurrent Medications:\nInsulin 0UNIT\nInsulin 0UNIT\nInsulin 0UNIT\nAspirin 81mg\nAspirin 81mg\nOndansetron 4mg\nAtorvastatin 40mg\nAtorvastatin 40mg\nGlucagon 1mg\nGlucagon 1mg\n",
+  "diagnosis_icd": "0389",
+  "diagnosis_name": "Unspecified septicemia",
+  "lab_events_count": 139,
+  "microbiology_count": 8,
+  "medication_count": 38,
+  "procedure_codes": [
+    "8622"
+  ]
+}

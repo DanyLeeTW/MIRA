@@ -1,0 +1,23 @@
+{
+  "hadm_id": 28335091,
+  "subject_id": 10014354,
+  "gender": "M",
+  "age": 60,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "I214",
+  "diagnosis_name": "Non-ST elevation (NSTEMI) myocardial infarction",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10014354\nAdmission ID: 28335091\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 62,
+  "microbiology_count": 0,
+  "medication_count": 48,
+  "procedure_codes": [
+    "027134Z",
+    "B211YZZ",
+    "B211YZZ"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "hadm_id": 20437651,
+  "subject_id": 10026255,
+  "gender": "M",
+  "age": 66,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "8600",
+  "diagnosis_name": "Traumatic pneumothorax without mention of open wound into thorax",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10026255\nAdmission ID: 20437651\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 131,
+  "microbiology_count": 2,
+  "medication_count": 35,
+  "procedure_codes": [
+    "3409"
+  ]
+}

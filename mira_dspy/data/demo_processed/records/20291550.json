@@ -1,0 +1,17 @@
+{
+  "hadm_id": 20291550,
+  "subject_id": 10008454,
+  "gender": "F",
+  "age": 26,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 26 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nHemoglobin: 11.1 g/dL\nGlucose: 226.0 mg/dL\nFree Calcium: 1.17 mmol/L\nPotassium, Whole Blood: 4.4 mEq/L\nHematocrit, Calculated: 33.0 %\nLactate: 4.5 mmol/L\nSodium, Whole Blood: 138.0 mEq/L\npCO2: 48.0 mm Hg\npH: 7.26 units\npO2: 86.0 mm Hg\n\nCurrent Medications:\nInsulin 0UNIT\nInsulin 0UNIT\nBag 50mL\nBag 50mL\nBag 50-100mL\nBag 50-100mL\nWarfarin 5mg\nAspirin 325mg\nGlucagon 1mg\nHeparin 5000UNIT\n",
+  "diagnosis_icd": "82111",
+  "diagnosis_name": "Open fracture of shaft of femur",
+  "lab_events_count": 287,
+  "microbiology_count": 8,
+  "medication_count": 139,
+  "procedure_codes": [
+    "7915"
+  ]
+}

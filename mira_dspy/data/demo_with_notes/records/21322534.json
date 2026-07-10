@@ -1,0 +1,21 @@
+{
+  "hadm_id": 21322534,
+  "subject_id": 10010471,
+  "gender": "F",
+  "age": 89,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "I4891",
+  "diagnosis_name": "Unspecified atrial fibrillation",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10010471\nAdmission ID: 21322534\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 92,
+  "microbiology_count": 0,
+  "medication_count": 27,
+  "procedure_codes": [
+    "5A1D60Z"
+  ]
+}

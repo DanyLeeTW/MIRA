@@ -1,0 +1,19 @@
+{
+  "hadm_id": 26467376,
+  "subject_id": 10003400,
+  "gender": "F",
+  "age": 72,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "42731",
+  "diagnosis_name": "Atrial fibrillation",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10003400\nAdmission ID: 26467376\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 204,
+  "microbiology_count": 4,
+  "medication_count": 41,
+  "procedure_codes": []
+}

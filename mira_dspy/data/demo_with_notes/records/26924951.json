@@ -1,0 +1,22 @@
+{
+  "hadm_id": 26924951,
+  "subject_id": 10039831,
+  "gender": "F",
+  "age": 57,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "1962",
+  "diagnosis_name": "Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10039831\nAdmission ID: 26924951\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 321,
+  "microbiology_count": 1,
+  "medication_count": 66,
+  "procedure_codes": [
+    "3956",
+    "403"
+  ]
+}

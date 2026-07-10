@@ -1,0 +1,22 @@
+{
+  "hadm_id": 24159665,
+  "subject_id": 10006580,
+  "gender": "F",
+  "age": 63,
+  "admission_type": "ELECTIVE",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "2397",
+  "diagnosis_name": "Neoplasm of unspecified nature of endocrine glands and other parts of nervous system",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10006580\nAdmission ID: 24159665\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 67,
+  "microbiology_count": 1,
+  "medication_count": 50,
+  "procedure_codes": [
+    "3989",
+    "3981"
+  ]
+}

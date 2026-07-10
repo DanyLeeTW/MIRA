@@ -1,0 +1,18 @@
+{
+  "hadm_id": 24928679,
+  "subject_id": 10039708,
+  "gender": "F",
+  "age": 46,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 46 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nTroponin T: 0.06 ng/mL\nI: 1.0 nan\nH: 6.0 nan\nL: 8.0 nan\nMCHC: 31.4 g/dL\nWhite Blood Cells: 7.7 K/uL\nMCV: 104.0 fL\nHematocrit: 21.0 %\nRDW-SD: 80.9 fL\nRed Blood Cells: 2.02 m/uL\n\nCurrent Medications:\nMultivitamins 1TAB\nVial 1VIAL\nVial 1VIAL\nVial 1VIAL\nSucralfate 1gm\nSucralfate 1gm\nFoLIC Acid 1mg\nNicotine Polacrilex 2mg\nCefTRIAXone 1gm\nCefTRIAXone 1gm\n",
+  "diagnosis_icd": "K7031",
+  "diagnosis_name": "Alcoholic cirrhosis of liver with ascites",
+  "lab_events_count": 170,
+  "microbiology_count": 0,
+  "medication_count": 37,
+  "procedure_codes": [
+    "5A1D70Z",
+    "06L38CZ"
+  ]
+}

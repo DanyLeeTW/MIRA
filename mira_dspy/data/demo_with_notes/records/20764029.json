@@ -1,0 +1,19 @@
+{
+  "hadm_id": 20764029,
+  "subject_id": 10029484,
+  "gender": "M",
+  "age": 64,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "0088",
+  "diagnosis_name": "Intestinal infection due to other organism, not elsewhere classified",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10029484\nAdmission ID: 20764029\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 131,
+  "microbiology_count": 4,
+  "medication_count": 49,
+  "procedure_codes": []
+}

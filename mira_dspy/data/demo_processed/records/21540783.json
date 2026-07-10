@@ -1,0 +1,18 @@
+{
+  "hadm_id": 21540783,
+  "subject_id": 10019172,
+  "gender": "F",
+  "age": 63,
+  "admission_type": "ELECTIVE",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 63 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: ELECTIVE\n\nRecent Lab Results:\npH: 5.0 units\nSpecific Gravity: 1.025  \nPTT: 21.9 sec\nINR(PT): 1.0 nan\n% Hemoglobin A1c: 5.8 %\neAG: 120.0 mg/dL\nHematocrit: 41.0 %\nHemoglobin: 14.0 g/dL\nRDW: 14.3 %\nMCV: 86.0 fL\n\nCurrent Medications:\nMetoprolol Tartrate 50mg\nCiprofloxacin HCl 500mg\nDocusate Sodium 100mg\nSenna 1TAB\nMupirocin Nasal Ointment 2% 1Appl\nClindamycin 600mg\nHeparin Sodium 25,000UNIT\nHeparin Sodium 25,000UNIT\nHeparin Sodium 25,000UNIT\nInfluenza Virus Vaccine 0.5mL\n",
+  "diagnosis_icd": "4241",
+  "diagnosis_name": "Aortic valve disorders",
+  "lab_events_count": 118,
+  "microbiology_count": 4,
+  "medication_count": 20,
+  "procedure_codes": [
+    "244",
+    "2309"
+  ]
+}

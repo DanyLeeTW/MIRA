@@ -1,0 +1,21 @@
+{
+  "hadm_id": 21606243,
+  "subject_id": 10031404,
+  "gender": "F",
+  "age": 82,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "I308",
+  "diagnosis_name": "Other forms of acute pericarditis",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10031404\nAdmission ID: 21606243\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 57,
+  "microbiology_count": 0,
+  "medication_count": 34,
+  "procedure_codes": [
+    "0W9D3ZZ"
+  ]
+}

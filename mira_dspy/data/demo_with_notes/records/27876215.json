@@ -1,0 +1,22 @@
+{
+  "hadm_id": 27876215,
+  "subject_id": 10040025,
+  "gender": "F",
+  "age": 64,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "K5791",
+  "diagnosis_name": "Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10040025\nAdmission ID: 27876215\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 172,
+  "microbiology_count": 0,
+  "medication_count": 55,
+  "procedure_codes": [
+    "30283B1",
+    "02HV33Z"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "hadm_id": 26134779,
+  "subject_id": 10005866,
+  "gender": "M",
+  "age": 57,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "K56600",
+  "diagnosis_name": "Partial intestinal obstruction, unspecified as to cause",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10005866\nAdmission ID: 26134779\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 308,
+  "microbiology_count": 3,
+  "medication_count": 43,
+  "procedure_codes": [
+    "0W9G3ZZ"
+  ]
+}

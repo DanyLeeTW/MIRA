@@ -1,0 +1,24 @@
+{
+  "hadm_id": 28477280,
+  "subject_id": 10031757,
+  "gender": "F",
+  "age": 67,
+  "admission_type": "DIRECT EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "1551",
+  "diagnosis_name": "Malignant neoplasm of intrahepatic bile ducts",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10031757\nAdmission ID: 28477280\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 731,
+  "microbiology_count": 48,
+  "medication_count": 133,
+  "procedure_codes": [
+    "8842",
+    "3979",
+    "8847",
+    "3897"
+  ]
+}

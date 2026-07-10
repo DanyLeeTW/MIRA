@@ -1,0 +1,19 @@
+{
+  "hadm_id": 29858644,
+  "subject_id": 10023117,
+  "gender": "M",
+  "age": 53,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "42823",
+  "diagnosis_name": "Acute on chronic systolic heart failure",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10023117\nAdmission ID: 29858644\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 97,
+  "microbiology_count": 0,
+  "medication_count": 27,
+  "procedure_codes": []
+}

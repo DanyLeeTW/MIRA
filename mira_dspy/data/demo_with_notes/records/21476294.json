@@ -1,0 +1,23 @@
+{
+  "hadm_id": 21476294,
+  "subject_id": 10035631,
+  "gender": "M",
+  "age": 63,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "C92Z2",
+  "diagnosis_name": "Other myeloid leukemia, in relapse",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10035631\nAdmission ID: 21476294\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 1872,
+  "microbiology_count": 11,
+  "medication_count": 143,
+  "procedure_codes": [
+    "02HV33Z",
+    "3E04305",
+    "07DR3ZX"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "hadm_id": 22950920,
+  "subject_id": 10010867,
+  "gender": "F",
+  "age": 28,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 28 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nPlatelet Count: 295.0 K/uL\nRed Blood Cells: 4.27 m/uL\nRDW: 13.9 %\nMCHC: 30.2 g/dL\nHematocrit: 38.1 %\nHemoglobin: 11.5 g/dL\nMCH: 26.9 pg\nMCV: 89.0 fL\nWhite Blood Cells: 6.3 K/uL\nUrea Nitrogen: 15.0 mg/dL\n\nCurrent Medications:\nDiazepam 5mg\nOndansetron 4mg\nOxycoDONE (Immediate Release)  5mg\nCeFAZolin 1g\nHeparin 5000UNIT\nMorphine SR (MS Contin) 30mg\nMorphine SR (MS Contin) 30mg\nBisacodyl 10mg\nDocusate Sodium 100mg\nGabapentin 300mg\n",
+  "diagnosis_icd": "S22059A",
+  "diagnosis_name": "Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture",
+  "lab_events_count": 95,
+  "microbiology_count": 1,
+  "medication_count": 25,
+  "procedure_codes": [
+    "0RG8071"
+  ]
+}

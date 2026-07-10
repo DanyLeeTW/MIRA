@@ -1,0 +1,23 @@
+{
+  "hadm_id": 28506150,
+  "subject_id": 10016742,
+  "gender": "F",
+  "age": 58,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "R4182",
+  "diagnosis_name": "Altered mental status, unspecified",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10016742\nAdmission ID: 28506150\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 113,
+  "microbiology_count": 26,
+  "medication_count": 50,
+  "procedure_codes": [
+    "0BCB8ZZ",
+    "5A1945Z",
+    "0BCF8ZZ"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "hadm_id": 29642388,
+  "subject_id": 10022281,
+  "gender": "M",
+  "age": 84,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "44102",
+  "diagnosis_name": "Dissection of aorta, abdominal",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10022281\nAdmission ID: 29642388\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 52,
+  "microbiology_count": 1,
+  "medication_count": 45,
+  "procedure_codes": [
+    "3891"
+  ]
+}

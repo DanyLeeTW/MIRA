@@ -1,0 +1,24 @@
+{
+  "hadm_id": 20364112,
+  "subject_id": 10005866,
+  "gender": "M",
+  "age": 57,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 57 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nH: 5.0 nan\nRed Blood Cells: 2.72 m/uL\nAsparate Aminotransferase (AST): 33.0 IU/L\nSodium: 140.0 mEq/L\nI: 2.0 nan\nPotassium: 4.2 mEq/L\nGlucose: 103.0 mg/dL\nL: 6.0 nan\nAlkaline Phosphatase: 62.0 IU/L\nAnion Gap: 13.0 mEq/L\n\nCurrent Medications:\nMultivitamins 1TAB\nBag 1BAG\nBag 1BAG\nBag 1BAG\nBag 1BAG\nBag 1BAG\nSucralfate 1gm\nOxyCODONE (Immediate Release) 5mg\nSulfameth/Trimethoprim DS 1TAB\nSulfameth/Trimethoprim SS 1TAB\n",
+  "diagnosis_icd": "K265",
+  "diagnosis_name": "Chronic or unspecified duodenal ulcer with perforation",
+  "lab_events_count": 977,
+  "microbiology_count": 4,
+  "medication_count": 145,
+  "procedure_codes": [
+    "0D963ZX",
+    "0WJP0ZZ",
+    "0DH98UZ",
+    "02HV33Z",
+    "3E0G76Z",
+    "0DJ08ZZ",
+    "0D9630Z",
+    "3E0336Z"
+  ]
+}

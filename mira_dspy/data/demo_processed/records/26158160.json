@@ -1,0 +1,17 @@
+{
+  "hadm_id": 26158160,
+  "subject_id": 10005866,
+  "gender": "M",
+  "age": 57,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 57 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nAlbumin: 3.0 g/dL\nPT: 15.3 sec\nPTT: 34.5 sec\nSodium: 123.0 mEq/L\nAlkaline Phosphatase: 67.0 IU/L\nChloride: 89.0 mEq/L\nAlanine Aminotransferase (ALT): 17.0 IU/L\nUrea Nitrogen: 16.0 mg/dL\nBilirubin, Total: 2.6 mg/dL\nBicarbonate: 23.0 mEq/L\n\nCurrent Medications:\nVial 1VIAL\nBag 1BAG\nLidocaine Jelly 2% (Urojet) 1Appl\nLidocaine Jelly 2% (Urojet) 1Appl\nMultivitamins W/minerals 1TAB\nOxycoDONE (Immediate Release)  5mg\nAlbumin 25% (12.5g / 50mL) 12.5g\nHeparin 5000UNIT\nMagnesium Sulfate 2gm\nPantoprazole 40mg\n",
+  "diagnosis_icd": "5531",
+  "diagnosis_name": "Umbilical hernia without mention of obstruction or gangrene",
+  "lab_events_count": 144,
+  "microbiology_count": 0,
+  "medication_count": 27,
+  "procedure_codes": [
+    "5349"
+  ]
+}

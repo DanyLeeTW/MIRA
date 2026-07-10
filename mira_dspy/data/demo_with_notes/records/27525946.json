@@ -1,0 +1,28 @@
+{
+  "hadm_id": 27525946,
+  "subject_id": 10019003,
+  "gender": "F",
+  "age": 65,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "K264",
+  "diagnosis_name": "Chronic or unspecified duodenal ulcer with hemorrhage",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10019003\nAdmission ID: 27525946\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 444,
+  "microbiology_count": 7,
+  "medication_count": 98,
+  "procedure_codes": [
+    "04L33DZ",
+    "0D598ZZ",
+    "0DQ98ZZ",
+    "B548ZZA",
+    "0DJ08ZZ",
+    "04L23DZ",
+    "3E0G8GC",
+    "02HV33Z"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "hadm_id": 22950920,
+  "subject_id": 10010867,
+  "gender": "F",
+  "age": 28,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "S22059A",
+  "diagnosis_name": "Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10010867\nAdmission ID: 22950920\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 95,
+  "microbiology_count": 1,
+  "medication_count": 25,
+  "procedure_codes": [
+    "0RG8071"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "hadm_id": 29374560,
+  "subject_id": 10016150,
+  "gender": "M",
+  "age": 69,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "41402",
+  "diagnosis_name": "Coronary atherosclerosis of autologous vein bypass graft",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10016150\nAdmission ID: 29374560\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 135,
+  "microbiology_count": 27,
+  "medication_count": 55,
+  "procedure_codes": [
+    "8853",
+    "8856",
+    "3722"
+  ]
+}

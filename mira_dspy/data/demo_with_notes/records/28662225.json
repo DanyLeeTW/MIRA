@@ -1,0 +1,30 @@
+{
+  "hadm_id": 28662225,
+  "subject_id": 10002428,
+  "gender": "F",
+  "age": 80,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "0383",
+  "diagnosis_name": "Septicemia due to anaerobes",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10002428\nAdmission ID: 28662225\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 794,
+  "microbiology_count": 21,
+  "medication_count": 142,
+  "procedure_codes": [
+    "9915",
+    "3893",
+    "3324",
+    "3409",
+    "9671",
+    "3491",
+    "9604",
+    "3893",
+    "966",
+    "3891"
+  ]
+}

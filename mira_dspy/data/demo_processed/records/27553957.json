@@ -1,0 +1,15 @@
+{
+  "hadm_id": 27553957,
+  "subject_id": 10040025,
+  "gender": "F",
+  "age": 64,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 64 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nMCV: 97.0 fL\nPT: 20.7 sec\nINR(PT): 1.9 nan\nRDW: 13.9 %\nMCH: 31.6 pg\nWhite Blood Cells: 8.2 K/uL\nMCHC: 32.6 %\nAnion Gap: 17.0 mEq/L\nHemoglobin: 11.2 g/dL\nPlatelet Count: 215.0 K/uL\n\nCurrent Medications:\nInsulin 0UNIT\nAspirin 81mg\nLorazepam 0.5mg\nWarfarin 1mg\nWarfarin 2mg\nWarfarin 2mg\nWarfarin 2mg\nWarfarin 5mg\nDiltiazem 30mg\nDiltiazem 30mg\n",
+  "diagnosis_icd": "42731",
+  "diagnosis_name": "Atrial fibrillation",
+  "lab_events_count": 177,
+  "microbiology_count": 0,
+  "medication_count": 78,
+  "procedure_codes": []
+}

@@ -1,0 +1,23 @@
+{
+  "hadm_id": 25826145,
+  "subject_id": 10020740,
+  "gender": "M",
+  "age": 56,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "5770",
+  "diagnosis_name": "Acute pancreatitis",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10020740\nAdmission ID: 25826145\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 61,
+  "microbiology_count": 1,
+  "medication_count": 48,
+  "procedure_codes": [
+    "5343",
+    "5451",
+    "5124"
+  ]
+}

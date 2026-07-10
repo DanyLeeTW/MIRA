@@ -1,0 +1,15 @@
+{
+  "hadm_id": 20611796,
+  "subject_id": 10019385,
+  "gender": "M",
+  "age": 44,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 44 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nWhite Blood Cells: 10.2 K/uL\nAbsolute Monocyte Count: 0.92 K/uL\nBasophils: 0.0 %\nAtypical Lymphocytes: 0.0 %\nAbsolute Lymphocyte Count: 2.86 K/uL\nMonocytes: 9.0 %\nMyelocytes: 0.0 %\nLymphocytes: 28.0 %\nBands: 0.0 %\nAbsolute Basophil Count: 0.0 K/uL\n\nCurrent Medications:\nAspirin 81mg\nHYDROmorphone (Dilaudid) 2mg\nClopidogrel 75mg\nFexofenadine 60mg\nHeparin 5000UNIT\nLidocaine 5% Patch 1PTCH\nMetoprolol Tartrate 50mg\nMetoprolol Tartrate 50mg\nNitroglycerin SL 0.3mg\nDocusate Sodium 100mg\n",
+  "diagnosis_icd": "I25119",
+  "diagnosis_name": "Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris",
+  "lab_events_count": 113,
+  "microbiology_count": 0,
+  "medication_count": 21,
+  "procedure_codes": []
+}

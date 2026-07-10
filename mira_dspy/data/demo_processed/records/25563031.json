@@ -1,0 +1,19 @@
+{
+  "hadm_id": 25563031,
+  "subject_id": 10001725,
+  "gender": "F",
+  "age": 46,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 46 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nRDW: 11.8 %\nRed Blood Cells: 4.33 m/uL\nHematocrit: 39.1 %\nMCV: 90.0 fL\nMCHC: 35.6 %\nWhite Blood Cells: 17.0 K/uL\nMCH: 32.2 pg\nMonocytes: 0.7 %\nLymphocytes: 4.3 %\nEosinophils: 0.1 %\n\nCurrent Medications:\nZolpidem Tartrate 5mg\nZolpidem Tartrate 5mg\nBag 50mL\nLorazepam 1mg\nLorazepam 1mg\nLorazepam 1mg\nLorazepam 1mg\nLorazepam 0.5mg\nLorazepam 0.5mg\nOndansetron 4mg\n",
+  "diagnosis_icd": "78829",
+  "diagnosis_name": "Other specified retention of urine",
+  "lab_events_count": 102,
+  "microbiology_count": 11,
+  "medication_count": 70,
+  "procedure_codes": [
+    "7094",
+    "7055",
+    "8696"
+  ]
+}

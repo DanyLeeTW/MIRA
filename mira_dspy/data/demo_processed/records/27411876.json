@@ -1,0 +1,23 @@
+{
+  "hadm_id": 27411876,
+  "subject_id": 10004733,
+  "gender": "M",
+  "age": 51,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 51 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: URGENT\n\nRecent Lab Results:\nHematocrit: 30.9 %\nMonocytes: 5.3 %\nHemoglobin: 10.0 g/dL\nLymphocytes: 8.8 %\nBasophils: 0.3 %\nMCHC: 32.3 %\nRDW: 16.2 %\nNeutrophils: 81.8 %\nMCV: 92.0 fL\nPTT: 34.1 sec\n\nCurrent Medications:\nAmlodipine 5mg\nAspirin 81mg\nAspirin 81mg\nAspirin 81mg\nBag 1BAG\nCloniDINE 0.2mg\nLidocaine Jelly 2% (Urojet) 1Appl\nLisinopril 5mg\nLorazepam 0.5mg\nCaptopril 25mg\n",
+  "diagnosis_icd": "34839",
+  "diagnosis_name": "Other encephalopathy",
+  "lab_events_count": 729,
+  "microbiology_count": 31,
+  "medication_count": 184,
+  "procedure_codes": [
+    "3322",
+    "4523",
+    "9671",
+    "5523",
+    "966",
+    "3897",
+    "4513"
+  ]
+}

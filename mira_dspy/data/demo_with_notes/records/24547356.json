@@ -1,0 +1,24 @@
+{
+  "hadm_id": 24547356,
+  "subject_id": 10026354,
+  "gender": "M",
+  "age": 34,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "S0262XA",
+  "diagnosis_name": "Fracture of subcondylar process of mandible, initial encounter for closed fracture",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10026354\nAdmission ID: 24547356\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 153,
+  "microbiology_count": 0,
+  "medication_count": 60,
+  "procedure_codes": [
+    "0NST04Z",
+    "0NSS35Z",
+    "0NSV35Z",
+    "03QY0ZZ"
+  ]
+}

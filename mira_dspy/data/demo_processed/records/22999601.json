@@ -1,0 +1,15 @@
+{
+  "hadm_id": 22999601,
+  "subject_id": 10039708,
+  "gender": "F",
+  "age": 46,
+  "admission_type": "DIRECT OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 46 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: DIRECT OBSERVATION\n\nRecent Lab Results:\nNo lab results available.\n\nCurrent Medications:\nNo current medications.\n",
+  "diagnosis_icd": "T8242XA",
+  "diagnosis_name": "Displacement of vascular dialysis catheter, initial encounter",
+  "lab_events_count": 0,
+  "microbiology_count": 0,
+  "medication_count": 0,
+  "procedure_codes": []
+}

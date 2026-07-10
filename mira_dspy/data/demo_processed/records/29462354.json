@@ -1,0 +1,21 @@
+{
+  "hadm_id": 29462354,
+  "subject_id": 10035631,
+  "gender": "M",
+  "age": 63,
+  "admission_type": "DIRECT EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 63 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: DIRECT EMER.\n\nRecent Lab Results:\nBands: 0.0 %\nAlanine Aminotransferase (ALT): 41.0 IU/L\nSodium: 139.0 mEq/L\nBicarbonate: 26.0 mEq/L\nPotassium: 4.2 mEq/L\nUrea Nitrogen: 18.0 mg/dL\nCalcium, Total: 9.7 mg/dL\nPTT: 28.2 sec\nINR(PT): 1.1 nan\nPT: 11.7 sec\n\nCurrent Medications:\nVial 1VIAL\nVial 1VIAL\nVial 1VIAL\nLorazepam 0.5mg\nOmeprazole 20mg\nVancomycin 1000mg\nVancomycin 1000mg\nAcyclovir 400mg\nAcyclovir 400mg\nAcyclovir 400mg\n",
+  "diagnosis_icd": "20500",
+  "diagnosis_name": "Acute myeloid leukemia, without mention of having achieved remission",
+  "lab_events_count": 1469,
+  "microbiology_count": 29,
+  "medication_count": 84,
+  "procedure_codes": [
+    "4131",
+    "3897",
+    "4131",
+    "4131",
+    "9925"
+  ]
+}

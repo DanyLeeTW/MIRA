@@ -1,0 +1,19 @@
+{
+  "hadm_id": 25797028,
+  "subject_id": 10002428,
+  "gender": "F",
+  "age": 80,
+  "admission_type": "EU OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "7802",
+  "diagnosis_name": "Syncope and collapse",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10002428\nAdmission ID: 25797028\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 27,
+  "microbiology_count": 2,
+  "medication_count": 7,
+  "procedure_codes": []
+}

@@ -9,7 +9,7 @@ The system SHALL provide a `dspy.Module` (`MiraDoctorProgram`) that, given a chi
 - **THEN** it returns a `dspy.Prediction` containing a `diagnosis`, a `trajectory` of tool calls, and the intermediate `plan`
 
 #### Scenario: src/ behavior is unaffected
-- **GIVEN** the new `dspy/` package is installed alongside `src/`
+- **GIVEN** the new `mira_dspy/` package is installed alongside `src/`
 - **WHEN** any existing `src/runs/*.py` entrypoint is executed
 - **THEN** its behavior and output are identical to before this change was added
 
@@ -32,7 +32,7 @@ The system SHALL support compiling `MiraDoctorProgram` with `dspy.GEPA` against 
 #### Scenario: Compiling against a MIMIC-derived trainset
 - **GIVEN** a trainset of `dspy.Example` built from `src.evaluations.preprocess.PatientGroundTruth`
 - **WHEN** `dspy.GEPA(metric=mira_metric).compile(MiraDoctorProgram(...), trainset=trainset)` is run
-- **THEN** an optimized program is produced and persisted under `dspy/compiled/`
+- **THEN** an optimized program is produced and persisted under `mira_dspy/compiled/`
 
 ### Requirement: Frozen patient simulator
 The system SHALL treat the existing `PatientAssistant`/`conv.py` history-taking dialogue as a frozen, non-optimized component during compilation, so that only the ordering and diagnosis stages are subject to DSPy optimization.

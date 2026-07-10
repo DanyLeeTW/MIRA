@@ -1,0 +1,19 @@
+{
+  "hadm_id": 22059910,
+  "subject_id": 10026255,
+  "gender": "M",
+  "age": 66,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "1629",
+  "diagnosis_name": "Malignant neoplasm of bronchus and lung, unspecified",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10026255\nAdmission ID: 22059910\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 191,
+  "microbiology_count": 5,
+  "medication_count": 105,
+  "procedure_codes": []
+}

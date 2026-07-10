@@ -1,0 +1,24 @@
+{
+  "hadm_id": 23473524,
+  "subject_id": 10002428,
+  "gender": "F",
+  "age": 80,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "03843",
+  "diagnosis_name": "Septicemia due to pseudomonas",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10002428\nAdmission ID: 23473524\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 452,
+  "microbiology_count": 9,
+  "medication_count": 102,
+  "procedure_codes": [
+    "9672",
+    "9604",
+    "3891",
+    "3897"
+  ]
+}

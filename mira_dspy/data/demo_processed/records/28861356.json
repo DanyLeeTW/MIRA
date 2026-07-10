@@ -1,0 +1,22 @@
+{
+  "hadm_id": 28861356,
+  "subject_id": 10018081,
+  "gender": "M",
+  "age": 79,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 79 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: SURGICAL SAME DAY ADMISSION\n\nRecent Lab Results:\nCalcium, Total: 9.1 mg/dL\nMagnesium: 1.7 mg/dL\nPhosphate: 1.9 mg/dL\nSodium: 140.0 mEq/L\nPotassium: 3.8 mEq/L\nMCV: 100.0 fL\nHemoglobin: 13.8 g/dL\nRDW: 14.9 %\nRed Blood Cells: 4.25 m/uL\nChloride: 106.0 mEq/L\n\nCurrent Medications:\nInsulin 0UNIT\nVial 1VIAL\nVial 1VIAL\nVial 1VIAL\nBag 1BAG\nBag 1BAG\nBag 1BAG\nBag 1BAG\nOxycoDONE (Immediate Release)  5mg\nCyanocobalamin 1000mcg\n",
+  "diagnosis_icd": "V552",
+  "diagnosis_name": "Attention to ileostomy",
+  "lab_events_count": 361,
+  "microbiology_count": 3,
+  "medication_count": 103,
+  "procedure_codes": [
+    "3891",
+    "4651",
+    "8628",
+    "4513",
+    "9357",
+    "3897"
+  ]
+}

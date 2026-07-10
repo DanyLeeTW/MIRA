@@ -1,0 +1,20 @@
+[project]
+name = "mira-dspy"
+version = "0.1.0"
+description = "DSPy-structured re-implementation of the MIRA workup+diagnosis agent, parallel to src/"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "hospitalagent-src",
+    "dspy-ai>=3.0.0",
+]
+
+[tool.uv.sources]
+hospitalagent-src = { path = "../src", editable = true }
+
+[build-system]
+requires = ["setuptools>=70", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["mira_dspy", "mira_dspy.runs"]

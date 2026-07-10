@@ -1,0 +1,17 @@
+{
+  "hadm_id": 20437651,
+  "subject_id": 10026255,
+  "gender": "M",
+  "age": 66,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 66 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nCreatine Kinase (CK): 214.0 IU/L\nCreatine Kinase, MB Isoenzyme: 6.0 ng/mL\npCO2: 56.0 mm Hg\nBase Excess: 3.0 mEq/L\npH: 7.34 units\npO2: 139.0 mm Hg\nCalculated Total CO2: 32.0 mEq/L\nCreatine Kinase (CK): 183.0 IU/L\nCreatine Kinase, MB Isoenzyme: 5.0 ng/mL\nCreatine Kinase (CK): 159.0 IU/L\n\nCurrent Medications:\nTiotropium Bromide 1CAP\nAspirin 81mg\nAlbuterol 0.083% Neb Soln 1NEB\nAlbuterol 0.083% Neb Soln 1NEB\nAlbuterol 0.083% Neb Soln 1NEB\nAtorvastatin 10mg\nHeparin 5000UNIT\nIpratropium Bromide Neb 1NEB\nMetoprolol Tartrate 5mg\nTraMADOL (Ultram) 50mg\n",
+  "diagnosis_icd": "8600",
+  "diagnosis_name": "Traumatic pneumothorax without mention of open wound into thorax",
+  "lab_events_count": 131,
+  "microbiology_count": 2,
+  "medication_count": 35,
+  "procedure_codes": [
+    "3409"
+  ]
+}

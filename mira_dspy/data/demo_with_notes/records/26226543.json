@@ -1,0 +1,19 @@
+{
+  "hadm_id": 26226543,
+  "subject_id": 10019003,
+  "gender": "F",
+  "age": 65,
+  "admission_type": "ELECTIVE",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "I110",
+  "diagnosis_name": "Hypertensive heart disease with heart failure",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10019003\nAdmission ID: 26226543\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 1036,
+  "microbiology_count": 25,
+  "medication_count": 121,
+  "procedure_codes": []
+}

@@ -1,0 +1,22 @@
+{
+  "hadm_id": 28324362,
+  "subject_id": 10009035,
+  "gender": "M",
+  "age": 28,
+  "admission_type": "ELECTIVE",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "4240",
+  "diagnosis_name": "Mitral valve disorders",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10009035\nAdmission ID: 28324362\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 173,
+  "microbiology_count": 1,
+  "medication_count": 91,
+  "procedure_codes": [
+    "3512",
+    "3961"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "hadm_id": 25973915,
+  "subject_id": 10018081,
+  "gender": "M",
+  "age": 79,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "42833",
+  "diagnosis_name": "Acute on chronic diastolic heart failure",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10018081\nAdmission ID: 25973915\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 281,
+  "microbiology_count": 8,
+  "medication_count": 83,
+  "procedure_codes": [
+    "9915"
+  ]
+}

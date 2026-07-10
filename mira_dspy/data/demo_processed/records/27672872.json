@@ -1,0 +1,17 @@
+{
+  "hadm_id": 27672872,
+  "subject_id": 10017492,
+  "gender": "M",
+  "age": 84,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 84 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\npH: 7.5 units\nSpecific Gravity: 1.01  \nEpithelial Cells: 1.0 #/hpf\nRBC: 10.0 #/hpf\nWBC: 18.0 #/hpf\nHemoglobin: 12.9 g/dL\nHematocrit: 36.2 %\nMCH: 32.3 pg\nWhite Blood Cells: 9.1 K/uL\nPlatelet Count: 304.0 K/uL\n\nCurrent Medications:\nMultivitamins 1TAB\nAmlodipine 5mg\nAmlodipine 5mg\nAmlodipine 2.5mg\nAspirin 325mg\nCeftriaXONE 1gm\nHeparin 5000UNIT\nDocusate Sodium 100mg\nPneumococcal Vac Polyvalent 0.5mL\nDocusate Sodium (Liquid) 100mg\n",
+  "diagnosis_icd": "43491",
+  "diagnosis_name": "Cerebral artery occlusion, unspecified with cerebral infarction",
+  "lab_events_count": 97,
+  "microbiology_count": 4,
+  "medication_count": 29,
+  "procedure_codes": [
+    "0331"
+  ]
+}

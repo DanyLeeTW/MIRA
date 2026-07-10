@@ -1,0 +1,26 @@
+{
+  "hadm_id": 22429197,
+  "subject_id": 10010867,
+  "gender": "F",
+  "age": 28,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 28 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\npO2: 308.0 mm Hg\nAlveolar-arterial Gradient: 369.0 mm Hg\nBase Excess: -5.0 mEq/L\nCalculated Total CO2: 20.0 mEq/L\npH: 7.34 units\npCO2: 35.0 mm Hg\nRequired O2: 66.0 nan\nPEEP: 5.0 nan\nTidal Volume: 450.0 nan\nOxygen: 100.0 %\n\nCurrent Medications:\nInsulin 0UNIT\nBag 1BAG\nCloniDINE 0.2mg\nCeFAZolin 2g\nCefePIME 2g\nCefePIME 2g\nClonidine Patch 0.2 mg/24 hr 1PTCH\nFentanyl Citrate 50mcg\nGlucagon 1mg\nPolyethylene Glycol 17g\n",
+  "diagnosis_icd": "S12600A",
+  "diagnosis_name": "Unspecified displaced fracture of seventh cervical vertebra, initial encounter for closed fracture",
+  "lab_events_count": 433,
+  "microbiology_count": 10,
+  "medication_count": 115,
+  "procedure_codes": [
+    "5A1955Z",
+    "0BJ08ZZ",
+    "0RG10A0",
+    "0RG1071",
+    "0B948ZX",
+    "0B988ZX",
+    "0RB30ZZ",
+    "3E0G76Z",
+    "02H633Z",
+    "0B9B8ZX"
+  ]
+}

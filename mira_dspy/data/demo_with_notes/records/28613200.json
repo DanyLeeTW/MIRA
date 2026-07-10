@@ -1,0 +1,21 @@
+{
+  "hadm_id": 28613200,
+  "subject_id": 10015860,
+  "gender": "M",
+  "age": 53,
+  "admission_type": "DIRECT EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "25080",
+  "diagnosis_name": "Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10015860\nAdmission ID: 28613200\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 59,
+  "microbiology_count": 13,
+  "medication_count": 29,
+  "procedure_codes": [
+    "7788"
+  ]
+}

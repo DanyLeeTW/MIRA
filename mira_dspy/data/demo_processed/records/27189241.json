@@ -1,0 +1,25 @@
+{
+  "hadm_id": 27189241,
+  "subject_id": 10038999,
+  "gender": "M",
+  "age": 45,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 45 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nPolys: 93.0 %\nTotal Nucleated Cells, Other: 8375.0 #/uL\nLymphocytes: 3.0 %\nMonos: 4.0 %\nHematocrit, Other Fluid: 2.0 %\nRed Blood Cells: 3.86 m/uL\nMCV: 81.0 fL\nRDW-SD: 44.7 fL\nRDW: 15.3 %\nMCH: 24.9 pg\n\nCurrent Medications:\nBag 1BAG\nBag 1BAG\nColchicine 0.6mg\nColchicine 0.6mg\nCefePIME 2g\nPolyethylene Glycol 17g\nHeparin 5000UNIT\nMagnesium Sulfate 2gm\nMagnesium Sulfate 2gm\nSenna 8.6mg\n",
+  "diagnosis_icd": "J189",
+  "diagnosis_name": "Pneumonia, unspecified organism",
+  "lab_events_count": 762,
+  "microbiology_count": 53,
+  "medication_count": 100,
+  "procedure_codes": [
+    "0B988ZX",
+    "0W9B3ZZ",
+    "0W9B3ZX",
+    "0W9D30Z",
+    "5A1955Z",
+    "0BH17EZ",
+    "02HV33Z",
+    "3E0H76Z",
+    "0BB88ZX"
+  ]
+}

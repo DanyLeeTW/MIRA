@@ -1,0 +1,43 @@
+{
+  "hadm_id": 27738145,
+  "subject_id": 10019777,
+  "gender": "M",
+  "age": 51,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "1571",
+  "diagnosis_name": "Malignant neoplasm of body of pancreas",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10019777\nAdmission ID: 27738145\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 943,
+  "microbiology_count": 27,
+  "medication_count": 154,
+  "procedure_codes": [
+    "0040",
+    "3897",
+    "9672",
+    "9604",
+    "8849",
+    "4443",
+    "8847",
+    "9910",
+    "3979",
+    "5211",
+    "8847",
+    "0045",
+    "3893",
+    "3990",
+    "4513",
+    "4513",
+    "8864",
+    "8847",
+    "4444",
+    "8874",
+    "3950",
+    "8848",
+    "3897"
+  ]
+}

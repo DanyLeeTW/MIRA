@@ -1,0 +1,29 @@
+{
+  "hadm_id": 28166872,
+  "subject_id": 10027602,
+  "gender": "F",
+  "age": 71,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 71 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\npCO2: 39.0 mm Hg\nFree Calcium: 1.06 mmol/L\nCalculated Total CO2: 27.0 mEq/L\npO2: 156.0 mm Hg\npH: 7.43 units\nBase Excess: 2.0 mEq/L\nCalcium, Total: 8.3 mg/dL\nBicarbonate: 24.0 mEq/L\nPhosphate: 2.8 mg/dL\nMagnesium: 1.9 mg/dL\n\nCurrent Medications:\nFentanyl Citrate nannan\nFentanyl Citrate nannan\nLorazepam nannan\nMidazolam nannan\nMidazolam nannan\nPropofol nannan\nAlbuterol 0.083% Neb Soln 0NEB\nNeutra-Phos 1PKT\nNeutra-Phos 1PKT\nAmpicillin Sodium 2g\n",
+  "diagnosis_icd": "430",
+  "diagnosis_name": "Subarachnoid hemorrhage",
+  "lab_events_count": 450,
+  "microbiology_count": 44,
+  "medication_count": 138,
+  "procedure_codes": [
+    "3972",
+    "0221",
+    "9671",
+    "8841",
+    "4311",
+    "8841",
+    "3972",
+    "0221",
+    "9604",
+    "9672",
+    "8841",
+    "966",
+    "3324"
+  ]
+}

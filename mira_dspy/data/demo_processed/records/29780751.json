@@ -1,0 +1,15 @@
+{
+  "hadm_id": 29780751,
+  "subject_id": 10014354,
+  "gender": "M",
+  "age": 60,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 60 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nMCV: 86.0 fL\nNeutrophils: 57.0 %\nAbsolute Lymphocyte Count: 8.29 K/uL\nAtypical Lymphocytes: 0.0 %\nMCH: 28.2 pg\nPlatelet Count: 92.0 K/uL\nRDW-SD: 61.8 fL\nRDW: 20.5 %\nHematocrit: 23.7 %\nMCHC: 32.9 g/dL\n\nCurrent Medications:\nBag 1BAG\nSucralfate 1gm\nCloNIDine 0.1mg\nLORazepam 0.5mg\nOxyCODONE (Immediate Release) 5mg\nClopidogrel 75mg\nGlucagon 1mg\nPolyethylene Glycol 17g\nPolyethylene Glycol 17g\nHeparin 5000UNIT\n",
+  "diagnosis_icd": "B348",
+  "diagnosis_name": "Other viral infections of unspecified site",
+  "lab_events_count": 321,
+  "microbiology_count": 3,
+  "medication_count": 69,
+  "procedure_codes": []
+}

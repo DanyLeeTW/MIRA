@@ -1,0 +1,21 @@
+{
+  "hadm_id": 20338077,
+  "subject_id": 10007928,
+  "gender": "F",
+  "age": 59,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "53140",
+  "diagnosis_name": "Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10007928\nAdmission ID: 20338077\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 325,
+  "microbiology_count": 30,
+  "medication_count": 69,
+  "procedure_codes": [
+    "4513"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "hadm_id": 22741225,
+  "subject_id": 10014354,
+  "gender": "M",
+  "age": 60,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "I69354",
+  "diagnosis_name": "Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10014354\nAdmission ID: 22741225\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 165,
+  "microbiology_count": 1,
+  "medication_count": 48,
+  "procedure_codes": []
+}

@@ -1,0 +1,22 @@
+{
+  "hadm_id": 27125816,
+  "subject_id": 10040025,
+  "gender": "F",
+  "age": 64,
+  "admission_type": "AMBULATORY OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "40390",
+  "diagnosis_name": "Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10040025\nAdmission ID: 27125816\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 8,
+  "microbiology_count": 0,
+  "medication_count": 28,
+  "procedure_codes": [
+    "0069",
+    "8845"
+  ]
+}

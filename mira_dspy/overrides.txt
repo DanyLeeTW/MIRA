@@ -1,0 +1,8 @@
+# Resolution-only overrides so hospitalagent-src (src/pyproject.toml, unmodified)
+# can share this venv with dspy-ai. These do NOT change src/pyproject.toml on disk;
+# they only relax the *resolver's* view of these three packages' bounds when
+# installing hospitalagent-src into mira_dspy's own isolated venv. See the
+# "dspy-ai vs. hospitalagent-src dependency conflict" note in mira_dspy/README.md.
+openai>=1.66.1
+httpx>=0.28.0
+jinja2==3.1.6

@@ -1,0 +1,22 @@
+{
+  "hadm_id": 24997044,
+  "subject_id": 10019172,
+  "gender": "F",
+  "age": 63,
+  "admission_type": "ELECTIVE",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "4241",
+  "diagnosis_name": "Aortic valve disorders",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10019172\nAdmission ID: 24997044\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 334,
+  "microbiology_count": 4,
+  "medication_count": 148,
+  "procedure_codes": [
+    "3961",
+    "3522"
+  ]
+}

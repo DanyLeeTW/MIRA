@@ -1,0 +1,15 @@
+{
+  "hadm_id": 26228185,
+  "subject_id": 10014354,
+  "gender": "M",
+  "age": 60,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 60 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nMCV: 85.0 fL\nAbsolute Lymphocyte Count: 6.1 K/uL\nCalcium, Total: 8.2 mg/dL\nPotassium: 4.4 mEq/L\nAlanine Aminotransferase (ALT): 59.0 IU/L\nI: 0.0 nan\nChloride: 100.0 mEq/L\nMagnesium: 2.0 mg/dL\nBicarbonate: 19.0 mEq/L\nMonocytes: 8.0 %\n\nCurrent Medications:\nVial 1VIAL\nAspirin 81mg\nSucralfate 1gm\nInsulin 0UNIT\nProchlorperazine 5mg\nAmitriptyline 10mg\nAtorvastatin 80mg\nCefTRIAXone 1gm\nGlucagon 1mg\nGlucagon 1mg\n",
+  "diagnosis_icd": "N179",
+  "diagnosis_name": "Acute kidney failure, unspecified",
+  "lab_events_count": 334,
+  "microbiology_count": 0,
+  "medication_count": 68,
+  "procedure_codes": []
+}

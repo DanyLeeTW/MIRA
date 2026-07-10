@@ -1,0 +1,18 @@
+{
+  "hadm_id": 26924951,
+  "subject_id": 10039831,
+  "gender": "F",
+  "age": 57,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 57 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: SURGICAL SAME DAY ADMISSION\n\nRecent Lab Results:\nChloride, Whole Blood: 103.0 mEq/L\nHematocrit, Calculated: 27.0 %\nLactate: 5.5 mmol/L\nSodium, Whole Blood: 133.0 mEq/L\nHemoglobin: 9.0 g/dL\nFree Calcium: 1.05 mmol/L\nCalculated Total CO2: 24.0 mEq/L\npCO2: 40.0 mm Hg\npO2: 50.0 mm Hg\npH: 7.36 units\n\nCurrent Medications:\nInsulin 0UNIT\nNeutra-Phos 1PKT\nVial 1VIAL\nAspirin 81mg\nHYDROmorphone (Dilaudid) 2mg\nOxycoDONE (Immediate Release)  5mg\nWarfarin 5mg\nWarfarin 5mg\nWarfarin 5mg\nGlucagon 1mg\n",
+  "diagnosis_icd": "1962",
+  "diagnosis_name": "Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes",
+  "lab_events_count": 321,
+  "microbiology_count": 1,
+  "medication_count": 66,
+  "procedure_codes": [
+    "3956",
+    "403"
+  ]
+}

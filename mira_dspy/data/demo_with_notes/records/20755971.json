@@ -1,0 +1,29 @@
+{
+  "hadm_id": 20755971,
+  "subject_id": 10038081,
+  "gender": "F",
+  "age": 63,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "56723",
+  "diagnosis_name": "Spontaneous bacterial peritonitis",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10038081\nAdmission ID: 20755971\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 919,
+  "microbiology_count": 30,
+  "medication_count": 99,
+  "procedure_codes": [
+    "2101",
+    "5491",
+    "9671",
+    "3893",
+    "3142",
+    "5491",
+    "4513",
+    "9604",
+    "2121"
+  ]
+}

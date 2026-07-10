@@ -1,0 +1,22 @@
+{
+  "hadm_id": 28778757,
+  "subject_id": 10020306,
+  "gender": "F",
+  "age": 74,
+  "admission_type": "AMBULATORY OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "1741",
+  "diagnosis_name": "Malignant neoplasm of central portion of female breast",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10020306\nAdmission ID: 28778757\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 0,
+  "microbiology_count": 0,
+  "medication_count": 11,
+  "procedure_codes": [
+    "8541",
+    "4023"
+  ]
+}

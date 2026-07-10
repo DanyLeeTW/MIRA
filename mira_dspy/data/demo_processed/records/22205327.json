@@ -1,0 +1,26 @@
+{
+  "hadm_id": 22205327,
+  "subject_id": 10029291,
+  "gender": "F",
+  "age": 50,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 50 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nPEEP: 5.0 nan\npCO2: 28.0 mm Hg\nCalculated Total CO2: 10.0 mEq/L\npH: 7.15 units\nLactate: 3.9 mmol/L\nBase Excess: -17.0 mEq/L\npO2: 333.0 mm Hg\nOxygen Saturation: 99.0 %\nTemperature: 36.1 nan\nChloride: 119.0 mEq/L\n\nCurrent Medications:\nInsulin 0UNIT\nInsulin 0UNIT\nInsulin 0UNIT\nBag 1BAG\nBag 1BAG\nClick Change <--- to Choose a Base Solution 10mL\nBag 1BAG\nCloniDINE 0.1mg\nCloniDINE 0.1mg\nCloniDINE 0.1mg\n",
+  "diagnosis_icd": "I2602",
+  "diagnosis_name": "Saddle embolus of pulmonary artery with acute cor pulmonale",
+  "lab_events_count": 1070,
+  "microbiology_count": 28,
+  "medication_count": 188,
+  "procedure_codes": [
+    "B548ZZA",
+    "5A1955Z",
+    "0CJS8ZZ",
+    "B548ZZA",
+    "3E04317",
+    "02HV33Z",
+    "3E0G76Z",
+    "02HV33Z",
+    "0BH17EZ",
+    "5A1D60Z"
+  ]
+}

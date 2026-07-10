@@ -1,0 +1,21 @@
+{
+  "hadm_id": 21133938,
+  "subject_id": 10023117,
+  "gender": "M",
+  "age": 53,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 53 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nCreatinine: 3.4 mg/dL\nChloride: 94.0 mEq/L\nBicarbonate: 17.0 mEq/L\nNTproBNP: 62656.0 pg/mL\nSodium: 133.0 mEq/L\nPlatelet Count: 307.0 K/uL\nMCV: 74.0 fL\nMCH: 21.0 pg\nRed Blood Cells: 6.72 m/uL\nRDW-SD: 56.7 fL\n\nCurrent Medications:\nInsulin 0UNIT\nVial 1VIAL\nZolpidem Tartrate 5mg\nAspirin 81mg\nBag 1BAG\nBag 1BAG\nBag 1BAG\nBag 1BAG\nBag 1BAG\nLidocaine Jelly 2% (Urojet) 1Appl\n",
+  "diagnosis_icd": "R570",
+  "diagnosis_name": "Cardiogenic shock",
+  "lab_events_count": 683,
+  "microbiology_count": 13,
+  "medication_count": 152,
+  "procedure_codes": [
+    "0BH18EZ",
+    "4A133B3",
+    "5A1945Z",
+    "4A1239Z",
+    "02HP32Z"
+  ]
+}

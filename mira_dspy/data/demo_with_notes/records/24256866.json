@@ -1,0 +1,21 @@
+{
+  "hadm_id": 24256866,
+  "subject_id": 10037861,
+  "gender": "M",
+  "age": 77,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "42823",
+  "diagnosis_name": "Acute on chronic systolic heart failure",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10037861\nAdmission ID: 24256866\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 416,
+  "microbiology_count": 16,
+  "medication_count": 64,
+  "procedure_codes": [
+    "3721"
+  ]
+}

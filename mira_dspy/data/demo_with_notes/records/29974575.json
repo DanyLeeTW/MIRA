@@ -1,0 +1,25 @@
+{
+  "hadm_id": 29974575,
+  "subject_id": 10020944,
+  "gender": "M",
+  "age": 72,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "03849",
+  "diagnosis_name": "Other septicemia due to gram-negative organisms",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10020944\nAdmission ID: 29974575\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 542,
+  "microbiology_count": 21,
+  "medication_count": 103,
+  "procedure_codes": [
+    "3323",
+    "9604",
+    "3891",
+    "3893",
+    "9672"
+  ]
+}

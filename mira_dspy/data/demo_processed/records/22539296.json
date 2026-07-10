@@ -1,0 +1,15 @@
+{
+  "hadm_id": 22539296,
+  "subject_id": 10012853,
+  "gender": "F",
+  "age": 91,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 91 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nRDW-SD: 49.4 fL\nPT: 33.4 sec\nPTT: 34.2 sec\nINR(PT): 3.0 nan\nCreatinine: 1.1 mg/dL\nGlucose: 95.0 mg/dL\nChloride: 101.0 mEq/L\nSodium: 138.0 mEq/L\nUrea Nitrogen: 28.0 mg/dL\nPotassium: 3.3 mEq/L\n\nCurrent Medications:\nMultivitamins 1TAB\nAmlodipine 5mg\nAspirin 81mg\nWarfarin 1mg\nWarfarin 2mg\nWarfarin 2mg\nAtorvastatin 40mg\nHydrochlorothiazide 25mg\nLisinopril 10mg\nLisinopril 20mg\n",
+  "diagnosis_icd": "5849",
+  "diagnosis_name": "Acute kidney failure, unspecified",
+  "lab_events_count": 45,
+  "microbiology_count": 19,
+  "medication_count": 23,
+  "procedure_codes": []
+}

@@ -1,0 +1,17 @@
+{
+  "hadm_id": 25742920,
+  "subject_id": 10000032,
+  "gender": "F",
+  "age": 52,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 52 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nRed Blood Cells: 3.36 m/uL\nAsparate Aminotransferase (AST): 221.0 IU/L\nBilirubin, Total: 1.6 mg/dL\nUrea Nitrogen: 37.0 mg/dL\nAlbumin: 3.5 g/dL\nCreatinine: 0.6 mg/dL\nAlanine Aminotransferase (ALT): 132.0 IU/L\nCalcium, Total: 8.6 mg/dL\nBicarbonate: 26.0 mEq/L\nWhite Blood Cells: 7.5 K/uL\n\nCurrent Medications:\nTiotropium Bromide 1CAP\nHeparin 5000UNIT\nMorphine Sulfate 2mg\nAlbumin 25% (12.5g / 50mL) 25g\nCalcium Carbonate 500mg\nDextrose 50% 25gm\nDextrose 50% 25gm\nLactulose 30mL\n0.9% Sodium Chloride 1BAG\n0.9% Sodium Chloride 1BAG\n",
+  "diagnosis_icd": "07054",
+  "diagnosis_name": "Chronic hepatitis C without mention of hepatic coma",
+  "lab_events_count": 69,
+  "microbiology_count": 1,
+  "medication_count": 28,
+  "procedure_codes": [
+    "5491"
+  ]
+}

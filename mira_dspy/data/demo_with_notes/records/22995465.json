@@ -1,0 +1,19 @@
+{
+  "hadm_id": 22995465,
+  "subject_id": 10009049,
+  "gender": "M",
+  "age": 56,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "0388",
+  "diagnosis_name": "Other specified septicemias",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10009049\nAdmission ID: 22995465\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 184,
+  "microbiology_count": 13,
+  "medication_count": 41,
+  "procedure_codes": []
+}

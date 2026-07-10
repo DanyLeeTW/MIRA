@@ -1,0 +1,19 @@
+{
+  "hadm_id": 23688993,
+  "subject_id": 10002930,
+  "gender": "F",
+  "age": 48,
+  "admission_type": "DIRECT EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "311",
+  "diagnosis_name": "Depressive disorder, not elsewhere classified",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10002930\nAdmission ID: 23688993\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 9,
+  "microbiology_count": 1,
+  "medication_count": 11,
+  "procedure_codes": []
+}

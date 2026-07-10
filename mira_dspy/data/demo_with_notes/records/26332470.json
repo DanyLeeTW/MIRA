@@ -1,0 +1,19 @@
+{
+  "hadm_id": 26332470,
+  "subject_id": 10020306,
+  "gender": "F",
+  "age": 74,
+  "admission_type": "EU OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "J811",
+  "diagnosis_name": "Chronic pulmonary edema",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10020306\nAdmission ID: 26332470\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 61,
+  "microbiology_count": 0,
+  "medication_count": 0,
+  "procedure_codes": []
+}

@@ -1,0 +1,22 @@
+{
+  "hadm_id": 21027282,
+  "subject_id": 10018081,
+  "gender": "M",
+  "age": 79,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 79 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nHematocrit: 37.1 %\nMCH: 32.9 pg\nPlatelet Count: 154.0 K/uL\nMCV: 96.0 fL\nHemoglobin: 12.7 g/dL\nUrea Nitrogen: 53.0 mg/dL\nMetamyelocytes: 2.0 %\nMyelocytes: 0.0 %\nMonocytes: 4.0 %\nBicarbonate: 17.0 mEq/L\n\nCurrent Medications:\nInsulin 0UNIT\nInsulin 0UNIT\nBag 1BAG\nBag 1BAG\nLidocaine Jelly 2% (Urojet) 1Appl\nLOPERamide 2mg\nLOPERamide 2mg\nSodium Chloride 1gm\nWarfarin 2mg\nWarfarin 5mg\n",
+  "diagnosis_icd": "0389",
+  "diagnosis_name": "Unspecified septicemia",
+  "lab_events_count": 1264,
+  "microbiology_count": 10,
+  "medication_count": 190,
+  "procedure_codes": [
+    "966",
+    "4620",
+    "5359",
+    "9672",
+    "4311",
+    "4573"
+  ]
+}

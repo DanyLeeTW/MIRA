@@ -1,0 +1,21 @@
+{
+  "hadm_id": 26158160,
+  "subject_id": 10005866,
+  "gender": "M",
+  "age": 57,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "5531",
+  "diagnosis_name": "Umbilical hernia without mention of obstruction or gangrene",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10005866\nAdmission ID: 26158160\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 144,
+  "microbiology_count": 0,
+  "medication_count": 27,
+  "procedure_codes": [
+    "5349"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "hadm_id": 23514107,
+  "subject_id": 10005866,
+  "gender": "M",
+  "age": 57,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 57 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nMCH: 34.7 pg\nAnion Gap: 11.0 mEq/L\nI: 3.0 nan\nBicarbonate: 23.0 mEq/L\nPotassium: 3.7 mEq/L\nGlucose: 98.0 mg/dL\nH: 5.0 nan\nMagnesium: 1.5 mg/dL\nSodium: 136.0 mEq/L\nAsparate Aminotransferase (AST): 72.0 IU/L\n\nCurrent Medications:\nVial 1VIAL\nBag 1BAG\nBag 1BAG\nBag 1BAG\nBag 1BAG\nHeparin 5000UNIT\nMagnesium Sulfate 2gm\nMagnesium Sulfate 2gm\nMagnesium Sulfate 2gm\nMagnesium Sulfate 2gm\n",
+  "diagnosis_icd": "K565",
+  "diagnosis_name": "Intestinal adhesions [bands] with obstruction (postinfection)",
+  "lab_events_count": 147,
+  "microbiology_count": 0,
+  "medication_count": 30,
+  "procedure_codes": []
+}

@@ -1,0 +1,23 @@
+{
+  "hadm_id": 21759936,
+  "subject_id": 10023239,
+  "gender": "F",
+  "age": 29,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "T85694A",
+  "diagnosis_name": "Other mechanical complication of insulin pump, initial encounter",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10023239\nAdmission ID: 21759936\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 389,
+  "microbiology_count": 33,
+  "medication_count": 71,
+  "procedure_codes": [
+    "0B9D8ZX",
+    "0BBD8ZX",
+    "07B74ZX"
+  ]
+}

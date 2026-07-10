@@ -1,0 +1,19 @@
+{
+  "hadm_id": 24244087,
+  "subject_id": 10023117,
+  "gender": "M",
+  "age": 53,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "5849",
+  "diagnosis_name": "Acute kidney failure, unspecified",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10023117\nAdmission ID: 24244087\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 201,
+  "microbiology_count": 0,
+  "medication_count": 43,
+  "procedure_codes": []
+}

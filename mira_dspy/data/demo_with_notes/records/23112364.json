@@ -1,0 +1,21 @@
+{
+  "hadm_id": 23112364,
+  "subject_id": 10021938,
+  "gender": "M",
+  "age": 65,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "34839",
+  "diagnosis_name": "Other encephalopathy",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10021938\nAdmission ID: 23112364\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 111,
+  "microbiology_count": 1,
+  "medication_count": 23,
+  "procedure_codes": [
+    "3995"
+  ]
+}

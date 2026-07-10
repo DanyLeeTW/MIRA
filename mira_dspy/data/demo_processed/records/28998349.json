@@ -1,0 +1,31 @@
+{
+  "hadm_id": 28998349,
+  "subject_id": 10021487,
+  "gender": "M",
+  "age": 43,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 43 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nCK-MB Index: 1.4 %\nPotassium: 4.8 mEq/L\nUrea Nitrogen: 14.0 mg/dL\nBicarbonate: 16.0 mEq/L\nSodium: 136.0 mEq/L\nPhosphate: 4.6 mg/dL\nCalcium, Total: 7.0 mg/dL\nCreatinine: 1.2 mg/dL\nGlucose: 138.0 mg/dL\nPTT: 25.6 sec\n\nCurrent Medications:\nInsulin 0UNIT\nNeutra-Phos 1PKT\nBag 50-100mL\nBag 50mL\nAcetaZOLamide 250mg\nAcetaZOLamide 250mg\nAlbumin 25% (12.5g / 50mL) 12.5g\nAlbumin 25% (12.5g / 50mL) 12.5g\nAlbumin 25% (12.5g / 50mL) 12.5g\nAlbumin 25% (12.5g / 50mL) 12.5g\n",
+  "diagnosis_icd": "86803",
+  "diagnosis_name": "Injury to other intra-abdominal organs without mention of open wound into cavity, peritoneum",
+  "lab_events_count": 1728,
+  "microbiology_count": 73,
+  "medication_count": 211,
+  "procedure_codes": [
+    "5425",
+    "5491",
+    "5412",
+    "8876",
+    "5419",
+    "9672",
+    "5029",
+    "5475",
+    "9604",
+    "3893",
+    "966",
+    "3891",
+    "3324",
+    "3491",
+    "4573"
+  ]
+}

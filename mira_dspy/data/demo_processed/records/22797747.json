@@ -1,0 +1,15 @@
+{
+  "hadm_id": 22797747,
+  "subject_id": 10038992,
+  "gender": "M",
+  "age": 70,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 70 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: URGENT\n\nRecent Lab Results:\nWBC: 8.0 #/hpf\npH: 6.0 units\nProtein: 30.0 mg/dL\nEpithelial Cells: 0.0 #/hpf\nRBC: 47.0 #/hpf\nSpecific Gravity: 1.013  \nAbsolute Neutrophil Count: 13.25 K/uL\nAtypical Lymphocytes: 0.0 %\nMyelocytes: 1.0 %\nCreatinine: 1.7 mg/dL\n\nCurrent Medications:\nvancomycin 125mg\nAspirin 81mg\nLidocaine Jelly 2% (Urojet) 1Appl\nPhytonadione 5mg\nFurosemide 40mg\nHeparin 5000UNIT\nIpratropium-Albuterol Neb 1NEB\nFluoxetine 20mg\nTamsulosin 0.4mg\nAllopurinol 300mg\n",
+  "diagnosis_icd": "5070",
+  "diagnosis_name": "Pneumonitis due to inhalation of food or vomitus",
+  "lab_events_count": 270,
+  "microbiology_count": 12,
+  "medication_count": 28,
+  "procedure_codes": []
+}

@@ -1,0 +1,17 @@
+{
+  "hadm_id": 29757856,
+  "subject_id": 10014354,
+  "gender": "M",
+  "age": 60,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 60 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nPlatelet Count: 149.0 K/uL\nAbsolute Neutrophil Count: 4.77 K/uL\nNeutrophils: 45.0 %\nAbsolute Basophil Count: 0.0 K/uL\nAbsolute Lymphocyte Count: 5.51 K/uL\nBasophils: 0.0 %\nAbsolute Eosinophil Count: 0.0 K/uL\nEosinophils: 0.0 %\nMonocytes: 3.0 %\nUric Acid: 7.0 mg/dL\n\nCurrent Medications:\nAspirin 81mg\nSucralfate 1gm\nColchicine 0.6mg\nAmitriptyline 10mg\nAtorvastatin 40mg\nEscitalopram Oxalate 10mg\nFenofibrate 48mg\nFurosemide 20mg\nFurosemide 20mg\nGlucagon 1mg\n",
+  "diagnosis_icd": "K289",
+  "diagnosis_name": "Gastrojejunal ulcer, unspecified as acute or chronic, without hemorrhage or perforation",
+  "lab_events_count": 410,
+  "microbiology_count": 1,
+  "medication_count": 104,
+  "procedure_codes": [
+    "0DD68ZX"
+  ]
+}

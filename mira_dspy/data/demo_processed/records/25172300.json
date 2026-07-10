@@ -1,0 +1,15 @@
+{
+  "hadm_id": 25172300,
+  "subject_id": 10040025,
+  "gender": "F",
+  "age": 64,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 64 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nWBC: 1.0 #/hpf\nHyaline Casts: 13.0 #/lpf\npH: 6.0 units\nRBC: 3.0 #/hpf\nSpecific Gravity: 1.01  \nEpithelial Cells: 0.0 #/hpf\nGlucose: 70.0 mg/dL\nProtein: 100.0 mg/dL\nUrea Nitrogen: 74.0 mg/dL\nGlucose: 322.0 mg/dL\n\nCurrent Medications:\nInsulin 0UNIT\nAspirin 81mg\nWarfarin 5mg\nEzetimibe 10mg\nFebuxostat 40mg\nGlucagon 1mg\nSpironolactone 25mg\nAmpicillin-Sulbactam 3g\nVancomycin 1000mg\nBuPROPion (Sustained Release) 150mg\n",
+  "diagnosis_icd": "6820",
+  "diagnosis_name": "Cellulitis and abscess of face",
+  "lab_events_count": 43,
+  "microbiology_count": 0,
+  "medication_count": 30,
+  "procedure_codes": []
+}

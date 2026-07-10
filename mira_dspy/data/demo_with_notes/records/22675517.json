@@ -1,0 +1,23 @@
+{
+  "hadm_id": 22675517,
+  "subject_id": 10013049,
+  "gender": "M",
+  "age": 52,
+  "admission_type": "ELECTIVE",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "2127",
+  "diagnosis_name": "Benign neoplasm of heart",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10013049\nAdmission ID: 22675517\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 159,
+  "microbiology_count": 1,
+  "medication_count": 64,
+  "procedure_codes": [
+    "3561",
+    "3733",
+    "3961"
+  ]
+}

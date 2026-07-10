@@ -1,0 +1,26 @@
+{
+  "hadm_id": 23403708,
+  "subject_id": 10025612,
+  "gender": "M",
+  "age": 82,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 82 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: SURGICAL SAME DAY ADMISSION\n\nRecent Lab Results:\nBase Excess: 0.0 mEq/L\nOxygen Saturation: 98.0 %\nFree Calcium: 1.14 mmol/L\nLactate: 1.7 mmol/L\nHemoglobin: 15.1 g/dL\nChloride, Whole Blood: 103.0 mEq/L\nHematocrit, Calculated: 45.0 %\nSodium, Whole Blood: 139.0 mEq/L\nPotassium, Whole Blood: 4.2 mEq/L\npO2: 254.0 mm Hg\n\nCurrent Medications:\nNeutra-Phos 1PKT\nBag 50mL\nBag 50mL\nOxycoDONE (Immediate Release)  5mg\nAlbumin 25% (12.5g / 50mL) 12.5g\nAlbuterol 0.083% Neb Soln 1NEB\nAlbuterol 0.083% Neb Soln 1NEB\nCefazoLIN 1g\nDiltiazem 30mg\nDronabinol 2.5mg\n",
+  "diagnosis_icd": "1622",
+  "diagnosis_name": "Malignant neoplasm of main bronchus",
+  "lab_events_count": 379,
+  "microbiology_count": 0,
+  "medication_count": 86,
+  "procedure_codes": [
+    "3328",
+    "4011",
+    "4059",
+    "3324",
+    "3348",
+    "3422",
+    "3403",
+    "0390",
+    "3479",
+    "3259"
+  ]
+}

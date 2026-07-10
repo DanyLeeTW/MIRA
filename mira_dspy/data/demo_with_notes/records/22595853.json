@@ -1,0 +1,21 @@
+{
+  "hadm_id": 22595853,
+  "subject_id": 10000032,
+  "gender": "F",
+  "age": 52,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "5723",
+  "diagnosis_name": "Portal hypertension",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10000032\nAdmission ID: 22595853\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 57,
+  "microbiology_count": 5,
+  "medication_count": 14,
+  "procedure_codes": [
+    "5491"
+  ]
+}

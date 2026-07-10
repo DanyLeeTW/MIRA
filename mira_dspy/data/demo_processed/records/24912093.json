@@ -1,0 +1,18 @@
+{
+  "hadm_id": 24912093,
+  "subject_id": 10035631,
+  "gender": "M",
+  "age": 63,
+  "admission_type": "ELECTIVE",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 63 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: ELECTIVE\n\nRecent Lab Results:\nUrea Nitrogen: 14.0 mg/dL\nMagnesium: 2.1 mg/dL\nHematocrit: 29.0 %\nHemoglobin: 9.7 g/dL\nMCV: 94.0 fL\nRed Blood Cells: 3.09 m/uL\nPlatelet Count: 696.0 K/uL\nRDW: 18.8 %\nWhite Blood Cells: 4.2 K/uL\nMCHC: 33.4 %\n\nCurrent Medications:\nVial 1VIAL\nOxycoDONE (Immediate Release)  5mg\nHeparin 5000UNIT\nTraMADOL (Ultram) 50mg\nAcyclovir 400mg\nDocusate Sodium 100mg\nFluconazole 400mg\nOndansetron 16mg\n5% Dextrose 50mL\nSodium Chloride 0.9%  Flush 3mL\n",
+  "diagnosis_icd": "V5811",
+  "diagnosis_name": "Encounter for antineoplastic chemotherapy",
+  "lab_events_count": 179,
+  "microbiology_count": 0,
+  "medication_count": 19,
+  "procedure_codes": [
+    "3897",
+    "9925"
+  ]
+}

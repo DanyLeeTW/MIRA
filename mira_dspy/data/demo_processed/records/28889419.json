@@ -1,0 +1,22 @@
+{
+  "hadm_id": 28889419,
+  "subject_id": 10014729,
+  "gender": "F",
+  "age": 21,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 21 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: SURGICAL SAME DAY ADMISSION\n\nRecent Lab Results:\nLactate: 1.8 mmol/L\nFree Calcium: 1.28 mmol/L\nCalculated Total CO2: 24.0 mEq/L\npCO2: 37.0 mm Hg\npO2: 498.0 mm Hg\nBase Excess: 0.0 mEq/L\npH: 7.4 units\nPotassium, Whole Blood: 4.0 mEq/L\nHematocrit, Calculated: 39.0 %\nGlucose: 93.0 mg/dL\n\nCurrent Medications:\nNeutra-Phos 1PKT\nBag 50mL\nBag 50mL\nBag 50mL\nBag 50mL\nCefazoLIN 1g\nCefazoLIN 1g\nCefazoLIN 2g\nCefazoLIN 2g\nHYDROmorphone 2500mcg\n",
+  "diagnosis_icd": "9010",
+  "diagnosis_name": "Injury to thoracic aorta",
+  "lab_events_count": 276,
+  "microbiology_count": 0,
+  "medication_count": 151,
+  "procedure_codes": [
+    "3845",
+    "0390",
+    "0391",
+    "3961",
+    "3959",
+    "8605"
+  ]
+}

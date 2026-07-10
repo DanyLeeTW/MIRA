@@ -1,0 +1,25 @@
+{
+  "hadm_id": 21133938,
+  "subject_id": 10023117,
+  "gender": "M",
+  "age": 53,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "R570",
+  "diagnosis_name": "Cardiogenic shock",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10023117\nAdmission ID: 21133938\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 683,
+  "microbiology_count": 13,
+  "medication_count": 152,
+  "procedure_codes": [
+    "0BH18EZ",
+    "4A133B3",
+    "5A1945Z",
+    "4A1239Z",
+    "02HP32Z"
+  ]
+}

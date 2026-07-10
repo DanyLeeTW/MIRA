@@ -1,0 +1,28 @@
+{
+  "hadm_id": 20364112,
+  "subject_id": 10005866,
+  "gender": "M",
+  "age": 57,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "K265",
+  "diagnosis_name": "Chronic or unspecified duodenal ulcer with perforation",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10005866\nAdmission ID: 20364112\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 977,
+  "microbiology_count": 4,
+  "medication_count": 145,
+  "procedure_codes": [
+    "0D963ZX",
+    "0WJP0ZZ",
+    "0DH98UZ",
+    "02HV33Z",
+    "3E0G76Z",
+    "0DJ08ZZ",
+    "0D9630Z",
+    "3E0336Z"
+  ]
+}

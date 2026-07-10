@@ -1,0 +1,26 @@
+{
+  "hadm_id": 29366372,
+  "subject_id": 10018423,
+  "gender": "M",
+  "age": 37,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 37 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nCalcium, Total: 9.6 mg/dL\nRed Blood Cells: 5.86 m/uL\nTriglycerides: 384.0 mg/dL\nCholesterol, HDL: 35.0 mg/dL\nCholesterol, LDL, Calculated: 134.0 mg/dL\nCholesterol, Total: 246.0 mg/dL\nCholesterol Ratio (Total/HDL): 7.0 Ratio\nMagnesium: 2.0 mg/dL\nSodium: 136.0 mEq/L\nAnion Gap: 16.0 mEq/L\n\nCurrent Medications:\nInsulin 0UNIT\nAspirin 81mg\nAspirin 81mg\nBag 1mL\nOxycoDONE (Immediate Release)  5mg\nAlbuterol 0.083% Neb Soln 1NEB\nAtorvastatin 40mg\nAtorvastatin 80mg\nAtorvastatin 80mg\nAtorvastatin 80mg\n",
+  "diagnosis_icd": "I25110",
+  "diagnosis_name": "Atherosclerotic heart disease of native coronary artery with unstable angina pectoris",
+  "lab_events_count": 350,
+  "microbiology_count": 3,
+  "medication_count": 123,
+  "procedure_codes": [
+    "3E080GC",
+    "B2111ZZ",
+    "03B14ZZ",
+    "02100A9",
+    "03B04ZZ",
+    "021009W",
+    "4A023N7",
+    "06BP4ZZ",
+    "02100A8",
+    "5A1221Z"
+  ]
+}

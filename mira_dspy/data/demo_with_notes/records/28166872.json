@@ -1,0 +1,33 @@
+{
+  "hadm_id": 28166872,
+  "subject_id": 10027602,
+  "gender": "F",
+  "age": 71,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "430",
+  "diagnosis_name": "Subarachnoid hemorrhage",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10027602\nAdmission ID: 28166872\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 450,
+  "microbiology_count": 44,
+  "medication_count": 138,
+  "procedure_codes": [
+    "3972",
+    "0221",
+    "9671",
+    "8841",
+    "4311",
+    "8841",
+    "3972",
+    "0221",
+    "9604",
+    "9672",
+    "8841",
+    "966",
+    "3324"
+  ]
+}

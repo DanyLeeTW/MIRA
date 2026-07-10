@@ -1,0 +1,26 @@
+{
+  "hadm_id": 28889419,
+  "subject_id": 10014729,
+  "gender": "F",
+  "age": 21,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "9010",
+  "diagnosis_name": "Injury to thoracic aorta",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10014729\nAdmission ID: 28889419\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 276,
+  "microbiology_count": 0,
+  "medication_count": 151,
+  "procedure_codes": [
+    "3845",
+    "0390",
+    "0391",
+    "3961",
+    "3959",
+    "8605"
+  ]
+}

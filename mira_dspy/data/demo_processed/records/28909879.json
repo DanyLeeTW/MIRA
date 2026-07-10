@@ -1,0 +1,18 @@
+{
+  "hadm_id": 28909879,
+  "subject_id": 10022041,
+  "gender": "M",
+  "age": 64,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 64 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nHyaline Casts: 1.0 #/lpf\nAnion Gap: 13.0 mEq/L\nBicarbonate: 24.0 mEq/L\nCalcium, Total: 8.3 mg/dL\nPotassium: 3.7 mEq/L\nUrea Nitrogen: 12.0 mg/dL\nCreatine Kinase (CK): 694.0 IU/L\nGlucose: 99.0 mg/dL\nMagnesium: 1.9 mg/dL\nSodium: 141.0 mEq/L\n\nCurrent Medications:\nInsulin 0UNIT\nBag 50mL\nBag 50mL\nGlucagon 1mg\nHeparin 5000UNIT\nMagnesium Sulfate 2gm\nMagnesium Sulfate 2gm\nOxyCODONE SR (OxyconTIN) 20mg\nPantoprazole 40mg\nCalcium Carbonate 500mg\n",
+  "diagnosis_icd": "29181",
+  "diagnosis_name": "Alcohol withdrawal",
+  "lab_events_count": 192,
+  "microbiology_count": 2,
+  "medication_count": 63,
+  "procedure_codes": [
+    "9671",
+    "7931"
+  ]
+}

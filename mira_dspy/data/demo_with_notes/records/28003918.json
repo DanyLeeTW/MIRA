@@ -1,0 +1,23 @@
+{
+  "hadm_id": 28003918,
+  "subject_id": 10019003,
+  "gender": "F",
+  "age": 65,
+  "admission_type": "ELECTIVE",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "6202",
+  "diagnosis_name": "Other and unspecified ovarian cyst",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10019003\nAdmission ID: 28003918\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 26,
+  "microbiology_count": 0,
+  "medication_count": 27,
+  "procedure_codes": [
+    "6563",
+    "5732",
+    "6841"
+  ]
+}

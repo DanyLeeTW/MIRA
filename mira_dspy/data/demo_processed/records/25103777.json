@@ -1,0 +1,21 @@
+{
+  "hadm_id": 25103777,
+  "subject_id": 10015860,
+  "gender": "M",
+  "age": 53,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 53 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nMCHC: 32.5 g/dL\nCalcium, Total: 9.1 mg/dL\nMagnesium: 2.1 mg/dL\nAnion Gap: 16.0 mEq/L\nH: 3.0 nan\nChloride: 94.0 mEq/L\nAsparate Aminotransferase (AST): 18.0 IU/L\nI: 0.0 nan\nAlbumin: 3.3 g/dL\nAlkaline Phosphatase: 95.0 IU/L\n\nCurrent Medications:\nVancomycin 0mg\nBag 1BAG\nAspirin 81mg\nLisinopril 5mg\nLisinopril 5mg\nLORazepam 0.5mg\nNephrocaps 1CAP\nAtorvastatin 20mg\nCalcitriol 0.25mcg\nCalcitriol 0.25mcg\n",
+  "diagnosis_icd": "T827XXA",
+  "diagnosis_name": "Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts, initial encounter",
+  "lab_events_count": 205,
+  "microbiology_count": 8,
+  "medication_count": 58,
+  "procedure_codes": [
+    "02PAX3Z",
+    "5A1D70Z",
+    "0JPTXXZ",
+    "0JH63XZ",
+    "02H633Z"
+  ]
+}

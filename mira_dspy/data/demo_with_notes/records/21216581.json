@@ -1,0 +1,22 @@
+{
+  "hadm_id": 21216581,
+  "subject_id": 10004457,
+  "gender": "M",
+  "age": 65,
+  "admission_type": "AMBULATORY OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "42732",
+  "diagnosis_name": "Atrial flutter",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10004457\nAdmission ID: 21216581\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 0,
+  "microbiology_count": 0,
+  "medication_count": 13,
+  "procedure_codes": [
+    "3727",
+    "3734"
+  ]
+}

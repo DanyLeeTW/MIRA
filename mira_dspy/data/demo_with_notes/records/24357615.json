@@ -1,0 +1,19 @@
+{
+  "hadm_id": 24357615,
+  "subject_id": 10014354,
+  "gender": "M",
+  "age": 60,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "R1030",
+  "diagnosis_name": "Lower abdominal pain, unspecified",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10014354\nAdmission ID: 24357615\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 68,
+  "microbiology_count": 0,
+  "medication_count": 40,
+  "procedure_codes": []
+}

@@ -1,0 +1,24 @@
+{
+  "hadm_id": 22081550,
+  "subject_id": 10004720,
+  "gender": "M",
+  "age": 61,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "J690",
+  "diagnosis_name": "Pneumonitis due to inhalation of food and vomit",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10004720\nAdmission ID: 22081550\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 403,
+  "microbiology_count": 7,
+  "medication_count": 82,
+  "procedure_codes": [
+    "0W9930Z",
+    "02H633Z",
+    "3E0G76Z",
+    "5A1955Z"
+  ]
+}

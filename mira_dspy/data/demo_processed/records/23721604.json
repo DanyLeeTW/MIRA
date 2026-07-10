@@ -1,0 +1,17 @@
+{
+  "hadm_id": 23721604,
+  "subject_id": 10037928,
+  "gender": "F",
+  "age": 78,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 78 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nUrea Nitrogen: 38.0 mg/dL\nRDW: 13.9 %\nRed Blood Cells: 4.77 m/uL\nMCH: 31.2 pg\nMCHC: 33.0 %\nHematocrit: 45.1 %\nPlatelet Count: 162.0 K/uL\nINR(PT): 1.0 nan\nPT: 10.6 sec\nPTT: 26.1 sec\n\nCurrent Medications:\nInsulin 0UNIT\nInsulin 0UNIT\nInsulin 0UNIT\nBag 1BAG\nBag 1BAG\nAlbuterol 0.083% Neb Soln 1NEB\nAlbuterol 0.083% Neb Soln 1NEB\nAlbuterol 0.083% Neb Soln 1NEB\nAtorvastatin 20mg\nBusPIRone 10mg\n",
+  "diagnosis_icd": "00845",
+  "diagnosis_name": "Intestinal infection due to Clostridium difficile",
+  "lab_events_count": 236,
+  "microbiology_count": 20,
+  "medication_count": 58,
+  "procedure_codes": [
+    "3324"
+  ]
+}

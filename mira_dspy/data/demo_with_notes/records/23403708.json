@@ -1,0 +1,30 @@
+{
+  "hadm_id": 23403708,
+  "subject_id": 10025612,
+  "gender": "M",
+  "age": 82,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "1622",
+  "diagnosis_name": "Malignant neoplasm of main bronchus",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10025612\nAdmission ID: 23403708\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 379,
+  "microbiology_count": 0,
+  "medication_count": 86,
+  "procedure_codes": [
+    "3328",
+    "4011",
+    "4059",
+    "3324",
+    "3348",
+    "3422",
+    "3403",
+    "0390",
+    "3479",
+    "3259"
+  ]
+}

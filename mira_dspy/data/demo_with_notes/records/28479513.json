@@ -1,0 +1,21 @@
+{
+  "hadm_id": 28479513,
+  "subject_id": 10018501,
+  "gender": "M",
+  "age": 83,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "85221",
+  "diagnosis_name": "Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10018501\nAdmission ID: 28479513\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 64,
+  "microbiology_count": 1,
+  "medication_count": 45,
+  "procedure_codes": [
+    "9462"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "hadm_id": 29276678,
+  "subject_id": 10035631,
+  "gender": "M",
+  "age": 63,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "J9601",
+  "diagnosis_name": "Acute respiratory failure with hypoxia",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10035631\nAdmission ID: 29276678\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 1869,
+  "microbiology_count": 22,
+  "medication_count": 331,
+  "procedure_codes": [
+    "0HB7XZX",
+    "0B968ZX",
+    "5A1D00Z",
+    "0BH17EZ",
+    "3E04305",
+    "5A1955Z",
+    "3E0G76Z",
+    "6A551Z3"
+  ]
+}

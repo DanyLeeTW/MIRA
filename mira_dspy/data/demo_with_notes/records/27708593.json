@@ -1,0 +1,23 @@
+{
+  "hadm_id": 27708593,
+  "subject_id": 10022880,
+  "gender": "M",
+  "age": 66,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "72403",
+  "diagnosis_name": "Spinal stenosis, lumbar region, with neurogenic claudication",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10022880\nAdmission ID: 27708593\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 211,
+  "microbiology_count": 0,
+  "medication_count": 63,
+  "procedure_codes": [
+    "8162",
+    "7770",
+    "8107"
+  ]
+}

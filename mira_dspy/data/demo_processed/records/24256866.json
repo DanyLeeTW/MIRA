@@ -1,0 +1,17 @@
+{
+  "hadm_id": 24256866,
+  "subject_id": 10037861,
+  "gender": "M",
+  "age": 77,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 77 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: URGENT\n\nRecent Lab Results:\nGlucose: 262.0 mg/dL\nCalculated Total CO2: 37.0 mEq/L\nBase Excess: 6.0 mEq/L\npCO2: 66.0 mm Hg\npO2: 89.0 mm Hg\nHemoglobin: 14.6 g/dL\nPotassium, Whole Blood: 3.8 mEq/L\npH: 7.34 units\nFree Calcium: 1.23 mmol/L\nChloride, Whole Blood: 99.0 mEq/L\n\nCurrent Medications:\nInsulin 0UNIT\nInsulin 0UNIT\nInsulin 0UNIT\nVial 1VIAL\nAspirin 81mg\nBag 1BAG\nWarfarin 5mg\nAtorvastatin 80mg\nFurosemide 20mg\nFurosemide 20mg\n",
+  "diagnosis_icd": "42823",
+  "diagnosis_name": "Acute on chronic systolic heart failure",
+  "lab_events_count": 416,
+  "microbiology_count": 16,
+  "medication_count": 64,
+  "procedure_codes": [
+    "3721"
+  ]
+}

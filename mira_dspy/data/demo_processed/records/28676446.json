@@ -1,0 +1,17 @@
+{
+  "hadm_id": 28676446,
+  "subject_id": 10002428,
+  "gender": "F",
+  "age": 80,
+  "admission_type": "EU OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 80 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EU OBSERVATION\n\nRecent Lab Results:\nMagnesium: 1.6 mg/dL\nMCH: 30.7 pg\nRed Blood Cells: 3.16 m/uL\nMCHC: 33.1 %\nHematocrit: 29.3 %\nPlatelet Count: 236.0 K/uL\nHemoglobin: 9.7 g/dL\nRDW: 13.0 %\nMCV: 93.0 fL\nGlucose: 120.0 mg/dL\n\nCurrent Medications:\nMultivitamins 1CAP\nNeutra-Phos 1PKT\nOxycodone-Acetaminophen (5mg-325mg) 1TAB\nLisinopril 5mg\nCefazoLIN 2g\nLevothyroxine Sodium 75mcg\nMilk of Magnesia 30mL\n0.9% Sodium Chloride 100mL\nPantoprazole 40mg\nBisacodyl 10mg\n",
+  "diagnosis_icd": "82009",
+  "diagnosis_name": "Other closed transcervical fracture of neck of femur",
+  "lab_events_count": 29,
+  "microbiology_count": 0,
+  "medication_count": 32,
+  "procedure_codes": [
+    "7915"
+  ]
+}

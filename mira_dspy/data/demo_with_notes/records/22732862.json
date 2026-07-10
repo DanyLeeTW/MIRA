@@ -1,0 +1,22 @@
+{
+  "hadm_id": 22732862,
+  "subject_id": 10035631,
+  "gender": "M",
+  "age": 63,
+  "admission_type": "DIRECT EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "99933",
+  "diagnosis_name": "Local infection due to central venous catheter",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10035631\nAdmission ID: 22732862\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 507,
+  "microbiology_count": 33,
+  "medication_count": 48,
+  "procedure_codes": [
+    "3324",
+    "9749"
+  ]
+}

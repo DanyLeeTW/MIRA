@@ -1,0 +1,24 @@
+{
+  "hadm_id": 21477991,
+  "subject_id": 10027602,
+  "gender": "F",
+  "age": 71,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "4373",
+  "diagnosis_name": "Cerebral aneurysm, nonruptured",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10027602\nAdmission ID: 21477991\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 102,
+  "microbiology_count": 0,
+  "medication_count": 43,
+  "procedure_codes": [
+    "966",
+    "0159",
+    "8841",
+    "9359"
+  ]
+}

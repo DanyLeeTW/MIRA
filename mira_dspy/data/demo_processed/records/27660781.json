@@ -1,0 +1,23 @@
+{
+  "hadm_id": 27660781,
+  "subject_id": 10021487,
+  "gender": "M",
+  "age": 43,
+  "admission_type": "DIRECT EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 43 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: DIRECT EMER.\n\nRecent Lab Results:\nRDW: 16.2 %\nGlucose: 112.0 mg/dL\nSodium: 131.0 mEq/L\nAlbumin: 2.9 g/dL\nCreatinine: 0.4 mg/dL\nAsparate Aminotransferase (AST): 19.0 IU/L\nChloride: 96.0 mEq/L\nBilirubin, Total: 0.6 mg/dL\nBicarbonate: 28.0 mEq/L\nMagnesium: 1.9 mg/dL\n\nCurrent Medications:\nInsulin 0UNIT\nMultivitamins 1TAB\nBag 50mL\nBag 50mL\nBag 50mL\nHYDROmorphone (Dilaudid) 2mg\nHYDROmorphone (Dilaudid) 2mg\nLidocaine Jelly 2% (Urojet) 1Appl\nAlbumin 25% (12.5g / 50mL) 12.5g\nAlbumin 25% (12.5g / 50mL) 12.5g\n",
+  "diagnosis_icd": "5720",
+  "diagnosis_name": "Abscess of liver",
+  "lab_events_count": 558,
+  "microbiology_count": 17,
+  "medication_count": 133,
+  "procedure_codes": [
+    "966",
+    "5187",
+    "5293",
+    "5491",
+    "9915",
+    "5185",
+    "3893"
+  ]
+}

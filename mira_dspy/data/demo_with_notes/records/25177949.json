@@ -1,0 +1,24 @@
+{
+  "hadm_id": 25177949,
+  "subject_id": 10032725,
+  "gender": "F",
+  "age": 38,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "1985",
+  "diagnosis_name": "Secondary malignant neoplasm of bone and bone marrow",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10032725\nAdmission ID: 25177949\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 678,
+  "microbiology_count": 14,
+  "medication_count": 214,
+  "procedure_codes": [
+    "7855",
+    "7745",
+    "9925",
+    "9229"
+  ]
+}

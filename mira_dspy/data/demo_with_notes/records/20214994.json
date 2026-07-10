@@ -1,0 +1,30 @@
+{
+  "hadm_id": 20214994,
+  "subject_id": 10003400,
+  "gender": "F",
+  "age": 72,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "1543",
+  "diagnosis_name": "Malignant neoplasm of anus, unspecified site",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10003400\nAdmission ID: 20214994\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 1043,
+  "microbiology_count": 15,
+  "medication_count": 227,
+  "procedure_codes": [
+    "8674",
+    "5459",
+    "8628",
+    "9671",
+    "966",
+    "9977",
+    "3897",
+    "4562",
+    "4852",
+    "5369"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "hadm_id": 29654498,
+  "subject_id": 10035631,
+  "gender": "M",
+  "age": 63,
+  "admission_type": "AMBULATORY OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 63 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: AMBULATORY OBSERVATION\n\nRecent Lab Results:\nNo lab results available.\n\nCurrent Medications:\nMultivitamins 1TAB\nFoLIC Acid 1mg\nOxycoDONE (Immediate Release)  5mg\nSulfameth/Trimethoprim SS 1TAB\nHeparin 5000UNIT\nAcyclovir 400mg\nAcetaminophen 500mg\nMagnesium Oxide 400mg\nTacrolimus 0.5mg\nVoriconazole 200mg\n",
+  "diagnosis_icd": "1759",
+  "diagnosis_name": "Malignant neoplasm of other and unspecified sites of male breast",
+  "lab_events_count": 0,
+  "microbiology_count": 0,
+  "medication_count": 13,
+  "procedure_codes": [
+    "4011",
+    "8523"
+  ]
+}

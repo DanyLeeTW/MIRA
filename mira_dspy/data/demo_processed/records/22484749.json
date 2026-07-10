@@ -1,0 +1,15 @@
+{
+  "hadm_id": 22484749,
+  "subject_id": 10039997,
+  "gender": "F",
+  "age": 67,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 67 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nCholesterol, LDL, Calculated: 98.0 mg/dL\nCholesterol Ratio (Total/HDL): 4.4 Ratio\nCholesterol, Total: 155.0 mg/dL\nCholesterol, HDL: 35.0 mg/dL\neAG: 120.0 mg/dL\n% Hemoglobin A1c: 5.8 %\nChloride: 102.0 mEq/L\nBicarbonate: 22.0 mEq/L\nCreatinine: 0.9 mg/dL\nI: 1.0 nan\n\nCurrent Medications:\nAspirin 325mg\nClopidogrel 75mg\nHeparin 5000UNIT\nLisinopril 20mg\nMetoprolol Tartrate 50mg\nRosuvastatin Calcium 20mg\nLamoTRIgine 100mg\nInfluenza Vaccine Quadrivalent 0.5mL\nInfluenza Vaccine Quadrivalent 0.5mL\namLODIPine 10mg\n",
+  "diagnosis_icd": "I6340",
+  "diagnosis_name": "Cerebral infarction due to embolism of unspecified cerebral artery",
+  "lab_events_count": 57,
+  "microbiology_count": 0,
+  "medication_count": 14,
+  "procedure_codes": []
+}

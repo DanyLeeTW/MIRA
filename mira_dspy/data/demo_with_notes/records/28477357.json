@@ -1,0 +1,29 @@
+{
+  "hadm_id": 28477357,
+  "subject_id": 10007795,
+  "gender": "F",
+  "age": 53,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "5772",
+  "diagnosis_name": "Cyst and pseudocyst of pancreas",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10007795\nAdmission ID: 28477357\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 557,
+  "microbiology_count": 13,
+  "medication_count": 111,
+  "procedure_codes": [
+    "8874",
+    "4699",
+    "5491",
+    "9915",
+    "8874",
+    "4513",
+    "4699",
+    "966",
+    "4513"
+  ]
+}

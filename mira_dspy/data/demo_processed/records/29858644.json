@@ -1,0 +1,15 @@
+{
+  "hadm_id": 29858644,
+  "subject_id": 10023117,
+  "gender": "M",
+  "age": 53,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 53 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nMCV: 89.0 fL\nAnion Gap: 15.0 mEq/L\nBicarbonate: 30.0 mEq/L\nSodium: 142.0 mEq/L\nGlucose: 82.0 mg/dL\nCreatinine: 1.9 mg/dL\nPotassium: 4.0 mEq/L\nMagnesium: 2.1 mg/dL\nPhosphate: 4.8 mg/dL\nCalcium, Total: 8.9 mg/dL\n\nCurrent Medications:\nMultivitamins 1TAB\nAspirin 81mg\nAtorvastatin 10mg\nHeparin 5000UNIT\nHydrALAzine 10mg\nHydrALAzine 10mg\nIsosorbide Mononitrate 30mg\nOLANZapine 10mg\nOmeprazole 20mg\nAllopurinol 100mg\n",
+  "diagnosis_icd": "42823",
+  "diagnosis_name": "Acute on chronic systolic heart failure",
+  "lab_events_count": 97,
+  "microbiology_count": 0,
+  "medication_count": 27,
+  "procedure_codes": []
+}

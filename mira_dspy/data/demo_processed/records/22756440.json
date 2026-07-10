@@ -1,0 +1,18 @@
+{
+  "hadm_id": 22756440,
+  "subject_id": 10021666,
+  "gender": "M",
+  "age": 87,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 87 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nRDW: 15.5 %\nRed Blood Cells: 3.56 m/uL\nHematocrit: 35.1 %\nPotassium: 4.1 mEq/L\nMagnesium: 2.1 mg/dL\nUrea Nitrogen: 20.0 mg/dL\nAnion Gap: 18.0 mEq/L\nPlatelet Count: 152.0 K/uL\nBicarbonate: 26.0 mEq/L\nSodium: 142.0 mEq/L\n\nCurrent Medications:\nInsulin 0UNIT\nMultivitamins 1TAB\nNeutra-Phos 1PKT\nNeutra-Phos 1PKT\nDonepezil 5mg\nFoLIC Acid 1mg\nLidocaine Jelly 2% (Urojet) 1Appl\nLorazepam 0.5mg\nAlbuterol 0.083% Neb Soln 1NEB\nEzetimibe 10mg\n",
+  "diagnosis_icd": "85201",
+  "diagnosis_name": "Subarachnoid hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",
+  "lab_events_count": 279,
+  "microbiology_count": 3,
+  "medication_count": 72,
+  "procedure_codes": [
+    "9608",
+    "966"
+  ]
+}

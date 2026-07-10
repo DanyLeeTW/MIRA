@@ -1,0 +1,19 @@
+{
+  "hadm_id": 27505812,
+  "subject_id": 10011398,
+  "gender": "M",
+  "age": 67,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 67 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: SURGICAL SAME DAY ADMISSION\n\nRecent Lab Results:\nHemoglobin: 13.1 g/dL\nSodium, Whole Blood: 138.0 mEq/L\nGlucose: 97.0 mg/dL\nChloride, Whole Blood: 103.0 mEq/L\nLactate: 1.6 mmol/L\nFree Calcium: 1.13 mmol/L\npCO2: 38.0 mm Hg\npH: 7.46 units\nCalculated Total CO2: 28.0 mEq/L\nBase Excess: 3.0 mEq/L\n\nCurrent Medications:\nInsulin 0UNIT\nAspirin 81mg\nAspirin 81mg\nBag 50mL\nFurosemide 20mg\nFurosemide 20mg\nGlucagon 1mg\nInsulin Human Regular 100UNIT\nPotassium Chloride 20mEq\nLactated Ringers 1000mL\n",
+  "diagnosis_icd": "41401",
+  "diagnosis_name": "Coronary atherosclerosis of native coronary artery",
+  "lab_events_count": 202,
+  "microbiology_count": 1,
+  "medication_count": 88,
+  "procedure_codes": [
+    "3961",
+    "3615",
+    "3614"
+  ]
+}

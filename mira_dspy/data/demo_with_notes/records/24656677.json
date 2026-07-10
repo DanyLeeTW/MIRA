@@ -1,0 +1,19 @@
+{
+  "hadm_id": 24656677,
+  "subject_id": 10037928,
+  "gender": "F",
+  "age": 78,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "25012",
+  "diagnosis_name": "Diabetes with ketoacidosis, type II or unspecified type, uncontrolled",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10037928\nAdmission ID: 24656677\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 121,
+  "microbiology_count": 16,
+  "medication_count": 51,
+  "procedure_codes": []
+}

@@ -1,0 +1,18 @@
+{
+  "hadm_id": 21216581,
+  "subject_id": 10004457,
+  "gender": "M",
+  "age": 65,
+  "admission_type": "AMBULATORY OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 65 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: AMBULATORY OBSERVATION\n\nRecent Lab Results:\nNo lab results available.\n\nCurrent Medications:\nApixaban 5mg\nOxycoDONE (Immediate Release)  5mg\nPotassium Chloride 20mEq\nNitroglycerin SL 0.3mg\nDiltiazem Extended-Release 120mg\nAspirin EC 325mg\nTraZODone 25mg\nInfluenza Virus Vaccine 0.5mL\nPotassium Chloride 40mEq\nAcetaminophen 650mg\n",
+  "diagnosis_icd": "42732",
+  "diagnosis_name": "Atrial flutter",
+  "lab_events_count": 0,
+  "microbiology_count": 0,
+  "medication_count": 13,
+  "procedure_codes": [
+    "3727",
+    "3734"
+  ]
+}

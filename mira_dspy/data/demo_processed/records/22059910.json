@@ -1,0 +1,15 @@
+{
+  "hadm_id": 22059910,
+  "subject_id": 10026255,
+  "gender": "M",
+  "age": 66,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 66 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nAlbumin: 3.4 g/dL\nMagnesium: 1.6 mg/dL\nPhosphate: 2.4 mg/dL\nThyroid Stimulating Hormone: 1.6 uIU/mL\nCalcium, Total: 9.3 mg/dL\nLactate: 1.3 mmol/L\nLactate Dehydrogenase (LD): 369.0 IU/L\nPlatelet Count: 441.0 K/uL\nRed Blood Cells: 3.75 m/uL\nHematocrit: 35.6 %\n\nCurrent Medications:\nTiotropium Bromide 1CAP\nAspirin 81mg\nBag 1BAG\nBag 1BAG\nAlbuterol 0.083% Neb Soln 1NEB\nAtorvastatin 10mg\nDiltiazem 30mg\nHaloperidol 0.5mg\nHeparin 5000UNIT\nIpratropium Bromide Neb 1NEB\n",
+  "diagnosis_icd": "1629",
+  "diagnosis_name": "Malignant neoplasm of bronchus and lung, unspecified",
+  "lab_events_count": 191,
+  "microbiology_count": 5,
+  "medication_count": 105,
+  "procedure_codes": []
+}

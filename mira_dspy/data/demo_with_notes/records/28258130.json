@@ -1,0 +1,41 @@
+{
+  "hadm_id": 28258130,
+  "subject_id": 10039708,
+  "gender": "F",
+  "age": 46,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "D649",
+  "diagnosis_name": "Anemia, unspecified",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10039708\nAdmission ID: 28258130\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 2390,
+  "microbiology_count": 33,
+  "medication_count": 314,
+  "procedure_codes": [
+    "B54BZZA",
+    "0B9D8ZZ",
+    "0DJ08ZZ",
+    "05HM33Z",
+    "05HM33Z",
+    "5A1935Z",
+    "0DJD8ZZ",
+    "0B9D8ZZ",
+    "06H03DZ",
+    "5A1945Z",
+    "B543ZZ3",
+    "0DJD8ZZ",
+    "5A1D60Z",
+    "3E0G76Z",
+    "0BH17EZ",
+    "0BH17EZ",
+    "02HV33Z",
+    "0BH17EZ",
+    "5A1945Z",
+    "06HM33Z",
+    "B548ZZA"
+  ]
+}

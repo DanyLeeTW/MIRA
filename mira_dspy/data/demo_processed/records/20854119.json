@@ -1,0 +1,20 @@
+{
+  "hadm_id": 20854119,
+  "subject_id": 10015860,
+  "gender": "M",
+  "age": 53,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 53 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nLymphocytes: 4.9 %\nGlucose: 523.0 mg/dL\nPotassium: 5.1 mEq/L\nChloride: 91.0 mEq/L\nCreatinine: 2.1 mg/dL\nAnion Gap: 17.0 mEq/L\nSodium: 126.0 mEq/L\nNeutrophils: 90.0 %\nMCH: 28.3 pg\nMCHC: 34.5 %\n\nCurrent Medications:\nInsulin 0UNIT\nInsulin 0UNIT\nInsulin 0UNIT\nInsulin 0UNIT\nInsulin 0UNIT\nInsulin 0UNIT\nInsulin 0UNIT\nAmlodipine 5mg\nAspirin 81mg\nLisinopril 5mg\n",
+  "diagnosis_icd": "25082",
+  "diagnosis_name": "Diabetes with other specified manifestations, type II or unspecified type, uncontrolled",
+  "lab_events_count": 163,
+  "microbiology_count": 11,
+  "medication_count": 52,
+  "procedure_codes": [
+    "7769",
+    "8604",
+    "3893",
+    "7769"
+  ]
+}

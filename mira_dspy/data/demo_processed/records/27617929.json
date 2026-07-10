@@ -1,0 +1,19 @@
+{
+  "hadm_id": 27617929,
+  "subject_id": 10037975,
+  "gender": "M",
+  "age": 60,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 60 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: URGENT\n\nRecent Lab Results:\npH: 7.1 units\nFree Calcium: 0.84 mmol/L\nLactate: 2.5 mmol/L\nRed Blood Cells: 4.08 m/uL\nHemoglobin: 12.5 g/dL\nMCV: 93.0 fL\nWhite Blood Cells: 3.5 K/uL\nCalcium, Total: 5.4 mg/dL\nINR(PT): 1.7 nan\nPTT: 55.4 sec\n\nCurrent Medications:\nVial 1VIAL\nCefePIME 2g\nCefePIME 2g\nPolyethylene Glycol 17g\nPolyethylene Glycol 17g\nHydrocortisone Na Succ. 100mg\nHeparin 5000UNIT\nHeparin 5000UNIT\nMeropenem 1000mg\nFamotidine 20mg\n",
+  "diagnosis_icd": "03849",
+  "diagnosis_name": "Other septicemia due to gram-negative organisms",
+  "lab_events_count": 831,
+  "microbiology_count": 35,
+  "medication_count": 111,
+  "procedure_codes": [
+    "966",
+    "3891",
+    "9672"
+  ]
+}

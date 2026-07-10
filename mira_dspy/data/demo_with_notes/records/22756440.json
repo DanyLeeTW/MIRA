@@ -1,0 +1,22 @@
+{
+  "hadm_id": 22756440,
+  "subject_id": 10021666,
+  "gender": "M",
+  "age": 87,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "85201",
+  "diagnosis_name": "Subarachnoid hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10021666\nAdmission ID: 22756440\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 279,
+  "microbiology_count": 3,
+  "medication_count": 72,
+  "procedure_codes": [
+    "9608",
+    "966"
+  ]
+}

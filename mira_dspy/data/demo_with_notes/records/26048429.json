@@ -1,0 +1,23 @@
+{
+  "hadm_id": 26048429,
+  "subject_id": 10003046,
+  "gender": "M",
+  "age": 64,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "1505",
+  "diagnosis_name": "Malignant neoplasm of lower third of esophagus",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10003046\nAdmission ID: 26048429\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 215,
+  "microbiology_count": 1,
+  "medication_count": 84,
+  "procedure_codes": [
+    "4639",
+    "4242",
+    "966"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "hadm_id": 28998349,
+  "subject_id": 10021487,
+  "gender": "M",
+  "age": 43,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "86803",
+  "diagnosis_name": "Injury to other intra-abdominal organs without mention of open wound into cavity, peritoneum",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10021487\nAdmission ID: 28998349\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 1728,
+  "microbiology_count": 73,
+  "medication_count": 211,
+  "procedure_codes": [
+    "5425",
+    "5491",
+    "5412",
+    "8876",
+    "5419",
+    "9672",
+    "5029",
+    "5475",
+    "9604",
+    "3893",
+    "966",
+    "3891",
+    "3324",
+    "3491",
+    "4573"
+  ]
+}

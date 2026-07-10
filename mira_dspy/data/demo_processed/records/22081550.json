@@ -1,0 +1,20 @@
+{
+  "hadm_id": 22081550,
+  "subject_id": 10004720,
+  "gender": "M",
+  "age": 61,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 61 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nCalculated Total CO2: 26.0 mEq/L\nLactate: 1.6 mmol/L\nFree Calcium: 1.17 mmol/L\npH: 7.38 units\nOxygen: 50.0 %\nPEEP: 5.0 nan\nTemperature: 35.3 nan\nTidal Volume: 450.0 nan\nBase Excess: 0.0 mEq/L\npCO2: 42.0 mm Hg\n\nCurrent Medications:\nNeutra-Phos 1PKT\nBag 1BAG\nCefePIME 2g\nCitalopram 10mg\nGlucagon 1mg\nPolyethylene Glycol 17g\nHeparin 5000UNIT\nHeparin 5000UNIT\nMagnesium Sulfate 2gm\nFamotidine 20mg\n",
+  "diagnosis_icd": "J690",
+  "diagnosis_name": "Pneumonitis due to inhalation of food and vomit",
+  "lab_events_count": 403,
+  "microbiology_count": 7,
+  "medication_count": 82,
+  "procedure_codes": [
+    "0W9930Z",
+    "02H633Z",
+    "3E0G76Z",
+    "5A1955Z"
+  ]
+}

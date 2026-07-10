@@ -1,0 +1,19 @@
+{
+  "hadm_id": 26739864,
+  "subject_id": 10012853,
+  "gender": "F",
+  "age": 91,
+  "admission_type": "DIRECT OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "C73",
+  "diagnosis_name": "Malignant neoplasm of thyroid gland",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10012853\nAdmission ID: 26739864\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 0,
+  "microbiology_count": 0,
+  "medication_count": 8,
+  "procedure_codes": []
+}

@@ -1,0 +1,19 @@
+{
+  "hadm_id": 25172300,
+  "subject_id": 10040025,
+  "gender": "F",
+  "age": 64,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "6820",
+  "diagnosis_name": "Cellulitis and abscess of face",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10040025\nAdmission ID: 25172300\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 43,
+  "microbiology_count": 0,
+  "medication_count": 30,
+  "procedure_codes": []
+}

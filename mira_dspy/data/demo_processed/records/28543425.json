@@ -1,0 +1,15 @@
+{
+  "hadm_id": 28543425,
+  "subject_id": 10037928,
+  "gender": "F",
+  "age": 78,
+  "admission_type": "EU OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 78 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EU OBSERVATION\n\nRecent Lab Results:\nMCHC: 32.1 %\nRed Blood Cells: 3.72 m/uL\nRDW: 15.4 %\nPlatelet Count: 435.0 K/uL\nNeutrophils: 55.8 %\nMCV: 80.0 fL\nWhite Blood Cells: 7.6 K/uL\nMCH: 25.6 pg\nHemoglobin: 9.5 g/dL\nLymphocytes: 33.8 %\n\nCurrent Medications:\nNo current medications.\n",
+  "diagnosis_icd": "8052",
+  "diagnosis_name": "Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury",
+  "lab_events_count": 25,
+  "microbiology_count": 0,
+  "medication_count": 0,
+  "procedure_codes": []
+}

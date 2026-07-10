@@ -1,0 +1,28 @@
+{
+  "hadm_id": 25864431,
+  "subject_id": 10039708,
+  "gender": "F",
+  "age": 46,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "K7290",
+  "diagnosis_name": "Hepatic failure, unspecified without coma",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10039708\nAdmission ID: 25864431\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 701,
+  "microbiology_count": 13,
+  "medication_count": 92,
+  "procedure_codes": [
+    "0DJ08ZZ",
+    "5A1D70Z",
+    "3E0H76Z",
+    "0W9G3ZX",
+    "0W9G3ZX",
+    "0DHA8UZ",
+    "02H633Z",
+    "0W9G3ZZ"
+  ]
+}

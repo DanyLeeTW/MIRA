@@ -1,0 +1,19 @@
+{
+  "hadm_id": 28335091,
+  "subject_id": 10014354,
+  "gender": "M",
+  "age": 60,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 60 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: URGENT\n\nRecent Lab Results:\nPlatelet Count: 195.0 K/uL\nWhite Blood Cells: 11.3 K/uL\nRDW: 14.9 %\nMCHC: 31.7 g/dL\nRDW-SD: 46.3 fL\nRed Blood Cells: 3.62 m/uL\nHemoglobin: 9.9 g/dL\nMCH: 27.3 pg\nHematocrit: 31.2 %\nCreatinine: 1.1 mg/dL\n\nCurrent Medications:\nInsulin 0UNIT\nAspirin 81mg\nLORazepam 1mg\nLORazepam 1mg\nLORazepam 0.5mg\nAtorvastatin 80mg\nClopidogrel 75mg\nFurosemide 20mg\nGlucagon 1mg\nIsosorbide Mononitrate (Extended Release) 30mg\n",
+  "diagnosis_icd": "I214",
+  "diagnosis_name": "Non-ST elevation (NSTEMI) myocardial infarction",
+  "lab_events_count": 62,
+  "microbiology_count": 0,
+  "medication_count": 48,
+  "procedure_codes": [
+    "027134Z",
+    "B211YZZ",
+    "B211YZZ"
+  ]
+}

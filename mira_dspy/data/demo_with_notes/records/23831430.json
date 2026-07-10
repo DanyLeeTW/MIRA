@@ -1,0 +1,36 @@
+{
+  "hadm_id": 23831430,
+  "subject_id": 10020740,
+  "gender": "M",
+  "age": 56,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "03842",
+  "diagnosis_name": "Septicemia due to escherichia coli [E. coli]",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10020740\nAdmission ID: 23831430\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 1357,
+  "microbiology_count": 42,
+  "medication_count": 348,
+  "procedure_codes": [
+    "9427",
+    "9604",
+    "9915",
+    "966",
+    "9671",
+    "9671",
+    "9427",
+    "9427",
+    "9427",
+    "9427",
+    "9427",
+    "9671",
+    "9427",
+    "9427",
+    "9604",
+    "3897"
+  ]
+}

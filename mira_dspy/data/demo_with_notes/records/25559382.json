@@ -1,0 +1,19 @@
+{
+  "hadm_id": 25559382,
+  "subject_id": 10004457,
+  "gender": "M",
+  "age": 65,
+  "admission_type": "DIRECT OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "I25110",
+  "diagnosis_name": "Atherosclerotic heart disease of native coronary artery with unstable angina pectoris",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10004457\nAdmission ID: 25559382\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 24,
+  "microbiology_count": 0,
+  "medication_count": 11,
+  "procedure_codes": []
+}

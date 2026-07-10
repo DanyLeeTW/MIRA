@@ -29,7 +29,7 @@ generate_routine()                          │
   ROUTINE_PROMPT f-string)          FHIR backend (labs/imaging/meds/procedures)
 
 
-新增（dspy/，本次改造范围）：
+新增（mira_dspy/，本次改造范围）：
 
 conv.py 的 ping-pong（冻结，不参与优化，原样复用）
         │ 产出完整问诊 transcript
@@ -68,7 +68,7 @@ Rollout 很贵（每次是完整多轮 simulation）+ diagnosis metric 偏 spars
 
 (b) 直接复用现有 metric 基建，rollout cost 更 bounded，且不挡住以后把 (a) 作为独立 phase 补上。
 
-### 4. Metric 设计（`dspy/metrics.py`）
+### 4. Metric 设计（`mira_dspy/metrics.py`）
 
 ```python
 def category_f_beta(gt_and_assistant, gt_only, assistant_only, beta=1.0):
@@ -102,12 +102,12 @@ def mira_metric(gold, pred, trace=None, pred_name=None, pred_trace=None):
 
 决策：**plain F1（beta=1）+ macro-average + diagnosis/order 各 0.5**，全部先用最简单的默认值，等 pipeline 跑通有真实数据后再调——不在验证基本 loop 之前过度设计 metric。`procedure` 类目的 exact-match 局限性（同义表述判不匹配）有意保留，见 proposal.md 的 Known Limitations。
 
-### 5. `dspy/` 目录结构
+### 5. `mira_dspy/` 目录结构
 
-`src/` 是独立可安装包（`hospitalagent-src`，见 `src/pyproject.toml`，`uv pip install -e ./src`）——`dspy/` 同样做成独立包，通过 editable/path dependency 依赖它，而不是 `sys.path` hack。
+`src/` 是独立可安装包（`hospitalagent-src`，见 `src/pyproject.toml`，`uv pip install -e ./src`）——`mira_dspy/` 同样做成独立包，通过 editable/path dependency 依赖它，而不是 `sys.path` hack。
 
 ```
-dspy/
+mira_dspy/
 ├── pyproject.toml          # dependencies = ["hospitalagent-src @ file://../src", "dspy-ai", ...]
 ├── signatures.py           # PlanDifferentialWorkup, ConductWorkup
 ├── tools.py                # dspy.Tool 薄封装，import src.tool_execs.*，不重新实现
@@ -119,10 +119,10 @@ dspy/
     └── compile_and_run.py  # 入口：从 src.evaluations.preprocess 建 trainset，GEPA compile，跑 evaluate
 ```
 
-- `metrics.py` 放 `dspy/` 而不是 `src/evaluations/`：保持"`src/` 完全不动"，内部 import `src.evaluations.objectives` 的 matching 逻辑，只加 reduce-to-scalar 这一层。
+- `metrics.py` 放 `mira_dspy/` 而不是 `src/evaluations/`：保持"`src/` 完全不动"，内部 import `src.evaluations.objectives` 的 matching 逻辑，只加 reduce-to-scalar 这一层。
 - `runs/compile_and_run.py` 用 `variant` 参数/config object 统一处理 bias-injection 和 optional-admission 开关，不重蹈 `src/runs/*.py` 三份 85-90% 重复的覆辙（具体参数化设计留到实现阶段）。
 
-### 6. 模型选型（`dspy/config.py`）
+### 6. 模型选型（`mira_dspy/config.py`）
 
 Task LM 和 optimizer/teacher LM 都用 `glm-5.2`（`dspy.LM` 走 LiteLLM，`"provider/model"` 格式 + 自定义 `api_base`，跟现在 `assistants.py` 用 `OPENAI_BASE_URL` 覆写是同一类机制，接 GLM 无技术障碍）。不引入第二个更强的 teacher 模型，不追求跟论文原始 `gpt-4o`/`o1` 数字可比——这是独立实验，衡量优化前后的提升。
 

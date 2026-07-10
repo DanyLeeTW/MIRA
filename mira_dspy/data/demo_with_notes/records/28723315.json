@@ -1,0 +1,19 @@
+{
+  "hadm_id": 28723315,
+  "subject_id": 10004457,
+  "gender": "M",
+  "age": 65,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "4241",
+  "diagnosis_name": "Aortic valve disorders",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10004457\nAdmission ID: 28723315\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 25,
+  "microbiology_count": 0,
+  "medication_count": 14,
+  "procedure_codes": []
+}

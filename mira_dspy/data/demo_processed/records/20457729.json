@@ -1,0 +1,15 @@
+{
+  "hadm_id": 20457729,
+  "subject_id": 10012853,
+  "gender": "F",
+  "age": 91,
+  "admission_type": "DIRECT OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 91 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: DIRECT OBSERVATION\n\nRecent Lab Results:\nH: 0.0 nan\nHemoglobin: 11.2 g/dL\nMCHC: 30.4 g/dL\nPlatelet Count: 292.0 K/uL\nMCH: 25.1 pg\nWhite Blood Cells: 10.1 K/uL\nHematocrit: 36.8 %\nRDW-SD: 45.5 fL\nMCV: 83.0 fL\nChloride: 101.0 mEq/L\n\nCurrent Medications:\nMultivitamins 1TAB\namLODIPine 5mg\nAspirin 81mg\nAtorvastatin 40mg\nCalcitriol 0.25mcg\nMetoprolol Succinate XL 25mg\nCalcium Carbonate 1250mg\nDocusate Sodium 100mg\nFerrous Sulfate 325mg\nLevothyroxine Sodium 112mcg\n",
+  "diagnosis_icd": "C73",
+  "diagnosis_name": "Malignant neoplasm of thyroid gland",
+  "lab_events_count": 25,
+  "microbiology_count": 0,
+  "medication_count": 19,
+  "procedure_codes": []
+}

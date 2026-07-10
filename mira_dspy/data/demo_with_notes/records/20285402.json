@@ -1,0 +1,23 @@
+{
+  "hadm_id": 20285402,
+  "subject_id": 10007795,
+  "gender": "F",
+  "age": 53,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "00845",
+  "diagnosis_name": "Intestinal infection due to Clostridium difficile",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10007795\nAdmission ID: 20285402\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 64,
+  "microbiology_count": 5,
+  "medication_count": 52,
+  "procedure_codes": [
+    "3897",
+    "966",
+    "3897"
+  ]
+}

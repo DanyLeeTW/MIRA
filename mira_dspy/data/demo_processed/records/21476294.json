@@ -1,0 +1,19 @@
+{
+  "hadm_id": 21476294,
+  "subject_id": 10035631,
+  "gender": "M",
+  "age": 63,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 63 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nCreatinine: 1.3 mg/dL\nAbsolute Eosinophil Count: 1.06 K/uL\nMonocytes: 0.0 %\nMyelocytes: 0.0 %\nLymphocytes: 13.0 %\nAbsolute Lymphocyte Count: 4.96 K/uL\nBlasts: 71.0 %\nNeutrophils: 9.0 %\nAbsolute Monocyte Count: 0.0 K/uL\nEosinophils: 3.0 %\n\nCurrent Medications:\nMultivitamins 1TAB\nVial 1VIAL\nLOPERamide 2mg\nLORazepam 0.5mg\nMidodrine 5mg\nMidodrine 5mg\nMidodrine 2.5mg\nMidodrine 5mg\nMidodrine 5mg\nOxyCODONE (Immediate Release) 5mg\n",
+  "diagnosis_icd": "C92Z2",
+  "diagnosis_name": "Other myeloid leukemia, in relapse",
+  "lab_events_count": 1872,
+  "microbiology_count": 11,
+  "medication_count": 143,
+  "procedure_codes": [
+    "02HV33Z",
+    "3E04305",
+    "07DR3ZX"
+  ]
+}

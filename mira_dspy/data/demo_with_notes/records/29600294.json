@@ -1,0 +1,19 @@
+{
+  "hadm_id": 29600294,
+  "subject_id": 10014354,
+  "gender": "M",
+  "age": 60,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "J208",
+  "diagnosis_name": "Acute bronchitis due to other specified organisms",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10014354\nAdmission ID: 29600294\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 295,
+  "microbiology_count": 5,
+  "medication_count": 115,
+  "procedure_codes": []
+}

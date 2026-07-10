@@ -1,0 +1,27 @@
+{
+  "hadm_id": 20199380,
+  "subject_id": 10005909,
+  "gender": "F",
+  "age": 40,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "I82422",
+  "diagnosis_name": "Acute embolism and thrombosis of left iliac vein",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10005909\nAdmission ID: 20199380\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 197,
+  "microbiology_count": 1,
+  "medication_count": 59,
+  "procedure_codes": [
+    "067D3DZ",
+    "3E03317",
+    "06CN3ZZ",
+    "06H03DZ",
+    "06CD3ZZ",
+    "06CD3ZZ",
+    "067G3DZ"
+  ]
+}

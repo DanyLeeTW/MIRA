@@ -1,0 +1,24 @@
+{
+  "hadm_id": 20429160,
+  "subject_id": 10021487,
+  "gender": "M",
+  "age": 43,
+  "admission_type": "ELECTIVE",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "5720",
+  "diagnosis_name": "Abscess of liver",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10021487\nAdmission ID: 20429160\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 146,
+  "microbiology_count": 7,
+  "medication_count": 50,
+  "procedure_codes": [
+    "3897",
+    "5459",
+    "4573",
+    "5029"
+  ]
+}

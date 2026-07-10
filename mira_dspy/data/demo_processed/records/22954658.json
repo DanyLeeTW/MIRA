@@ -1,0 +1,18 @@
+{
+  "hadm_id": 22954658,
+  "subject_id": 10007058,
+  "gender": "M",
+  "age": 48,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 48 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nCK-MB Index: 6.9 %\nWhite Blood Cells: 12.5 K/uL\nRed Blood Cells: 4.32 m/uL\nRDW-SD: 41.0 fL\nMCHC: 33.1 g/dL\nMCH: 28.9 pg\nPlatelet Count: 205.0 K/uL\nHematocrit: 37.8 %\nHemoglobin: 12.5 g/dL\nMCV: 88.0 fL\n\nCurrent Medications:\nVial 1VIAL\nAspirin 81mg\nBag 1BAG\nBag 1BAG\nAtorvastatin 10mg\nAtorvastatin 40mg\nAtorvastatin 80mg\nMagnesium Sulfate 2gm\nMagnesium Sulfate 2gm\nNitroglycerin SL 0.3mg\n",
+  "diagnosis_icd": "I214",
+  "diagnosis_name": "Non-ST elevation (NSTEMI) myocardial infarction",
+  "lab_events_count": 149,
+  "microbiology_count": 2,
+  "medication_count": 43,
+  "procedure_codes": [
+    "02C03ZZ",
+    "B211YZZ"
+  ]
+}

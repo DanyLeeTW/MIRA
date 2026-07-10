@@ -1,0 +1,15 @@
+{
+  "hadm_id": 22228639,
+  "subject_id": 10037928,
+  "gender": "F",
+  "age": 78,
+  "admission_type": "EU OBSERVATION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 78 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EU OBSERVATION\n\nRecent Lab Results:\nPlatelet Count: 283.0 K/uL\nNeutrophils: 66.1 %\nRDW-SD: 44.3 fL\nAbsolute Lymphocyte Count: 1.4 K/uL\nMCHC: 32.4 g/dL\nAbsolute Basophil Count: 0.05 K/uL\nAbsolute Monocyte Count: 0.84 K/uL\nRed Blood Cells: 4.21 m/uL\nMCH: 30.9 pg\nLymphocytes: 18.2 %\n\nCurrent Medications:\nNo current medications.\n",
+  "diagnosis_icd": "S2232XA",
+  "diagnosis_name": "Fracture of one rib, left side, initial encounter for closed fracture",
+  "lab_events_count": 41,
+  "microbiology_count": 0,
+  "medication_count": 0,
+  "procedure_codes": []
+}

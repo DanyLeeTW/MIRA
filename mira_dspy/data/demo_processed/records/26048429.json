@@ -1,0 +1,19 @@
+{
+  "hadm_id": 26048429,
+  "subject_id": 10003046,
+  "gender": "M",
+  "age": 64,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 64 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: SURGICAL SAME DAY ADMISSION\n\nRecent Lab Results:\nLactate: 1.3 mmol/L\nHematocrit, Calculated: 44.0 %\npCO2: 44.0 mm Hg\nPotassium, Whole Blood: 3.5 mEq/L\nFree Calcium: 1.15 mmol/L\nSodium, Whole Blood: 137.0 mEq/L\npH: 7.33 units\nChloride, Whole Blood: 106.0 mEq/L\nBase Excess: -2.0 mEq/L\nGlucose: 159.0 mg/dL\n\nCurrent Medications:\nInsulin 0UNIT\nBag 1BAG\nBag 1BAG\nBag 1BAG\nNeutra-Phos 1PKT\nVial 1VIAL\nBag 50mL\nBag 50mL\nBag 50mL\nGlucagon 1mg\n",
+  "diagnosis_icd": "1505",
+  "diagnosis_name": "Malignant neoplasm of lower third of esophagus",
+  "lab_events_count": 215,
+  "microbiology_count": 1,
+  "medication_count": 84,
+  "procedure_codes": [
+    "4639",
+    "4242",
+    "966"
+  ]
+}

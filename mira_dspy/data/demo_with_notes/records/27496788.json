@@ -1,0 +1,22 @@
+{
+  "hadm_id": 27496788,
+  "subject_id": 10035631,
+  "gender": "M",
+  "age": 63,
+  "admission_type": "DIRECT EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "78609",
+  "diagnosis_name": "Other respiratory abnormalities",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10035631\nAdmission ID: 27496788\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 128,
+  "microbiology_count": 17,
+  "medication_count": 7,
+  "procedure_codes": [
+    "3327",
+    "3324"
+  ]
+}

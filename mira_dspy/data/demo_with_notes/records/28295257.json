@@ -1,0 +1,21 @@
+{
+  "hadm_id": 28295257,
+  "subject_id": 10002428,
+  "gender": "F",
+  "age": 80,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "K922",
+  "diagnosis_name": "Gastrointestinal hemorrhage, unspecified",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10002428\nAdmission ID: 28295257\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 75,
+  "microbiology_count": 0,
+  "medication_count": 12,
+  "procedure_codes": [
+    "0DJD8ZZ"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "hadm_id": 20291550,
+  "subject_id": 10008454,
+  "gender": "F",
+  "age": 26,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "82111",
+  "diagnosis_name": "Open fracture of shaft of femur",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10008454\nAdmission ID: 20291550\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 287,
+  "microbiology_count": 8,
+  "medication_count": 139,
+  "procedure_codes": [
+    "7915"
+  ]
+}

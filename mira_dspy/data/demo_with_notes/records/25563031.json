@@ -1,0 +1,23 @@
+{
+  "hadm_id": 25563031,
+  "subject_id": 10001725,
+  "gender": "F",
+  "age": 46,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "78829",
+  "diagnosis_name": "Other specified retention of urine",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10001725\nAdmission ID: 25563031\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 102,
+  "microbiology_count": 11,
+  "medication_count": 70,
+  "procedure_codes": [
+    "7094",
+    "7055",
+    "8696"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "hadm_id": 22589518,
+  "subject_id": 10005866,
+  "gender": "M",
+  "age": 57,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 57 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: OBSERVATION ADMIT\n\nRecent Lab Results:\nPTT: 150.0 sec\nAlkaline Phosphatase: 138.0 IU/L\nMCV: 105.0 fL\nHemoglobin: 12.7 g/dL\nRDW: 14.0 %\nMCHC: 33.4 g/dL\nWhite Blood Cells: 5.7 K/uL\nHematocrit: 38.0 %\nRDW-SD: 55.0 fL\nRed Blood Cells: 3.61 m/uL\n\nCurrent Medications:\nMultivitamins 1TAB\nSulfameth/Trimethoprim SS 1TAB\nFurosemide 20mg\nPolyethylene Glycol 17g\nMorphine Sulfate 4mg\nFamotidine 20mg\nLactulose 30mL\nOndansetron 4mg\nHeparin Sodium 25,000UNIT\nHeparin Sodium 25,000UNIT\n",
+  "diagnosis_icd": "A084",
+  "diagnosis_name": "Viral intestinal infection, unspecified",
+  "lab_events_count": 137,
+  "microbiology_count": 5,
+  "medication_count": 22,
+  "procedure_codes": [
+    "0W9G3ZX"
+  ]
+}

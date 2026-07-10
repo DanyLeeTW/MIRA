@@ -1,0 +1,23 @@
+{
+  "hadm_id": 22942076,
+  "subject_id": 10006053,
+  "gender": "M",
+  "age": 52,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "5722",
+  "diagnosis_name": "Hepatic encephalopathy",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10006053\nAdmission ID: 22942076\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 313,
+  "microbiology_count": 7,
+  "medication_count": 63,
+  "procedure_codes": [
+    "3893",
+    "5491",
+    "391"
+  ]
+}

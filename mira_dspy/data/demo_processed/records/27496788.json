@@ -1,0 +1,18 @@
+{
+  "hadm_id": 27496788,
+  "subject_id": 10035631,
+  "gender": "M",
+  "age": 63,
+  "admission_type": "DIRECT EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 63 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: DIRECT EMER.\n\nRecent Lab Results:\nMCV: 101.0 fL\nPTT: 27.4 sec\nINR(PT): 1.0 nan\nHematocrit: 38.8 %\nEosinophils: 11.2 %\nRDW: 12.6 %\nHemoglobin: 13.3 g/dL\nNeutrophils: 66.8 %\nPT: 11.2 sec\nMCHC: 34.4 %\n\nCurrent Medications:\nFoLIC Acid 1mg\nLorazepam 0.5mg\nHeparin 5000UNIT\nAcyclovir 400mg\nTacrolimus 0.5mg\nAcetaminophen 650mg\nSodium Chloride 0.9%  Flush 3mL\n",
+  "diagnosis_icd": "78609",
+  "diagnosis_name": "Other respiratory abnormalities",
+  "lab_events_count": 128,
+  "microbiology_count": 17,
+  "medication_count": 7,
+  "procedure_codes": [
+    "3327",
+    "3324"
+  ]
+}

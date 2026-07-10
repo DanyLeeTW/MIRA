@@ -1,0 +1,23 @@
+{
+  "hadm_id": 27089790,
+  "subject_id": 10012552,
+  "gender": "M",
+  "age": 78,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "41071",
+  "diagnosis_name": "Subendocardial infarction, initial episode of care",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10012552\nAdmission ID: 27089790\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 263,
+  "microbiology_count": 3,
+  "medication_count": 120,
+  "procedure_codes": [
+    "3615",
+    "3612",
+    "3961"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "hadm_id": 20764029,
+  "subject_id": 10029484,
+  "gender": "M",
+  "age": 64,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 64 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: EW EMER.\n\nRecent Lab Results:\nEosinophils: 0.3 %\nMCHC: 32.8 %\nPlatelet Count: 261.0 K/uL\nMCH: 29.9 pg\nHemoglobin: 13.9 g/dL\nLymphocytes: 2.0 %\nRDW: 12.8 %\nHematocrit: 42.5 %\nMonocytes: 2.8 %\nRed Blood Cells: 4.66 m/uL\n\nCurrent Medications:\nInsulin 0UNIT\nInsulin 0UNIT\nInsulin 0UNIT\nInsulin 0UNIT\nAspirin 81mg\nBag 1BAG\nCyclobenzaprine 10mg\nGlucagon 1mg\nHeparin 5000UNIT\nInsulin Human Regular 100UNIT\n",
+  "diagnosis_icd": "0088",
+  "diagnosis_name": "Intestinal infection due to other organism, not elsewhere classified",
+  "lab_events_count": 131,
+  "microbiology_count": 4,
+  "medication_count": 49,
+  "procedure_codes": []
+}

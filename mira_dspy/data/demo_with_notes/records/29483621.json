@@ -1,0 +1,22 @@
+{
+  "hadm_id": 29483621,
+  "subject_id": 10003400,
+  "gender": "F",
+  "age": 72,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "1548",
+  "diagnosis_name": "Malignant neoplasm of other sites of rectum, rectosigmoid junction, and anus",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10003400\nAdmission ID: 29483621\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 300,
+  "microbiology_count": 1,
+  "medication_count": 44,
+  "procedure_codes": [
+    "4523",
+    "4923"
+  ]
+}

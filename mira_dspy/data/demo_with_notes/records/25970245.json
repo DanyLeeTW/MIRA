@@ -1,0 +1,26 @@
+{
+  "hadm_id": 25970245,
+  "subject_id": 10004235,
+  "gender": "M",
+  "age": 47,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "1560",
+  "diagnosis_name": "Malignant neoplasm of gallbladder",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10004235\nAdmission ID: 25970245\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 175,
+  "microbiology_count": 0,
+  "medication_count": 27,
+  "procedure_codes": [
+    "4029",
+    "1742",
+    "5123",
+    "5022",
+    "5137",
+    "5169"
+  ]
+}

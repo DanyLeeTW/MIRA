@@ -1,0 +1,22 @@
+{
+  "hadm_id": 25970245,
+  "subject_id": 10004235,
+  "gender": "M",
+  "age": 47,
+  "admission_type": "SURGICAL SAME DAY ADMISSION",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 47 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: SURGICAL SAME DAY ADMISSION\n\nRecent Lab Results:\nCalculated Total CO2: 22.0 mEq/L\npCO2: 43.0 mm Hg\nBase Excess: -4.0 mEq/L\npH: 7.3 units\nFree Calcium: 1.25 mmol/L\nHemoglobin: 13.3 g/dL\npO2: 258.0 mm Hg\nLactate: 1.5 mmol/L\nChloride, Whole Blood: 109.0 mEq/L\nHematocrit, Calculated: 40.0 %\n\nCurrent Medications:\nOxycoDONE (Immediate Release)  5mg\nWarfarin 1dose\nWarfarin 5mg\nWarfarin 5mg\nHeparin 5000UNIT\nMetoprolol Tartrate 50mg\nMetoprolol Tartrate 5mg\nPantoprazole 40mg\nAmpicillin-Sulbactam 3g\nDocusate Sodium 100mg\n",
+  "diagnosis_icd": "1560",
+  "diagnosis_name": "Malignant neoplasm of gallbladder",
+  "lab_events_count": 175,
+  "microbiology_count": 0,
+  "medication_count": 27,
+  "procedure_codes": [
+    "4029",
+    "1742",
+    "5123",
+    "5022",
+    "5137",
+    "5169"
+  ]
+}

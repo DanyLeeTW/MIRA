@@ -1,0 +1,7802 @@
+hadm_id,subject_id,gender,age,admission_type,chief_complaint,history,diagnosis_icd,diagnosis_name,lab_events_count,microbiology_count,medication_count,procedure_codes
+20282368,10002930,F,48,EU OBSERVATION,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",F39,Unspecified mood [affective] disorder,0,0,0,[]
+26275841,10027445,F,48,EW EMER.,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Neutrophils: 89.4 %
+Monocytes: 2.3 %
+Hemoglobin: 11.3 g/dL
+White Blood Cells: 10.6 K/uL
+Hematocrit: 32.9 %
+MCH: 27.9 pg
+MCHC: 34.5 %
+MCV: 81.0 fL
+RDW: 15.1 %
+Red Blood Cells: 4.06 m/uL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Vial 1VIAL
+",51881,Acute respiratory failure,406,9,101,"['9604', '966', '9671', '3897']"
+20755971,10038081,F,63,URGENT,Abdominal pain,"Patient is a 63 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Creatinine: 1.3 mg/dL
+Urea Nitrogen: 27.0 mg/dL
+Anion Gap: 18.0 mEq/L
+Asparate Aminotransferase (AST): 45.0 IU/L
+Phosphate: 3.0 mg/dL
+Bicarbonate: 24.0 mEq/L
+Chloride: 90.0 mEq/L
+Alkaline Phosphatase: 59.0 IU/L
+Bilirubin, Total: 17.1 mg/dL
+Bilirubin, Indirect: 10.6 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Vial 1VIAL
+Lidocaine Jelly 2% (Urojet) 1Appl
+Metolazone 5mg
+Glucagon 1mg
+Ipratropium-Albuterol Neb 1NEB
+",56723,Spontaneous bacterial peritonitis,919,30,99,"['2101', '5491', '9671', '3893', '3142', '5491', '4513', '9604', '2121']"
+29276678,10035631,M,63,OBSERVATION ADMIT,Abdominal pain,"Patient is a 63 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Absolute Eosinophil Count: 0.0 K/uL
+Magnesium: 2.1 mg/dL
+Anion Gap: 15.0 mEq/L
+Calcium, Total: 8.2 mg/dL
+Bilirubin, Total: 0.3 mg/dL
+Bicarbonate: 25.0 mEq/L
+Alkaline Phosphatase: 76.0 IU/L
+H: 4.0 nan
+PTT: 25.3 sec
+INR(PT): 1.3 nan
+
+Current Medications:
+Bag 1BAG
+Multivitamins 1TAB
+Multivitamins 1TAB
+Multivitamins 1TAB
+Syringe 1SYR
+Vial 1VIAL
+Vial 1VIAL
+Bag 1BAG
+Bag 1BAG
+FoLIC Acid 1mg
+",J9601,Acute respiratory failure with hypoxia,1869,22,331,"['0HB7XZX', '0B968ZX', '5A1D00Z', '0BH17EZ', '3E04305', '5A1955Z', '3E0G76Z', '6A551Z3']"
+22950920,10010867,F,28,OBSERVATION ADMIT,Abdominal pain,"Patient is a 28 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Platelet Count: 295.0 K/uL
+Red Blood Cells: 4.27 m/uL
+RDW: 13.9 %
+MCHC: 30.2 g/dL
+Hematocrit: 38.1 %
+Hemoglobin: 11.5 g/dL
+MCH: 26.9 pg
+MCV: 89.0 fL
+White Blood Cells: 6.3 K/uL
+Urea Nitrogen: 15.0 mg/dL
+
+Current Medications:
+Diazepam 5mg
+Ondansetron 4mg
+OxycoDONE (Immediate Release)  5mg
+CeFAZolin 1g
+Heparin 5000UNIT
+Morphine SR (MS Contin) 30mg
+Morphine SR (MS Contin) 30mg
+Bisacodyl 10mg
+Docusate Sodium 100mg
+Gabapentin 300mg
+",S22059A,"Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture",95,1,25,['0RG8071']
+22995465,10009049,M,56,EW EMER.,Abdominal pain,"Patient is a 56 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+PTT: 33.6 sec
+Chloride: 101.0 mEq/L
+Sodium: 136.0 mEq/L
+Anion Gap: 14.0 mEq/L
+Potassium: 3.9 mEq/L
+Bicarbonate: 25.0 mEq/L
+Creatinine: 1.5 mg/dL
+Urea Nitrogen: 27.0 mg/dL
+Glucose: 106.0 mg/dL
+PT: 16.4 sec
+
+Current Medications:
+Lidocaine Jelly 2% (Urojet) 1Appl
+Heparin 5000UNIT
+Tamsulosin 0.4mg
+Vancomycin 1000mg
+CeftriaXONE 1gm
+Levofloxacin 750mg
+0.9% Sodium Chloride 1BAG
+Ondansetron 4mg
+Senna 8.6mg
+CeftriaXONE 2gm
+",0388,Other specified septicemias,184,13,41,[]
+28324362,10009035,M,28,ELECTIVE,Abdominal pain,"Patient is a 28 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: ELECTIVE
+
+Recent Lab Results:
+Lactate: 1.0 mmol/L
+Hematocrit, Calculated: 43.0 %
+pO2: 449.0 mm Hg
+pH: 7.46 units
+Chloride, Whole Blood: 104.0 mEq/L
+pCO2: 35.0 mm Hg
+Sodium, Whole Blood: 139.0 mEq/L
+Calculated Total CO2: 26.0 mEq/L
+Hemoglobin: 14.2 g/dL
+Potassium, Whole Blood: 3.8 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Aspirin 81mg
+Bag 50mL
+CefazoLIN 2g
+CefazoLIN 2g
+Furosemide 20mg
+Furosemide 20mg
+Glucagon 1mg
+Polyethylene Glycol 17g
+Polyethylene Glycol 17g
+",4240,Mitral valve disorders,173,1,91,"['3512', '3961']"
+22841357,10000032,F,52,EW EMER.,Abdominal pain,"Patient is a 52 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+WBC: 13.0 #/hpf
+RBC: 1.0 #/hpf
+Specific Gravity: 1.023  
+Epithelial Cells: 5.0 #/hpf
+pH: 6.0 units
+MCHC: 35.0 %
+INR(PT): 1.5 nan
+PT: 16.3 sec
+MCH: 34.5 pg
+Phosphate: 3.3 mg/dL
+
+Current Medications:
+Tiotropium Bromide 1CAP
+Sulfameth/Trimethoprim DS 1TAB
+Furosemide 20mg
+Furosemide 40mg
+Heparin 5000UNIT
+Acetaminophen 500mg
+Calcium Carbonate 1250mg
+Lactulose 30mL
+Raltegravir 400mg
+Rifaximin 550mg
+",07071,Unspecified viral hepatitis C with hepatic coma,46,2,15,['5491']
+22081550,10004720,M,61,EW EMER.,Abdominal pain,"Patient is a 61 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Calculated Total CO2: 26.0 mEq/L
+Lactate: 1.6 mmol/L
+Free Calcium: 1.17 mmol/L
+pH: 7.38 units
+Oxygen: 50.0 %
+PEEP: 5.0 nan
+Temperature: 35.3 nan
+Tidal Volume: 450.0 nan
+Base Excess: 0.0 mEq/L
+pCO2: 42.0 mm Hg
+
+Current Medications:
+Neutra-Phos 1PKT
+Bag 1BAG
+CefePIME 2g
+Citalopram 10mg
+Glucagon 1mg
+Polyethylene Glycol 17g
+Heparin 5000UNIT
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Famotidine 20mg
+",J690,Pneumonitis due to inhalation of food and vomit,403,7,82,"['0W9930Z', '02H633Z', '3E0G76Z', '5A1955Z']"
+22390287,10003400,F,72,EW EMER.,Abdominal pain,"Patient is a 72 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Hematocrit: 29.2 %
+MCV: 89.0 fL
+White Blood Cells: 2.5 K/uL
+MCH: 29.7 pg
+Hemoglobin: 9.8 g/dL
+Platelet Count: 149.0 K/uL
+RDW: 17.6 %
+MCHC: 33.5 %
+Red Blood Cells: 3.3 m/uL
+Chloride: 109.0 mEq/L
+
+Current Medications:
+Dexamethasone 4mg
+Multivitamins W/minerals 1TAB
+OxycoDONE (Immediate Release)  5mg
+Citalopram 10mg
+Diltiazem 30mg
+Furosemide 20mg
+Polyethylene Glycol 17g
+Polyethylene Glycol 17g
+Polyethylene Glycol 17g
+Polyethylene Glycol 17g
+",1541,Malignant neoplasm of rectum,219,0,78,['9229']
+22051341,10007795,F,53,EW EMER.,Abdominal pain,"Patient is a 53 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Phosphate: 4.3 mg/dL
+Platelet Count: 234.0 K/uL
+MCHC: 32.2 %
+Hemoglobin: 12.3 g/dL
+Hematocrit: 38.0 %
+MCH: 27.5 pg
+White Blood Cells: 8.5 K/uL
+MCV: 85.0 fL
+Bicarbonate: 26.0 mEq/L
+Anion Gap: 12.0 mEq/L
+
+Current Medications:
+Multivitamins 1TAB
+Vial 1VIAL
+Bag 1BAG
+Lorazepam 1mg
+Cyclobenzaprine 10mg
+Heparin 5000UNIT
+Lactated Ringers 1000mL
+Lactated Ringers 1000mL
+Magnesium Sulfate 2gm
+Multivitamins 5mL
+",27651,Dehydration,20,0,29,[]
+22429197,10010867,F,28,EW EMER.,Abdominal pain,"Patient is a 28 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+pO2: 308.0 mm Hg
+Alveolar-arterial Gradient: 369.0 mm Hg
+Base Excess: -5.0 mEq/L
+Calculated Total CO2: 20.0 mEq/L
+pH: 7.34 units
+pCO2: 35.0 mm Hg
+Required O2: 66.0 nan
+PEEP: 5.0 nan
+Tidal Volume: 450.0 nan
+Oxygen: 100.0 %
+
+Current Medications:
+Insulin 0UNIT
+Bag 1BAG
+CloniDINE 0.2mg
+CeFAZolin 2g
+CefePIME 2g
+CefePIME 2g
+Clonidine Patch 0.2 mg/24 hr 1PTCH
+Fentanyl Citrate 50mcg
+Glucagon 1mg
+Polyethylene Glycol 17g
+",S12600A,"Unspecified displaced fracture of seventh cervical vertebra, initial encounter for closed fracture",433,10,115,"['5A1955Z', '0BJ08ZZ', '0RG10A0', '0RG1071', '0B948ZX', '0B988ZX', '0RB30ZZ', '3E0G76Z', '02H633Z', '0B9B8ZX']"
+29839885,10023117,M,53,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+MCV: 87.0 fL
+PT: 12.0 sec
+INR(PT): 1.0 nan
+PTT: 23.2 sec
+Potassium: 4.1 mEq/L
+Glucose: 105.0 mg/dL
+Urea Nitrogen: 19.0 mg/dL
+Anion Gap: 13.0 mEq/L
+Sodium: 142.0 mEq/L
+Creatinine: 1.9 mg/dL
+
+Current Medications:
+Aspirin 81mg
+Lisinopril 5mg
+Alprazolam 0.25mg
+Atorvastatin 10mg
+Furosemide 20mg
+Omeprazole 20mg
+Topiramate (Topamax) 25mg
+Cephalexin 500mg
+Aluminum-Magnesium Hydrox.-Simethicone 30mL
+Metoprolol Succinate XL 100mg
+",99604,Mechanical complication of automatic implantable cardiac defibrillator,26,0,18,['0051']
+28479513,10018501,M,83,EW EMER.,Abdominal pain,"Patient is a 83 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Sodium: 140.0 mEq/L
+MCV: 95.0 fL
+Hematocrit: 38.9 %
+Creatine Kinase (CK): 124.0 IU/L
+Urea Nitrogen: 20.0 mg/dL
+Potassium: 3.7 mEq/L
+Anion Gap: 13.0 mEq/L
+Phosphate: 2.0 mg/dL
+Red Blood Cells: 4.08 m/uL
+Chloride: 104.0 mEq/L
+
+Current Medications:
+Diazepam 5mg
+Sarna Lotion 1Appl
+Atenolol 25mg
+Haloperidol 5mg
+Haloperidol 5mg
+Haloperidol 5mg
+Heparin 5000UNIT
+Metoprolol Tartrate 5mg
+Omeprazole 20mg
+PHENObarbital Alcohol Withdrawal Dose Taper (Days 2-7) 20mg
+",85221,"Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",64,1,45,['9462']
+24597018,10001217,F,55,EW EMER.,Abdominal pain,"Patient is a 55 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Monocytes: 0.0 %
+Lymphs: 100.0 %
+Polys: 0.0 %
+Total Protein, CSF: 42.0 mg/dL
+Glucose, CSF: 59.0 mg/dL
+RBC, CSF: 5.0 #/uL
+Total Nucleated Cells, CSF: 0.0 #/uL
+Creatinine: 0.7 mg/dL
+Phosphate: 3.6 mg/dL
+Bicarbonate: 22.0 mEq/L
+
+Current Medications:
+OxycoDONE (Immediate Release)  5mg
+Heparin 5000UNIT
+Meropenem 1000mg
+Vancomycin 1000mg
+Bisacodyl 10mg
+Docusate Sodium 100mg
+LeVETiracetam 500mg
+MetRONIDAZOLE (FLagyl) 500mg
+Ondansetron 4mg
+Senna 1TAB
+",3240,Intracranial abscess,140,13,40,"['0331', '0139', '3897']"
+28108313,10004457,M,65,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 65 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+Phosphate: 3.4 mg/dL
+White Blood Cells: 8.0 K/uL
+MCHC: 32.3 g/dL
+Red Blood Cells: 3.78 m/uL
+Hematocrit: 37.8 %
+MCH: 32.3 pg
+Platelet Count: 139.0 K/uL
+MCV: 100.0 fL
+RDW: 15.6 %
+Sodium: 141.0 mEq/L
+
+Current Medications:
+Albuterol 0.083% Neb Soln 1NEB
+Aspirin 325mg
+Heparin 5000UNIT
+Tamsulosin 0.4mg
+Docusate Sodium 100mg
+Ondansetron 4mg
+Diltiazem Extended-Release 120mg
+Dextran 40 10% in NS 500mL
+Influenza Vaccine Quadrivalent 0.5mL
+Levalbuterol Neb 0.63mg
+",I6521,Occlusion and stenosis of right carotid artery,31,0,21,"['03CM0ZZ', '03UH0KZ', '03UM0KZ']"
+24547356,10026354,M,34,URGENT,Abdominal pain,"Patient is a 34 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Hematocrit, Calculated: 45.0 %
+Chloride, Whole Blood: 110.0 mEq/L
+Free Calcium: 1.04 mmol/L
+Glucose: 125.0 mg/dL
+Lactate: 2.6 mmol/L
+Hemoglobin: 14.9 g/dL
+Oxygen Saturation: 97.0 %
+Potassium, Whole Blood: 4.5 mEq/L
+Base Excess: -7.0 mEq/L
+pO2: 361.0 mm Hg
+
+Current Medications:
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Milk of Magnesia 30mL
+0.9% Sodium Chloride 100mL
+Senna 8.6mg
+",S0262XA,"Fracture of subcondylar process of mandible, initial encounter for closed fracture",153,0,60,"['0NST04Z', '0NSS35Z', '0NSV35Z', '03QY0ZZ']"
+23199774,10020740,M,56,EU OBSERVATION,Abdominal pain,"Patient is a 56 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",78052,"Insomnia, unspecified",0,0,0,[]
+24698912,10015860,M,53,EW EMER.,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+L: 4.0 nan
+MCH: 28.3 pg
+Platelet Count: 360.0 K/uL
+RDW: 14.0 %
+Eosinophils: 0.0 %
+MCHC: 33.7 g/dL
+Absolute Neutrophil Count: 23.71 K/uL
+Monocytes: 6.4 %
+Lymphocytes: 1.7 %
+Hematocrit: 26.4 %
+
+Current Medications:
+Bag 1BAG
+Bag 1BAG
+Tuberculin Protein 0.1mL
+Tuberculin Protein 0.1mL
+Vial 1VIAL
+amLODIPine 5mg
+amLODIPine 5mg
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+",A419,"Sepsis, unspecified organism",494,40,153,"['5A1D70Z', '0JBQ0ZZ', '0QBN0ZZ', '02H633Z', '0Y6R0Z0', '0J2TXYZ', '0JH63XZ', '0QBN0ZZ']"
+22539296,10012853,F,91,EW EMER.,Abdominal pain,"Patient is a 91 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+RDW-SD: 49.4 fL
+PT: 33.4 sec
+PTT: 34.2 sec
+INR(PT): 3.0 nan
+Creatinine: 1.1 mg/dL
+Glucose: 95.0 mg/dL
+Chloride: 101.0 mEq/L
+Sodium: 138.0 mEq/L
+Urea Nitrogen: 28.0 mg/dL
+Potassium: 3.3 mEq/L
+
+Current Medications:
+Multivitamins 1TAB
+Amlodipine 5mg
+Aspirin 81mg
+Warfarin 1mg
+Warfarin 2mg
+Warfarin 2mg
+Atorvastatin 40mg
+Hydrochlorothiazide 25mg
+Lisinopril 10mg
+Lisinopril 20mg
+",5849,"Acute kidney failure, unspecified",45,19,23,[]
+27738145,10019777,M,51,EW EMER.,Abdominal pain,"Patient is a 51 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Creatinine: 0.9 mg/dL
+RDW-SD: 43.9 fL
+MCH: 27.4 pg
+Hematocrit: 28.2 %
+MCV: 82.0 fL
+MCHC: 33.3 g/dL
+Platelet Count: 226.0 K/uL
+RDW: 14.8 %
+Hemoglobin: 9.4 g/dL
+White Blood Cells: 21.0 K/uL
+
+Current Medications:
+Vial 1VIAL
+Bag 1BAG
+Lorazepam 1mg
+Lorazepam 1mg
+CefePIME 2g
+CefePIME 2g
+CefePIME 2g
+Polyethylene Glycol 17g
+Polyethylene Glycol 17g
+Heparin 5000UNIT
+",1571,Malignant neoplasm of body of pancreas,943,27,154,"['0040', '3897', '9672', '9604', '8849', '4443', '8847', '9910', '3979', '5211', '8847', '0045', '3893', '3990', '4513', '4513', '8864', '8847', '4444', '8874', '3950', '8848', '3897']"
+20321825,10002428,F,80,EW EMER.,Abdominal pain,"Patient is a 80 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+pO2: 133.0 mm Hg
+pCO2: 78.0 mm Hg
+Oxygen Saturation: 97.0 %
+pH: 7.37 units
+Base Excess: 15.0 mEq/L
+Oxygen: 50.0 %
+Calculated Total CO2: 47.0 mEq/L
+PEEP: 5.0 nan
+Tidal Volume: 300.0 nan
+Temperature: 36.7 nan
+
+Current Medications:
+Albuterol 0.083% Neb Soln 1NEB
+Heparin 5000UNIT
+Levothyroxine Sodium 50mcg
+Famotidine 20mg
+OLANZapine 2.5mg
+Senna 1TAB
+Docusate Sodium (Liquid) 100mg
+Vancomycin Oral Liquid 125mg
+Vancomycin Oral Liquid 500mg
+MetRONIDAZOLE (FLagyl) 500mg
+",51881,Acute respiratory failure,143,4,25,['9390']
+29600294,10014354,M,60,OBSERVATION ADMIT,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Creatinine: 1.0 mg/dL
+PTT: 30.1 sec
+PT: 12.4 sec
+INR(PT): 1.1 nan
+Phosphate: 3.8 mg/dL
+Calcium, Total: 8.8 mg/dL
+L: 10.0 nan
+I: 1.0 nan
+Anion Gap: 16.0 mEq/L
+Magnesium: 2.1 mg/dL
+
+Current Medications:
+Multivitamins 1TAB
+Aspirin 81mg
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+Colchicine 0.6mg
+Colchicine 0.6mg
+OxyCODONE (Immediate Release) 5mg
+OxyCODONE (Immediate Release) 5mg
+OxyCODONE (Immediate Release) 5mg
+",J208,Acute bronchitis due to other specified organisms,295,5,115,[]
+28506150,10016742,F,58,OBSERVATION ADMIT,Abdominal pain,"Patient is a 58 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Creatine Kinase (CK): 80.0 IU/L
+L: 8.0 nan
+H: 6.0 nan
+I: 1.0 nan
+Creatine Kinase, MB Isoenzyme: 5.0 ng/mL
+Troponin T: 0.31 ng/mL
+Creatine Kinase, MB Isoenzyme: 6.0 ng/mL
+Creatine Kinase (CK): 102.0 IU/L
+Troponin T: 0.21 ng/mL
+MCHC: 31.5 g/dL
+
+Current Medications:
+Insulin 0UNIT
+Aspirin 81mg
+Bag 1BAG
+Atorvastatin 80mg
+CefTAZidime 1g
+Glucagon 1mg
+Polyethylene Glycol 17g
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+0.9% Sodium Chloride 1BAG
+",R4182,"Altered mental status, unspecified",113,26,50,"['0BCB8ZZ', '5A1945Z', '0BCF8ZZ']"
+29974575,10020944,M,72,EW EMER.,Abdominal pain,"Patient is a 72 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Hemoglobin: 11.2 g/dL
+Metamyelocytes: 0.0 %
+Atypical Lymphocytes: 0.0 %
+Eosinophils: 2.0 %
+Myelocytes: 0.0 %
+Bands: 0.0 %
+Monocytes: 8.0 %
+Neutrophils: 82.0 %
+Lymphocytes: 8.0 %
+Basophils: 0.0 %
+
+Current Medications:
+Insulin 0UNIT
+Multivitamins 1TAB
+Tiotropium Bromide 1CAP
+Tiotropium Bromide 1CAP
+Vial 1VIAL
+Bag 1BAG
+Bag 1BAG
+Lidocaine Jelly 2% (Urojet) 1Appl
+Vitamin B Complex 1CAP
+Furosemide 40mg
+",03849,Other septicemia due to gram-negative organisms,542,21,103,"['3323', '9604', '3891', '3893', '9672']"
+25926192,10009628,M,58,URGENT,Abdominal pain,"Patient is a 58 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Hematocrit: 39.5 %
+Creatinine: 0.9 mg/dL
+Potassium: 4.0 mEq/L
+Glucose: 225.0 mg/dL
+Magnesium: 2.2 mg/dL
+Lactate Dehydrogenase (LD): 199.0 IU/L
+Bicarbonate: 24.0 mEq/L
+Bilirubin, Total: 0.3 mg/dL
+Urea Nitrogen: 14.0 mg/dL
+Alkaline Phosphatase: 85.0 IU/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Bag 50mL
+Bag 50mL
+Bag 50mL
+",41401,Coronary atherosclerosis of native coronary artery,387,4,166,"['3615', '3961', '3614']"
+26467376,10003400,F,72,EW EMER.,Abdominal pain,"Patient is a 72 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Troponin T: 0.01 ng/mL
+Lactate: 1.2 mmol/L
+RBC: 67.0 #/hpf
+pH: 6.0 units
+Protein: 600.0 mg/dL
+Epithelial Cells: 7.0 #/hpf
+Neutrophils: 69.2 %
+Basophils: 0.1 %
+Monocytes: 13.2 %
+Hemoglobin: 7.6 g/dL
+
+Current Medications:
+Bag 1BAG
+Diltiazem 30mg
+Diltiazem 30mg
+Diltiazem 30mg
+Furosemide 40mg
+Polyethylene Glycol 17g
+Magnesium Sulfate 2gm
+Metoprolol Tartrate 25mg
+Metoprolol Tartrate 50mg
+CeftriaXONE 1gm
+",42731,Atrial fibrillation,204,4,41,[]
+29281842,10016742,F,58,EW EMER.,Abdominal pain,"Patient is a 58 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Glucose: 116.0 mg/dL
+Chloride: 103.0 mEq/L
+Alanine Aminotransferase (ALT): 33.0 IU/L
+Bicarbonate: 33.0 mEq/L
+Anion Gap: 11.0 mEq/L
+Troponin T: 0.11 ng/mL
+Bilirubin, Total: 0.2 mg/dL
+Calcium, Total: 10.0 mg/dL
+Creatinine: 0.3 mg/dL
+Urea Nitrogen: 14.0 mg/dL
+
+Current Medications:
+No current medications.
+",J95851,Ventilator associated pneumonia,273,23,0,"['02HV33Z', '5A1955Z']"
+28661809,10005817,M,66,OBSERVATION ADMIT,Abdominal pain,"Patient is a 66 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Calcium, Total: 9.0 mg/dL
+Phosphate: 3.1 mg/dL
+L: 8.0 nan
+Anion Gap: 19.0 mEq/L
+Asparate Aminotransferase (AST): 54.0 IU/L
+MCV: 91.0 fL
+Glucose: 190.0 mg/dL
+Potassium: 4.5 mEq/L
+Bicarbonate: 23.0 mEq/L
+Alanine Aminotransferase (ALT): 15.0 IU/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+",J9621,Acute and chronic respiratory failure with hypoxia,1158,27,241,"['0B9B8ZX', '0BH17EZ', '0W9930Z', 'DW021ZZ', '5A1955Z', '02HV33Z']"
+27882036,10012853,F,91,EW EMER.,Abdominal pain,"Patient is a 91 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+pO2: 77.0 mm Hg
+Calculated Total CO2: 37.0 mEq/L
+pCO2: 74.0 mm Hg
+Lactate: 0.7 mmol/L
+Base Excess: 5.0 mEq/L
+pH: 7.29 units
+MCH: 24.5 pg
+MCV: 85.0 fL
+Basophils: 0.8 %
+RDW: 19.9 %
+
+Current Medications:
+Multivitamins 1TAB
+Amlodipine 5mg
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+Colchicine 0.6mg
+Colchicine 0.6mg
+Atorvastatin 40mg
+Polyethylene Glycol 17g
+Ipratropium-Albuterol Neb 1NEB
+",I82622,Acute embolism and thrombosis of deep veins of left upper extremity,303,0,63,['5A09557']
+22896692,10012853,F,91,EU OBSERVATION,Abdominal pain,"Patient is a 91 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",R319,"Hematuria, unspecified",0,0,0,[]
+23052851,10020306,F,74,OBSERVATION ADMIT,Abdominal pain,"Patient is a 74 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+PT: 16.5 sec
+Hemoglobin: 12.4 g/dL
+RDW: 16.8 %
+MCHC: 30.0 g/dL
+Anion Gap: 24.0 mEq/L
+Magnesium: 1.4 mg/dL
+Glucose: 120.0 mg/dL
+Creatinine: 1.1 mg/dL
+Hematocrit: 41.4 %
+I: 1.0 nan
+
+Current Medications:
+Calcium Gluconate sliding scale (Critical Care-Ionized calcium) 0g
+Neutra-Phos 1PKT
+Vial 1VIAL
+Apixaban 5mg
+Apixaban 5mg
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+FoLIC Acid 1mg
+",E43,Unspecified severe protein-calorie malnutrition,1102,8,212,"['3E0G76Z', '03HY32Z', '02HV33Z', '0DH63UZ']"
+21101111,10018845,M,91,EW EMER.,Abdominal pain,"Patient is a 91 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Epithelial Cells: 0.0 #/hpf
+pH: 6.0 units
+Ketone: 10.0 mg/dL
+WBC: 13.0 #/hpf
+Protein: 30.0 mg/dL
+Glucose: 100.0 mg/dL
+Specific Gravity: 1.013  
+RBC: 2.0 #/hpf
+MCHC: 32.4 %
+RDW: 12.3 %
+
+Current Medications:
+CefazoLIN 1g
+Heparin 5000UNIT
+Simvastatin 40mg
+Bisacodyl 10mg
+CeftriaXONE 1gm
+Docusate Sodium 100mg
+LeVETiracetam 500mg
+Ondansetron 4mg
+Senna 8.6mg
+Acetaminophen IV 1000mg
+",85220,"Subdural hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",63,2,26,['0124']
+20611640,10032725,F,38,EW EMER.,Abdominal pain,"Patient is a 38 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Red Blood Cells: 4.0 m/uL
+Hemoglobin: 10.4 g/dL
+Eosinophils: 0.4 %
+MCH: 26.0 pg
+White Blood Cells: 19.8 K/uL
+Monocytes: 4.4 %
+Neutrophils: 87.1 %
+RDW: 16.6 %
+Platelet Count: 438.0 K/uL
+Lymphocytes: 8.0 %
+
+Current Medications:
+Insulin 0UNIT
+Glucagon 1mg
+Lidocaine 5% Patch 1PTCH
+Bisacodyl 10mg
+Dexamethasone 10mg
+Docusate Sodium 100mg
+Docusate Sodium 100mg
+Labetalol 100mg
+Protamine Sulfate 50mg
+Senna 1TAB
+",1983,Secondary malignant neoplasm of brain and spinal cord,62,2,44,"['9604', '3893', '9671']"
+22999601,10039708,F,46,DIRECT OBSERVATION,Abdominal pain,"Patient is a 46 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",T8242XA,"Displacement of vascular dialysis catheter, initial encounter",0,0,0,[]
+22416954,10015860,M,53,EU OBSERVATION,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",R2232,"Localized swelling, mass and lump, left upper limb",0,0,0,[]
+27125816,10040025,F,64,AMBULATORY OBSERVATION,Abdominal pain,"Patient is a 64 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: AMBULATORY OBSERVATION
+
+Recent Lab Results:
+Creatinine: 1.5 mg/dL
+Urea Nitrogen: 36.0 mg/dL
+Potassium: 3.8 mEq/L
+Chloride: 98.0 mEq/L
+Sodium: 138.0 mEq/L
+Hematocrit: 35.0 %
+Platelet Count: 202.0 K/uL
+
+Current Medications:
+Insulin 0UNIT
+Aspirin 325mg
+Atorvastatin 80mg
+Clonidine Patch 0.2 mg/24 hr 1PTCH
+Ezetimibe 10mg
+Glucagon 1mg
+HydrALAzine 50mg
+Nitroglycerin SL 0.3mg
+Prasugrel 10mg
+Spironolactone 25mg
+",40390,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",8,0,28,"['0069', '8845']"
+22675517,10013049,M,52,ELECTIVE,Abdominal pain,"Patient is a 52 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: ELECTIVE
+
+Recent Lab Results:
+Potassium, Whole Blood: 3.9 mEq/L
+Calculated Total CO2: 28.0 mEq/L
+Chloride, Whole Blood: 103.0 mEq/L
+Hematocrit, Calculated: 41.0 %
+Lactate: 0.8 mmol/L
+Glucose: 96.0 mg/dL
+Free Calcium: 1.19 mmol/L
+Sodium, Whole Blood: 139.0 mEq/L
+Hemoglobin: 13.5 g/dL
+pCO2: 44.0 mm Hg
+
+Current Medications:
+Insulin 0UNIT
+Aspirin 81mg
+Bag 50mL
+Furosemide 20mg
+Furosemide 20mg
+Glucagon 1mg
+Insulin Human Regular 100UNIT
+Lactated Ringers 1000mL
+Magnesium Sulfate 2gm
+Metoprolol Tartrate 25mg
+",2127,Benign neoplasm of heart,159,1,64,"['3561', '3733', '3961']"
+22732862,10035631,M,63,DIRECT EMER.,Abdominal pain,"Patient is a 63 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+Lymphocytes: 62.0 %
+White Blood Cells: 0.2 K/uL
+MCH: 30.8 pg
+MCHC: 35.8 %
+MCV: 86.0 fL
+RDW: 14.7 %
+Hemoglobin: 8.8 g/dL
+Red Blood Cells: 2.84 m/uL
+Hematocrit: 24.5 %
+Platelet Count: 54.0 K/uL
+
+Current Medications:
+Bag 1BAG
+Bag 1BAG
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+TraMADOL (Ultram) 50mg
+Vancomycin 1000mg
+Vancomycin 1000mg
+Vancomycin 1000mg
+Voriconazole 50mg
+",99933,Local infection due to central venous catheter,507,33,48,"['3324', '9749']"
+20790339,10015860,M,53,EW EMER.,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Glucose: 314.0 mg/dL
+Hematocrit: 30.3 %
+MCH: 28.7 pg
+Monocytes: 2.8 %
+RDW: 14.0 %
+Basophils: 0.7 %
+Eosinophils: 0.6 %
+Red Blood Cells: 3.67 m/uL
+Neutrophils: 92.2 %
+White Blood Cells: 11.9 K/uL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Aspirin 81mg
+Ondansetron 4mg
+Atorvastatin 40mg
+Atorvastatin 40mg
+Glucagon 1mg
+Glucagon 1mg
+",0389,Unspecified septicemia,139,8,38,['8622']
+25970245,10004235,M,47,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 47 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+Calculated Total CO2: 22.0 mEq/L
+pCO2: 43.0 mm Hg
+Base Excess: -4.0 mEq/L
+pH: 7.3 units
+Free Calcium: 1.25 mmol/L
+Hemoglobin: 13.3 g/dL
+pO2: 258.0 mm Hg
+Lactate: 1.5 mmol/L
+Chloride, Whole Blood: 109.0 mEq/L
+Hematocrit, Calculated: 40.0 %
+
+Current Medications:
+OxycoDONE (Immediate Release)  5mg
+Warfarin 1dose
+Warfarin 5mg
+Warfarin 5mg
+Heparin 5000UNIT
+Metoprolol Tartrate 50mg
+Metoprolol Tartrate 5mg
+Pantoprazole 40mg
+Ampicillin-Sulbactam 3g
+Docusate Sodium 100mg
+",1560,Malignant neoplasm of gallbladder,175,0,27,"['4029', '1742', '5123', '5022', '5137', '5169']"
+27167814,10005866,M,57,EW EMER.,Abdominal pain,"Patient is a 57 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Free Calcium: 1.04 mmol/L
+pO2: 122.0 mm Hg
+Calculated Total CO2: 27.0 mEq/L
+pCO2: 40.0 mm Hg
+pH: 7.42 units
+Base Excess: 1.0 mEq/L
+Temperature: 37.1 nan
+PEEP: 8.0 nan
+Oxygen: 50.0 %
+Tidal Volume: 720.0 nan
+
+Current Medications:
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Glutamine 5gm
+Glutamine 5gm
+OxycoDONE (Immediate Release)  5mg
+Albumin 25% (12.5g / 50mL) 12.5g
+Albumin 25% (12.5g / 50mL) 12.5g
+Albumin 25% (12.5g / 50mL) 12.5g
+",K565,Intestinal adhesions [bands] with obstruction (postinfection),367,10,90,"['0W9G3ZZ', '0W3F0ZZ', '0BH17EZ', '5A1935Z', '0DN80ZZ', '0W9G3ZX']"
+28872262,10023117,M,53,EW EMER.,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Calcium, Total: 9.3 mg/dL
+Phosphate: 5.3 mg/dL
+Potassium: 4.1 mEq/L
+Creatinine: 2.3 mg/dL
+Sodium: 139.0 mEq/L
+Anion Gap: 21.0 mEq/L
+Magnesium: 2.3 mg/dL
+Chloride: 101.0 mEq/L
+Bicarbonate: 21.0 mEq/L
+Urea Nitrogen: 43.0 mg/dL
+
+Current Medications:
+Aspirin 81mg
+Bag 50mL
+Lisinopril 5mg
+OLANZapine 5mg
+Atorvastatin 10mg
+CefazoLIN 2g
+Furosemide 40mg
+Furosemide 40mg
+Heparin 5000UNIT
+Heparin 5000UNIT
+",42823,Acute on chronic systolic heart failure,596,3,146,"['3893', '8949', '3721', '3897', '3891', '3774']"
+25742920,10000032,F,52,EW EMER.,Abdominal pain,"Patient is a 52 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Red Blood Cells: 3.36 m/uL
+Asparate Aminotransferase (AST): 221.0 IU/L
+Bilirubin, Total: 1.6 mg/dL
+Urea Nitrogen: 37.0 mg/dL
+Albumin: 3.5 g/dL
+Creatinine: 0.6 mg/dL
+Alanine Aminotransferase (ALT): 132.0 IU/L
+Calcium, Total: 8.6 mg/dL
+Bicarbonate: 26.0 mEq/L
+White Blood Cells: 7.5 K/uL
+
+Current Medications:
+Tiotropium Bromide 1CAP
+Heparin 5000UNIT
+Morphine Sulfate 2mg
+Albumin 25% (12.5g / 50mL) 25g
+Calcium Carbonate 500mg
+Dextrose 50% 25gm
+Dextrose 50% 25gm
+Lactulose 30mL
+0.9% Sodium Chloride 1BAG
+0.9% Sodium Chloride 1BAG
+",07054,Chronic hepatitis C without mention of hepatic coma,69,1,28,['5491']
+26369609,10012853,F,91,EW EMER.,Abdominal pain,"Patient is a 91 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Troponin T: 0.03 ng/mL
+Sodium: 147.0 mEq/L
+Glucose: 148.0 mg/dL
+Anion Gap: 15.0 mEq/L
+Urea Nitrogen: 21.0 mg/dL
+Creatine Kinase, MB Isoenzyme: 4.0 ng/mL
+Calcium, Total: 8.6 mg/dL
+Potassium: 3.6 mEq/L
+Magnesium: 1.7 mg/dL
+Phosphate: 3.9 mg/dL
+
+Current Medications:
+Multivitamins 1TAB
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Warfarin 2mg
+Atorvastatin 40mg
+Heparin 5000UNIT
+HydrALAzine 25mg
+Potassium Chloride 20mEq
+",4150,Acute cor pulmonale,159,0,39,[]
+29163082,10027445,F,48,URGENT,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+MCHC: 35.3 %
+Magnesium: 1.8 mg/dL
+Anion Gap: 15.0 mEq/L
+Phosphate: 2.3 mg/dL
+Creatinine: 0.7 mg/dL
+Urea Nitrogen: 7.0 mg/dL
+Creatine Kinase, MB Isoenzyme: 1.0 ng/mL
+Creatine Kinase (CK): 20.0 IU/L
+Bicarbonate: 25.0 mEq/L
+Sodium: 137.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+",4240,Mitral valve disorders,234,3,61,"['3721', '8872', '3723', '3596', '8854']"
+23514107,10005866,M,57,OBSERVATION ADMIT,Abdominal pain,"Patient is a 57 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+MCH: 34.7 pg
+Anion Gap: 11.0 mEq/L
+I: 3.0 nan
+Bicarbonate: 23.0 mEq/L
+Potassium: 3.7 mEq/L
+Glucose: 98.0 mg/dL
+H: 5.0 nan
+Magnesium: 1.5 mg/dL
+Sodium: 136.0 mEq/L
+Asparate Aminotransferase (AST): 72.0 IU/L
+
+Current Medications:
+Vial 1VIAL
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+",K565,Intestinal adhesions [bands] with obstruction (postinfection),147,0,30,[]
+23983182,10018081,M,79,URGENT,Abdominal pain,"Patient is a 79 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+MCHC: 30.7 %
+PTT: 27.3 sec
+Hemoglobin: 8.4 g/dL
+Lymphocytes: 10.7 %
+Red Blood Cells: 2.76 m/uL
+Hematocrit: 27.3 %
+Monocytes: 5.0 %
+RDW: 15.7 %
+MCV: 99.0 fL
+Eosinophils: 1.1 %
+
+Current Medications:
+Lidocaine Jelly 2% (Urojet) 1Appl
+Heparin 5000UNIT
+Heparin 5000UNIT
+Metoprolol Tartrate 5mg
+Enoxaparin Sodium 40mg
+Enoxaparin Sodium 40mg
+Ondansetron 4mg
+Alteplase (Catheter Clearance) 1mg
+Alteplase (Catheter Clearance) 1mg
+Alteplase (Catheter Clearance) 1mg
+",99859,Other postoperative infection,259,3,59,"['5491', '9915']"
+28003918,10019003,F,65,ELECTIVE,Abdominal pain,"Patient is a 65 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: ELECTIVE
+
+Recent Lab Results:
+RDW: 14.8 %
+Anion Gap: 13.0 mEq/L
+Glucose: 232.0 mg/dL
+Potassium: 4.6 mEq/L
+Bicarbonate: 30.0 mEq/L
+Creatinine: 1.1 mg/dL
+Sodium: 141.0 mEq/L
+Magnesium: 2.2 mg/dL
+Urea Nitrogen: 14.0 mg/dL
+Calcium, Total: 8.4 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Albuterol 0.083% Neb Soln 1NEB
+Albuterol 0.083% Neb Soln 1NEB
+Atenolol 50mg
+Glucagon 1mg
+Heparin 5000UNIT
+Ipratropium Bromide Neb 1NEB
+Ipratropium Bromide Neb 1NEB
+Lisinopril 20mg
+Lactated Ringers 1000mL
+",6202,Other and unspecified ovarian cyst,26,0,27,"['6563', '5732', '6841']"
+26158160,10005866,M,57,EW EMER.,Abdominal pain,"Patient is a 57 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Albumin: 3.0 g/dL
+PT: 15.3 sec
+PTT: 34.5 sec
+Sodium: 123.0 mEq/L
+Alkaline Phosphatase: 67.0 IU/L
+Chloride: 89.0 mEq/L
+Alanine Aminotransferase (ALT): 17.0 IU/L
+Urea Nitrogen: 16.0 mg/dL
+Bilirubin, Total: 2.6 mg/dL
+Bicarbonate: 23.0 mEq/L
+
+Current Medications:
+Vial 1VIAL
+Bag 1BAG
+Lidocaine Jelly 2% (Urojet) 1Appl
+Lidocaine Jelly 2% (Urojet) 1Appl
+Multivitamins W/minerals 1TAB
+OxycoDONE (Immediate Release)  5mg
+Albumin 25% (12.5g / 50mL) 12.5g
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Pantoprazole 40mg
+",5531,Umbilical hernia without mention of obstruction or gangrene,144,0,27,['5349']
+28613200,10015860,M,53,DIRECT EMER.,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+Urea Nitrogen: 28.0 mg/dL
+Sodium: 132.0 mEq/L
+Phosphate: 4.1 mg/dL
+Magnesium: 1.7 mg/dL
+Bicarbonate: 25.0 mEq/L
+Chloride: 100.0 mEq/L
+Creatinine: 1.6 mg/dL
+MCV: 77.0 fL
+Potassium: 4.7 mEq/L
+MCH: 26.1 pg
+
+Current Medications:
+Insulin 0UNIT
+Lisinopril 5mg
+OxycoDONE (Immediate Release)  5mg
+Atenolol 25mg
+DiphenhydrAMINE 25mg
+Glucagon 1mg
+Heparin 5000UNIT
+Lactated Ringers 1000mL
+Omeprazole 20mg
+Simvastatin 40mg
+",25080,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled",59,13,29,['7788']
+24096336,10014354,M,60,EU OBSERVATION,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",T383X1A,"Poisoning by insulin and oral hypoglycemic [antidiabetic] drugs, accidental (unintentional), initial encounter",0,0,0,[]
+22589518,10005866,M,57,OBSERVATION ADMIT,Abdominal pain,"Patient is a 57 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+PTT: 150.0 sec
+Alkaline Phosphatase: 138.0 IU/L
+MCV: 105.0 fL
+Hemoglobin: 12.7 g/dL
+RDW: 14.0 %
+MCHC: 33.4 g/dL
+White Blood Cells: 5.7 K/uL
+Hematocrit: 38.0 %
+RDW-SD: 55.0 fL
+Red Blood Cells: 3.61 m/uL
+
+Current Medications:
+Multivitamins 1TAB
+Sulfameth/Trimethoprim SS 1TAB
+Furosemide 20mg
+Polyethylene Glycol 17g
+Morphine Sulfate 4mg
+Famotidine 20mg
+Lactulose 30mL
+Ondansetron 4mg
+Heparin Sodium 25,000UNIT
+Heparin Sodium 25,000UNIT
+",A084,"Viral intestinal infection, unspecified",137,5,22,['0W9G3ZX']
+26549334,10002428,F,80,EU OBSERVATION,Abdominal pain,"Patient is a 80 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",S0990XA,"Unspecified injury of head, initial encounter",0,0,0,[]
+25129047,10038933,M,34,EW EMER.,Abdominal pain,"Patient is a 34 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+pH: 7.49 units
+pO2: 55.0 mm Hg
+Free Calcium: 1.15 mmol/L
+Lactate: 2.5 mmol/L
+Base Excess: 2.0 mEq/L
+Calculated Total CO2: 26.0 mEq/L
+pCO2: 33.0 mm Hg
+Base Excess: 0.0 mEq/L
+Free Calcium: 0.97 mmol/L
+Glucose: 173.0 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Multivitamins 1TAB
+Multivitamins 1TAB
+",85186,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with loss of consciousness of unspecified duration",390,8,180,"['3329', '966', '9671', '4311']"
+22756440,10021666,M,87,EW EMER.,Abdominal pain,"Patient is a 87 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+RDW: 15.5 %
+Red Blood Cells: 3.56 m/uL
+Hematocrit: 35.1 %
+Potassium: 4.1 mEq/L
+Magnesium: 2.1 mg/dL
+Urea Nitrogen: 20.0 mg/dL
+Anion Gap: 18.0 mEq/L
+Platelet Count: 152.0 K/uL
+Bicarbonate: 26.0 mEq/L
+Sodium: 142.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Multivitamins 1TAB
+Neutra-Phos 1PKT
+Neutra-Phos 1PKT
+Donepezil 5mg
+FoLIC Acid 1mg
+Lidocaine Jelly 2% (Urojet) 1Appl
+Lorazepam 0.5mg
+Albuterol 0.083% Neb Soln 1NEB
+Ezetimibe 10mg
+",85201,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",279,3,72,"['9608', '966']"
+28295257,10002428,F,80,OBSERVATION ADMIT,Abdominal pain,"Patient is a 80 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+MCV: 96.0 fL
+MCH: 31.5 pg
+Platelet Count: 281.0 K/uL
+RDW: 13.3 %
+MCHC: 33.0 g/dL
+Red Blood Cells: 3.52 m/uL
+Hemoglobin: 11.1 g/dL
+Hematocrit: 33.6 %
+White Blood Cells: 11.3 K/uL
+RDW-SD: 46.7 fL
+
+Current Medications:
+Multivitamins 1TAB
+Levothyroxine Sodium 75mcg
+Mirtazapine 30mg
+BuPROPion XL (Once Daily) 150mg
+Acetaminophen 1000mg
+Sodium Chloride 0.9%  Flush 3mL
+Sodium Chloride 0.9%  Flush 3mL
+TraMADol 50-100mg
+Calcitonin Salmon 200UNIT
+Sodium Chloride 0.9% 1000mL
+",K922,"Gastrointestinal hemorrhage, unspecified",75,0,12,['0DJD8ZZ']
+20900955,10014354,M,60,EU OBSERVATION,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",R410,"Disorientation, unspecified",0,0,0,[]
+29374560,10016150,M,69,EW EMER.,Abdominal pain,"Patient is a 69 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Monocytes: 6.7 %
+Neutrophils: 71.0 %
+PTT: 46.2 sec
+INR(PT): 1.2 nan
+PT: 13.5 sec
+RDW: 13.1 %
+Basophils: 0.5 %
+Eosinophils: 1.4 %
+Hematocrit: 45.5 %
+Lymphocytes: 20.4 %
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Finasteride 5mg
+OxycoDONE (Immediate Release)  5mg
+OxycoDONE (Immediate Release)  5mg
+Aspirin 325mg
+Glucagon 1mg
+Glucagon 1mg
+",41402,Coronary atherosclerosis of autologous vein bypass graft,135,27,55,"['8853', '8856', '3722']"
+22733922,10002930,F,48,URGENT,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+Multivitamins 1TAB
+FoLIC Acid 1mg
+FoLIC Acid 1mg
+Sulfameth/Trimethoprim DS 1TAB
+Lidocaine 5% Patch 1PTCH
+QUEtiapine Fumarate 25mg
+QUEtiapine Fumarate 50mg
+Sertraline 25mg
+Calcium Carbonate 500mg
+QUEtiapine Fumarate 100mg
+",F1994,"Other psychoactive substance use, unspecified with psychoactive substance-induced mood disorder",0,0,21,[]
+29366372,10018423,M,37,EW EMER.,Abdominal pain,"Patient is a 37 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Calcium, Total: 9.6 mg/dL
+Red Blood Cells: 5.86 m/uL
+Triglycerides: 384.0 mg/dL
+Cholesterol, HDL: 35.0 mg/dL
+Cholesterol, LDL, Calculated: 134.0 mg/dL
+Cholesterol, Total: 246.0 mg/dL
+Cholesterol Ratio (Total/HDL): 7.0 Ratio
+Magnesium: 2.0 mg/dL
+Sodium: 136.0 mEq/L
+Anion Gap: 16.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Aspirin 81mg
+Aspirin 81mg
+Bag 1mL
+OxycoDONE (Immediate Release)  5mg
+Albuterol 0.083% Neb Soln 1NEB
+Atorvastatin 40mg
+Atorvastatin 80mg
+Atorvastatin 80mg
+Atorvastatin 80mg
+",I25110,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,350,3,123,"['3E080GC', 'B2111ZZ', '03B14ZZ', '02100A9', '03B04ZZ', '021009W', '4A023N7', '06BP4ZZ', '02100A8', '5A1221Z']"
+29483621,10003400,F,72,EW EMER.,Abdominal pain,"Patient is a 72 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Chloride: 112.0 mEq/L
+Platelet Count: 111.0 K/uL
+White Blood Cells: 3.2 K/uL
+MCV: 88.0 fL
+Red Blood Cells: 3.06 m/uL
+Hematocrit: 26.9 %
+MCH: 29.4 pg
+MCHC: 33.4 %
+Albumin: 2.6 g/dL
+INR(PT): 2.6 nan
+
+Current Medications:
+Bag 1BAG
+Bag 1BAG
+OxycoDONE (Immediate Release)  5mg
+Phytonadione 5mg
+Furosemide 80mg
+Polyethylene Glycol 17g
+Polyethylene Glycol 17g
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Warfarin 2.5mg
+",1548,"Malignant neoplasm of other sites of rectum, rectosigmoid junction, and anus",300,1,44,"['4523', '4923']"
+27112038,10021487,M,43,EW EMER.,Abdominal pain,"Patient is a 43 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+INR(PT): 1.2 nan
+RDW: 14.5 %
+MCH: 28.1 pg
+Hematocrit: 41.3 %
+MCHC: 31.8 %
+MCV: 88.0 fL
+Hemoglobin: 13.1 g/dL
+Red Blood Cells: 4.67 m/uL
+White Blood Cells: 12.3 K/uL
+Sodium: 136.0 mEq/L
+
+Current Medications:
+Multivitamins 1TAB
+OxycoDONE (Immediate Release)  5mg
+OxycoDONE (Immediate Release)  5mg
+Heparin 5000UNIT
+Lactated Ringers 1000mL
+Ciprofloxacin HCl 500mg
+Docusate Sodium 100mg
+Ibuprofen 600mg
+MetRONIDAZOLE (FLagyl) 500mg
+Senna 1TAB
+",99859,Other postoperative infection,49,45,33,['5491']
+22130791,10015931,M,87,URGENT,Abdominal pain,"Patient is a 87 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Monocytes: 13.6 %
+Magnesium: 2.1 mg/dL
+Anion Gap: 18.0 mEq/L
+L: 7.0 nan
+Absolute Neutrophil Count: 6.7 K/uL
+Absolute Eosinophil Count: 0.18 K/uL
+Reticulocyte Count, Automated: 4.3 %
+RDW-SD: 45.5 fL
+MCH: 30.6 pg
+Absolute Monocyte Count: 1.32 K/uL
+
+Current Medications:
+Insulin 0UNIT
+Tiotropium Bromide 1CAP
+Vial 1VIAL
+Bag 1BAG
+Bag 1BAG
+Lidocaine Jelly 2% (Urojet) 1Appl
+CefePIME 1g
+CefePIME 2g
+Glucagon 1mg
+Ipratropium Bromide Neb 1NEB
+",K921,Melena,761,5,87,"['5A1945Z', 'B415YZZ', '0DJ08ZZ', '0DC68ZZ', 'B414YZZ', '0DJ08ZZ', '02HV33Z', '04HL33Z', '04L23DZ']"
+28887654,10023117,M,53,DIRECT EMER.,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+Hemoglobin: 12.4 g/dL
+Asparate Aminotransferase (AST): 25.0 IU/L
+Alanine Aminotransferase (ALT): 23.0 IU/L
+Chloride: 99.0 mEq/L
+Calcium, Total: 9.6 mg/dL
+Potassium: 4.8 mEq/L
+Bicarbonate: 21.0 mEq/L
+Glucose: 114.0 mg/dL
+Magnesium: 2.2 mg/dL
+Anion Gap: 21.0 mEq/L
+
+Current Medications:
+Aspirin 81mg
+Atorvastatin 10mg
+Heparin 5000UNIT
+HydrALAzine 10mg
+Isosorbide Mononitrate (Extended Release) 30mg
+Potassium Chloride 20mEq
+Metoprolol Tartrate 25mg
+OLANZapine 10mg
+Omeprazole 20mg
+Allopurinol 100mg
+",I5023,Acute on chronic systolic (congestive) heart failure,126,0,31,[]
+22502504,10014354,M,60,EU OBSERVATION,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+Red Blood Cells: 3.51 m/uL
+Sodium: 132.0 mEq/L
+Anion Gap: 11.0 mEq/L
+Magnesium: 2.1 mg/dL
+H: 0.0 nan
+Urea Nitrogen: 10.0 mg/dL
+Potassium: 4.0 mEq/L
+Chloride: 96.0 mEq/L
+Creatine Kinase, MB Isoenzyme: 2.0 ng/mL
+Glucose: 101.0 mg/dL
+
+Current Medications:
+Aspirin 81mg
+Aspirin 325mg
+Atorvastatin 80mg
+Clopidogrel 75mg
+Clopidogrel 75mg
+Glucagon 1mg
+Acetaminophen 500mg
+D5W 250mL
+Insulin 56UNIT
+Insulin 56UNIT
+",R0789,Other chest pain,26,0,16,[]
+24181354,10004235,M,47,URGENT,Abdominal pain,"Patient is a 47 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Phosphate: 8.7 mg/dL
+Platelet Count: 24.0 K/uL
+Metamyelocytes: 1.0 %
+Monocytes: 2.0 %
+Basophils: 0.0 %
+Lymphocytes: 7.0 %
+Atypical Lymphocytes: 0.0 %
+MCV: 87.0 fL
+MCH: 28.3 pg
+Red Blood Cells: 4.19 m/uL
+
+Current Medications:
+Insulin 0UNIT
+Bag 1BAG
+Bag 1BAG
+Lisinopril 5mg
+Warfarin 5mg
+CefePIME 2g
+CefePIME 2g
+CefePIME 2g
+CefePIME 2g
+Diltiazem 90mg
+",03842,Septicemia due to escherichia coli [E. coli],843,13,195,"['3891', '5187', '9671', '3897', '3995']"
+27996267,10040025,F,64,OBSERVATION ADMIT,Abdominal pain,"Patient is a 64 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Neutrophils: 86.0 %
+Urea Nitrogen: 57.0 mg/dL
+Glucose: 118.0 mg/dL
+Sodium: 139.0 mEq/L
+L: 6.0 nan
+Potassium: 4.8 mEq/L
+Bicarbonate: 28.0 mEq/L
+Anion Gap: 14.0 mEq/L
+H: 160.0 nan
+Metamyelocytes: 0.0 %
+
+Current Medications:
+Tiotropium Bromide 1CAP
+Aspirin 81mg
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+LORazepam 0.5mg
+LORazepam 0.5mg
+Multivitamins W/minerals 1TAB
+OxyCODONE (Immediate Release) 5mg
+Albuterol 0.083% Neb Soln 1NEB
+",T814XXA,"Infection following a procedure, initial encounter",696,31,187,"['0LBW0ZZ', '0JBP0ZZ', '0JDM0ZZ', '0JDM0ZZ', '02HV33Z', '0JDP0ZZ']"
+21477991,10027602,F,71,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 71 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+pO2: 250.0 mm Hg
+Hemoglobin: 11.5 g/dL
+pCO2: 34.0 mm Hg
+Calculated Total CO2: 24.0 mEq/L
+Potassium, Whole Blood: 3.5 mEq/L
+pH: 7.45 units
+Oxygen Saturation: 99.0 %
+Hematocrit, Calculated: 35.0 %
+Chloride, Whole Blood: 103.0 mEq/L
+Free Calcium: 1.06 mmol/L
+
+Current Medications:
+Insulin 0UNIT
+Bag 1BAG
+Diazepam 2mg
+Glucagon 1mg
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Propranolol 10mg
+Bisacodyl 10mg
+Docusate Sodium 100mg
+Iso-Osmotic Sodium Chloride 1BAG
+",4373,"Cerebral aneurysm, nonruptured",102,0,43,"['966', '0159', '8841', '9359']"
+26529390,10019003,F,65,DIRECT EMER.,Abdominal pain,"Patient is a 65 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+Albumin: 4.1 g/dL
+Asparate Aminotransferase (AST): 30.0 IU/L
+Creatinine: 1.2 mg/dL
+Calcium, Total: 8.4 mg/dL
+Bicarbonate: 25.0 mEq/L
+Lactate Dehydrogenase (LD): 889.0 IU/L
+Chloride: 106.0 mEq/L
+Alanine Aminotransferase (ALT): 7.0 IU/L
+Alkaline Phosphatase: 61.0 IU/L
+Potassium: 3.6 mEq/L
+
+Current Medications:
+Multivitamins 1TAB
+Tiotropium Bromide 1CAP
+Bag 1BAG
+Glucagon 1mg
+Levothyroxine Sodium 88mcg
+Magnesium Sulfate 2gm
+Pantoprazole 40mg
+TraMADol 50mg
+Hydroxyurea 500mg
+Hydroxyurea 500mg
+",D735,Infarction of spleen,142,0,24,"['02HV33Z', '07DR3ZX', '0B9J8ZX', 'D7021ZZ', '0B9D8ZX']"
+20626031,10005817,M,66,URGENT,Abdominal pain,"Patient is a 66 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+pH: 6.0 units
+WBC: 28.0 #/hpf
+Epithelial Cells: 0.0 #/hpf
+Protein: 30.0 mg/dL
+Specific Gravity: 1.033  
+Albumin: 3.2 g/dL
+Lactate Dehydrogenase (LD): 252.0 IU/L
+Amylase: 30.0 IU/L
+Lipase: 18.0 IU/L
+Asparate Aminotransferase (AST): 30.0 IU/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+",41071,"Subendocardial infarction, initial episode of care",409,11,194,"['3961', '3615', '3612']"
+21791856,10040025,F,64,OBSERVATION ADMIT,Abdominal pain,"Patient is a 64 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Chloride: 91.0 mEq/L
+White Blood Cells: 8.9 K/uL
+Red Blood Cells: 3.44 m/uL
+Hemoglobin: 10.5 g/dL
+Hematocrit: 34.0 %
+Platelet Count: 246.0 K/uL
+MCHC: 30.9 g/dL
+MCV: 99.0 fL
+RDW: 13.6 %
+PTT: 48.1 sec
+
+Current Medications:
+Aspirin 81mg
+LORazepam 1mg
+LORazepam 0.5mg
+Ondansetron 4mg
+Warfarin 5mg
+Warfarin 5mg
+Albuterol 0.083% Neb Soln 1NEB
+Losartan Potassium 25mg
+Ezetimibe 10mg
+Febuxostat 40mg
+",J441,Chronic obstructive pulmonary disease with (acute) exacerbation,181,1,67,[]
+21133938,10023117,M,53,OBSERVATION ADMIT,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Creatinine: 3.4 mg/dL
+Chloride: 94.0 mEq/L
+Bicarbonate: 17.0 mEq/L
+NTproBNP: 62656.0 pg/mL
+Sodium: 133.0 mEq/L
+Platelet Count: 307.0 K/uL
+MCV: 74.0 fL
+MCH: 21.0 pg
+Red Blood Cells: 6.72 m/uL
+RDW-SD: 56.7 fL
+
+Current Medications:
+Insulin 0UNIT
+Vial 1VIAL
+Zolpidem Tartrate 5mg
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Lidocaine Jelly 2% (Urojet) 1Appl
+",R570,Cardiogenic shock,683,13,152,"['0BH18EZ', '4A133B3', '5A1945Z', '4A1239Z', '02HP32Z']"
+20572787,10039708,F,46,EW EMER.,Abdominal pain,"Patient is a 46 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Magnesium: 1.5 mg/dL
+Phosphate: 4.6 mg/dL
+Potassium: 4.0 mEq/L
+Urea Nitrogen: 15.0 mg/dL
+Anion Gap: 18.0 mEq/L
+Sodium: 142.0 mEq/L
+Calcium, Total: 8.5 mg/dL
+Bicarbonate: 25.0 mEq/L
+Creatinine: 0.9 mg/dL
+Chloride: 103.0 mEq/L
+
+Current Medications:
+Multivitamins 1TAB
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+FoLIC Acid 1mg
+Cyanocobalamin 1000mcg
+Cyanocobalamin 1000mcg
+Cyanocobalamin 1000mcg
+Cyanocobalamin 1000mcg
+Cyanocobalamin 1000mcg
+",2651,Other and unspecified manifestations of thiamine deficiency,169,1,44,[]
+28723315,10004457,M,65,EW EMER.,Abdominal pain,"Patient is a 65 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Anion Gap: 10.0 mEq/L
+MCV: 98.0 fL
+White Blood Cells: 6.5 K/uL
+MCHC: 32.0 %
+Platelet Count: 265.0 K/uL
+RDW: 14.2 %
+Hematocrit: 42.9 %
+Red Blood Cells: 4.39 m/uL
+Triglycerides: 199.0 mg/dL
+Cholesterol, HDL: 56.0 mg/dL
+
+Current Medications:
+Lisinopril 5mg
+Aspirin 325mg
+Clopidogrel 75mg
+Heparin 5000UNIT
+Docusate Sodium 100mg
+Enoxaparin Sodium 40mg
+Pneumococcal Vac Polyvalent 0.5mL
+Senna 1TAB
+Niacin SR 250mg
+Niacin SR 500mg
+",4241,Aortic valve disorders,25,0,14,[]
+27296885,10003400,F,72,EW EMER.,Abdominal pain,"Patient is a 72 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Sodium: 143.0 mEq/L
+PT: 37.7 sec
+INR(PT): 3.4 nan
+RDW: 20.7 %
+MCV: 87.0 fL
+Platelet Count: 116.0 K/uL
+Hematocrit: 24.9 %
+Red Blood Cells: 2.87 m/uL
+MCHC: 32.7 %
+White Blood Cells: 2.7 K/uL
+
+Current Medications:
+Bag 1BAG
+Warfarin 1mg
+Furosemide 40mg
+Furosemide 40mg
+Polyethylene Glycol 17g
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Psyllium Wafer 3.4gm
+CeftriaXONE 1gm
+Docusate Sodium 100mg
+",34839,Other encephalopathy,70,0,25,[]
+26352758,10015860,M,53,URGENT,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+MCHC: 33.1 g/dL
+Hematocrit: 30.2 %
+Absolute Eosinophil Count: 0.14 K/uL
+Chloride: 93.0 mEq/L
+Urea Nitrogen: 27.0 mg/dL
+Anion Gap: 13.0 mEq/L
+Immature Granulocytes: 0.5 %
+H: 4.0 nan
+Potassium: 4.3 mEq/L
+Sodium: 137.0 mEq/L
+
+Current Medications:
+Aspirin 81mg
+Lisinopril 5mg
+LORazepam 0.5mg
+Nephrocaps 1CAP
+Atorvastatin 20mg
+Glucagon 1mg
+Heparin 5000UNIT
+Pantoprazole 40mg
+Bisacodyl 10mg
+Docusate Sodium 100mg
+",S72145A,"Nondisplaced intertrochanteric fracture of left femur, initial encounter for closed fracture",85,0,39,"['0QH736Z', '5A1D70Z']"
+24980601,10014354,M,60,OBSERVATION ADMIT,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Vitamin B12: 513.0 pg/mL
+Absolute Lymphocyte Count: 2.84 K/uL
+Eosinophils: 3.0 %
+Absolute Eosinophil Count: 0.26 K/uL
+Atypical Lymphocytes: 1.0 %
+Monocytes: 10.0 %
+Lymphocytes: 32.0 %
+Absolute Neutrophil Count: 4.47 K/uL
+Thyroid Stimulating Hormone: 28.0 uIU/mL
+Thyroxine (T4), Free: 0.7 ng/dL
+
+Current Medications:
+Sucralfate 1gm
+HYDROmorphone (Dilaudid) 2mg
+LORazepam 0.5mg
+Ramelteon 8mg
+Ramelteon 8mg
+Sarna Lotion 1Appl
+Atorvastatin 40mg
+Fenofibrate 48mg
+Furosemide 20mg
+Furosemide 20mg
+",F447,Conversion disorder with mixed symptom presentation,152,0,76,[]
+26090619,10003400,F,72,EW EMER.,Abdominal pain,"Patient is a 72 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+INR(PT): 9.6 nan
+Hemoglobin: 11.7 g/dL
+Monocytes: 3.1 %
+RDW: 16.2 %
+Glucose: 157.0 mg/dL
+Potassium: 4.0 mEq/L
+Sodium: 135.0 mEq/L
+Chloride: 101.0 mEq/L
+Anion Gap: 15.0 mEq/L
+Bicarbonate: 23.0 mEq/L
+
+Current Medications:
+Lenalidomide (Revlimide)15mg  15mg
+Phytonadione 5mg
+Amlodipine 2.5mg
+Furosemide 40mg
+Lisinopril 20mg
+Clarithromycin 250mg
+Pneumococcal Vac Polyvalent 0.5mL
+Metoprolol Tartrate 100mg
+Sodium Chloride 0.9%  Flush 3mL
+Acetaminophen 325-650mg
+",59972,Microscopic hematuria,108,0,11,[]
+25085565,10015860,M,53,EW EMER.,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Sodium: 129.0 mEq/L
+Urea Nitrogen: 16.0 mg/dL
+Creatine Kinase (CK): 26.0 IU/L
+Magnesium: 2.0 mg/dL
+Chloride: 96.0 mEq/L
+Glucose: 249.0 mg/dL
+Phosphate: 2.7 mg/dL
+Calcium, Total: 8.4 mg/dL
+Bicarbonate: 23.0 mEq/L
+Potassium: 4.6 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Bag 50mL
+GlyBURIDE 5mg
+Lisinopril 5mg
+Lorazepam 0.5mg
+Sarna Lotion 1Appl
+CeftriaXONE 2gm
+",0380,Streptococcal septicemia,386,15,77,"['8669', '8344', '3897', '8604', '8604', '8604']"
+20093566,10039708,F,46,OBSERVATION ADMIT,Abdominal pain,"Patient is a 46 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+MCV: 100.0 fL
+RDW-SD: 74.4 fL
+Platelet Count: 80.0 K/uL
+White Blood Cells: 6.7 K/uL
+Red Blood Cells: 2.45 m/uL
+Hemoglobin: 7.6 g/dL
+MCHC: 31.0 g/dL
+Hematocrit: 24.5 %
+MCH: 31.0 pg
+RDW: 21.1 %
+
+Current Medications:
+Multivitamins 1TAB
+Vial 1VIAL
+Vial 1VIAL
+Sucralfate 1gm
+FoLIC Acid 1mg
+LORazepam 0.5mg
+CefTRIAXone 1gm
+Diazepam - CIWA protocol 10mg
+Ipratropium Bromide Neb 1NEB
+Pantoprazole 40mg
+",K7040,Alcoholic hepatic failure without coma,242,1,45,['5A1D70Z']
+25561728,10024043,M,67,EU OBSERVATION,Abdominal pain,"Patient is a 67 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",78609,Other respiratory abnormalities,0,0,0,[]
+29488258,10039708,F,46,OBSERVATION ADMIT,Abdominal pain,"Patient is a 46 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Lymphocytes: 22.9 %
+STX6: -49.0 nan
+Glucose: 85.0 mg/dL
+Bilirubin, Total: 1.8 mg/dL
+Alkaline Phosphatase: 429.0 IU/L
+Albumin: 4.0 g/dL
+Calcium, Total: 9.2 mg/dL
+Alanine Aminotransferase (ALT): 33.0 IU/L
+H: 99.0 nan
+L: 11.0 nan
+
+Current Medications:
+Multivitamins 1TAB
+Sucralfate 1gm
+FoLIC Acid 1mg
+LORazepam 0.5mg
+LORazepam 0.5mg
+Heparin 5000UNIT
+Ipratropium-Albuterol Neb 1NEB
+Nicotine Patch 7mg/day
+Pantoprazole 40mg
+Allopurinol 100mg
+",K7290,"Hepatic failure, unspecified without coma",163,0,25,['5A1D70Z']
+23721604,10037928,F,78,EW EMER.,Abdominal pain,"Patient is a 78 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Urea Nitrogen: 38.0 mg/dL
+RDW: 13.9 %
+Red Blood Cells: 4.77 m/uL
+MCH: 31.2 pg
+MCHC: 33.0 %
+Hematocrit: 45.1 %
+Platelet Count: 162.0 K/uL
+INR(PT): 1.0 nan
+PT: 10.6 sec
+PTT: 26.1 sec
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Bag 1BAG
+Bag 1BAG
+Albuterol 0.083% Neb Soln 1NEB
+Albuterol 0.083% Neb Soln 1NEB
+Albuterol 0.083% Neb Soln 1NEB
+Atorvastatin 20mg
+BusPIRone 10mg
+",00845,Intestinal infection due to Clostridium difficile,236,20,58,['3324']
+21636229,10005866,M,57,OBSERVATION ADMIT,Abdominal pain,"Patient is a 57 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Platelet Count: 142.0 K/uL
+Hemoglobin: 11.7 g/dL
+Hematocrit: 36.4 %
+RDW: 14.7 %
+MCHC: 32.1 g/dL
+White Blood Cells: 5.9 K/uL
+Red Blood Cells: 3.49 m/uL
+MCH: 33.5 pg
+RDW-SD: 57.0 fL
+Alanine Aminotransferase (ALT): 16.0 IU/L
+
+Current Medications:
+Multivitamins 1TAB
+Sulfameth/Trimethoprim SS 1TAB
+Furosemide 20mg
+Polyethylene Glycol 17g
+Heparin 5000UNIT
+Lidocaine 5% Patch 1PTCH
+Famotidine 20mg
+Bisacodyl 10mg
+Bisacodyl 10mg
+Bisacodyl 10mg
+",K660,Peritoneal adhesions (postprocedural) (postinfection),148,0,29,['0W9G3ZX']
+25933959,10040025,F,64,ELECTIVE,Abdominal pain,"Patient is a 64 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: ELECTIVE
+
+Recent Lab Results:
+I: 0.0 nan
+Chloride: 93.0 mEq/L
+Creatinine: 2.6 mg/dL
+Anion Gap: 21.0 mEq/L
+H: 7.0 nan
+L: 13.0 nan
+Sodium: 133.0 mEq/L
+Phosphate: 4.9 mg/dL
+Bicarbonate: 23.0 mEq/L
+Potassium: 3.9 mEq/L
+
+Current Medications:
+Aspirin 81mg
+FoLIC Acid 1mg
+OxyCODONE (Immediate Release) 5mg
+CefTAZidime 1g
+CefTAZidime 1g
+Ezetimibe 10mg
+Febuxostat 40mg
+Glucagon 1mg
+Polyethylene Glycol 17g
+Heparin 5000UNIT
+",E11621,Type 2 diabetes mellitus with foot ulcer,293,0,105,"['0LBW0ZZ', '06BQ0ZZ', '041L09L']"
+27617929,10037975,M,60,URGENT,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+pH: 7.1 units
+Free Calcium: 0.84 mmol/L
+Lactate: 2.5 mmol/L
+Red Blood Cells: 4.08 m/uL
+Hemoglobin: 12.5 g/dL
+MCV: 93.0 fL
+White Blood Cells: 3.5 K/uL
+Calcium, Total: 5.4 mg/dL
+INR(PT): 1.7 nan
+PTT: 55.4 sec
+
+Current Medications:
+Vial 1VIAL
+CefePIME 2g
+CefePIME 2g
+Polyethylene Glycol 17g
+Polyethylene Glycol 17g
+Hydrocortisone Na Succ. 100mg
+Heparin 5000UNIT
+Heparin 5000UNIT
+Meropenem 1000mg
+Famotidine 20mg
+",03849,Other septicemia due to gram-negative organisms,831,35,111,"['966', '3891', '9672']"
+26793610,10039708,F,46,OBSERVATION ADMIT,Abdominal pain,"Patient is a 46 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+MCH: 33.3 pg
+Creatinine: 3.9 mg/dL
+Asparate Aminotransferase (AST): 94.0 IU/L
+L: 41.0 nan
+Urea Nitrogen: 102.0 mg/dL
+Bilirubin, Total: 0.5 mg/dL
+Chloride: 100.0 mEq/L
+Magnesium: 2.0 mg/dL
+Albumin: 4.0 g/dL
+H: 149.0 nan
+
+Current Medications:
+FoLIC Acid 1mg
+Multivitamins W/minerals 1TAB
+Cetirizine 10mg
+Heparin 5000UNIT
+Docusate Sodium 100mg
+Thiamine 100mg
+Diazepam 10mg
+Sodium Chloride 0.9%  Flush 3mL
+Levothyroxine Sodium 62.5mcg
+Acetaminophen 325-650mg
+",N179,"Acute kidney failure, unspecified",150,0,12,[]
+28984460,10023239,F,29,EU OBSERVATION,Abdominal pain,"Patient is a 29 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",N179,"Acute kidney failure, unspecified",0,0,0,[]
+24225421,10037928,F,78,EW EMER.,Abdominal pain,"Patient is a 78 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Hemoglobin: 13.4 g/dL
+MCHC: 32.9 %
+Platelet Count: 303.0 K/uL
+MCV: 101.0 fL
+White Blood Cells: 17.4 K/uL
+RDW: 12.5 %
+MCH: 33.1 pg
+Red Blood Cells: 4.04 m/uL
+Hematocrit: 40.7 %
+Anion Gap: 15.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Bag 1BAG
+Multivitamins W/minerals 1TAB
+Atorvastatin 20mg
+BusPIRone 10mg
+",38010,"Infective otitis externa, unspecified",85,0,55,"['2911', '9652', '2219']"
+25260176,10026406,M,45,EW EMER.,Abdominal pain,"Patient is a 45 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Chloride: 105.0 mEq/L
+Creatinine: 0.7 mg/dL
+Glucose: 122.0 mg/dL
+Bilirubin, Total: 0.5 mg/dL
+Calcium, Total: 9.0 mg/dL
+Urea Nitrogen: 11.0 mg/dL
+Anion Gap: 14.0 mEq/L
+Magnesium: 1.9 mg/dL
+Asparate Aminotransferase (AST): 49.0 IU/L
+Phosphate: 2.4 mg/dL
+
+Current Medications:
+Multivitamins 1TAB
+FoLIC Acid 1mg
+OxycoDONE (Immediate Release)  5mg
+OxycoDONE (Immediate Release)  5mg
+Heparin 5000UNIT
+Omeprazole 20mg
+Diazepam 10mg
+Thiamine 100mg
+Influenza Vaccine Quadrivalent 0.5mL
+Acetaminophen 650mg
+",29181,Alcohol withdrawal,64,1,24,[]
+21039249,10004457,M,65,AMBULATORY OBSERVATION,Abdominal pain,"Patient is a 65 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: AMBULATORY OBSERVATION
+
+Recent Lab Results:
+Hematocrit: 39.2 %
+Platelet Count: 274.0 K/uL
+Hemoglobin: 12.9 g/dL
+Asparate Aminotransferase (AST): 18.0 IU/L
+Chloride: 104.0 mEq/L
+Sodium: 142.0 mEq/L
+Potassium: 3.9 mEq/L
+Creatine Kinase, MB Isoenzyme: 4.0 ng/mL
+Creatinine: 0.9 mg/dL
+Alanine Aminotransferase (ALT): 18.0 IU/L
+
+Current Medications:
+Clopidogrel 75mg
+Metoprolol Tartrate 50mg
+Aluminum-Magnesium Hydrox.-Simethicone 30mL
+Pneumococcal Vac Polyvalent 0.5mL
+Aspirin EC 325mg
+Fish Oil (Omega 3) 1000mg
+Acetaminophen 650mg
+Potassium Chloride 20mEq
+Metoprolol Tartrate 75mg
+Potassium Chloride 40mEq
+",41401,Coronary atherosclerosis of native coronary artery,12,0,16,"['3722', '0045', '8856', '0066', '3607', '0040']"
+20437651,10026255,M,66,EW EMER.,Abdominal pain,"Patient is a 66 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Creatine Kinase (CK): 214.0 IU/L
+Creatine Kinase, MB Isoenzyme: 6.0 ng/mL
+pCO2: 56.0 mm Hg
+Base Excess: 3.0 mEq/L
+pH: 7.34 units
+pO2: 139.0 mm Hg
+Calculated Total CO2: 32.0 mEq/L
+Creatine Kinase (CK): 183.0 IU/L
+Creatine Kinase, MB Isoenzyme: 5.0 ng/mL
+Creatine Kinase (CK): 159.0 IU/L
+
+Current Medications:
+Tiotropium Bromide 1CAP
+Aspirin 81mg
+Albuterol 0.083% Neb Soln 1NEB
+Albuterol 0.083% Neb Soln 1NEB
+Albuterol 0.083% Neb Soln 1NEB
+Atorvastatin 10mg
+Heparin 5000UNIT
+Ipratropium Bromide Neb 1NEB
+Metoprolol Tartrate 5mg
+TraMADOL (Ultram) 50mg
+",8600,Traumatic pneumothorax without mention of open wound into thorax,131,2,35,['3409']
+29642388,10022281,M,84,EW EMER.,Abdominal pain,"Patient is a 84 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Specific Gravity: 1.013  
+pH: 5.0 units
+Bicarbonate: 22.0 mEq/L
+MCH: 33.4 pg
+Platelet Count: 172.0 K/uL
+Hemoglobin: 11.0 g/dL
+Red Blood Cells: 3.28 m/uL
+MCV: 98.0 fL
+RDW: 13.2 %
+Hematocrit: 32.0 %
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Oxycodone-Acetaminophen 1TAB
+Oxycodone-Acetaminophen (5mg-325mg) 1TAB
+Amlodipine 5mg
+Lidocaine Jelly 2% (Urojet) 1Appl
+Atorvastatin 40mg
+Clopidogrel 75mg
+Glucagon 1mg
+Heparin 5000UNIT
+",44102,"Dissection of aorta, abdominal",52,1,45,['3891']
+27505812,10011398,M,67,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 67 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+Hemoglobin: 13.1 g/dL
+Sodium, Whole Blood: 138.0 mEq/L
+Glucose: 97.0 mg/dL
+Chloride, Whole Blood: 103.0 mEq/L
+Lactate: 1.6 mmol/L
+Free Calcium: 1.13 mmol/L
+pCO2: 38.0 mm Hg
+pH: 7.46 units
+Calculated Total CO2: 28.0 mEq/L
+Base Excess: 3.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Aspirin 81mg
+Aspirin 81mg
+Bag 50mL
+Furosemide 20mg
+Furosemide 20mg
+Glucagon 1mg
+Insulin Human Regular 100UNIT
+Potassium Chloride 20mEq
+Lactated Ringers 1000mL
+",41401,Coronary atherosclerosis of native coronary artery,202,1,88,"['3961', '3615', '3614']"
+23786647,10018328,F,83,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 83 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+H: 3.0 nan
+I: 1.0 nan
+L: 7.0 nan
+RDW-SD: 43.2 fL
+Calcium, Total: 7.6 mg/dL
+Magnesium: 1.6 mg/dL
+Hematocrit: 27.2 %
+Bicarbonate: 22.0 mEq/L
+Red Blood Cells: 3.09 m/uL
+Platelet Count: 200.0 K/uL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+amLODIPine 5mg
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Dexamethasone 2mg
+Dexamethasone 4mg
+amLODIPine 2.5mg
+amLODIPine 2.5mg
+",I671,"Cerebral aneurysm, nonruptured",400,1,101,"['03VL3DZ', '03VG3DZ']"
+26739864,10012853,F,91,DIRECT OBSERVATION,Abdominal pain,"Patient is a 91 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+Amlodipine 5mg
+Atorvastatin 40mg
+Morphine Sulfate 2mg
+Ondansetron 4mg
+Potassium Chl 20 mEq / 1000 mL D5 1/2 NS 1000mL
+Acetaminophen 650mg
+Lisinopril 30mg
+Sodium Chloride 0.9%  Flush 3mL
+",C73,Malignant neoplasm of thyroid gland,0,0,8,[]
+25973915,10018081,M,79,EW EMER.,Abdominal pain,"Patient is a 79 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Anion Gap: 15.0 mEq/L
+Creatinine: 0.9 mg/dL
+Glucose: 109.0 mg/dL
+Chloride: 106.0 mEq/L
+Sodium: 146.0 mEq/L
+PT: 13.9 sec
+INR(PT): 1.3 nan
+PTT: 19.0 sec
+Albumin: 2.9 g/dL
+Epithelial Cells: 0.0 #/hpf
+
+Current Medications:
+Insulin 0UNIT
+Vial 1VIAL
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Lidocaine Jelly 2% (Urojet) 1Appl
+Lisinopril 5mg
+Albuterol 0.083% Neb Soln 1NEB
+Furosemide 40mg
+Glucagon 1mg
+",42833,Acute on chronic diastolic heart failure,281,8,83,['9915']
+22228639,10037928,F,78,EU OBSERVATION,Abdominal pain,"Patient is a 78 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+Platelet Count: 283.0 K/uL
+Neutrophils: 66.1 %
+RDW-SD: 44.3 fL
+Absolute Lymphocyte Count: 1.4 K/uL
+MCHC: 32.4 g/dL
+Absolute Basophil Count: 0.05 K/uL
+Absolute Monocyte Count: 0.84 K/uL
+Red Blood Cells: 4.21 m/uL
+MCH: 30.9 pg
+Lymphocytes: 18.2 %
+
+Current Medications:
+No current medications.
+",S2232XA,"Fracture of one rib, left side, initial encounter for closed fracture",41,0,0,[]
+24490144,10021118,M,62,URGENT,Abdominal pain,"Patient is a 62 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+% Hemoglobin A1c: 5.5 %
+PT: 11.8 sec
+INR(PT): 1.1 nan
+PTT: 51.0 sec
+Cholesterol, Total: 236.0 mg/dL
+Cholesterol, HDL: 49.0 mg/dL
+Triglycerides: 228.0 mg/dL
+Cholesterol Ratio (Total/HDL): 4.8 Ratio
+Magnesium: 2.0 mg/dL
+Glucose: 117.0 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Aspirin 81mg
+Bag 1mL
+Lorazepam 0.5mg
+OxycoDONE (Immediate Release)  5mg
+Albuterol 0.083% Neb Soln 1NEB
+Albuterol 0.083% Neb Soln 1NEB
+Albuterol 0.083% Neb Soln 1NEB
+",I2510,Atherosclerotic heart disease of native coronary artery without angina pectoris,351,3,107,"['5A1221Z', '06BP4ZZ', '02100Z9', '02110Z3']"
+29279905,10019003,F,65,EW EMER.,Abdominal pain,"Patient is a 65 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+MCH: 30.1 pg
+Other Cells: 0.0 %
+Anion Gap: 20.0 mEq/L
+Potassium: 3.7 mEq/L
+Alanine Aminotransferase (ALT): 40.0 IU/L
+Sodium: 138.0 mEq/L
+Magnesium: 1.5 mg/dL
+Bicarbonate: 15.0 mEq/L
+Bilirubin, Total: 0.3 mg/dL
+Urea Nitrogen: 35.0 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Tiotropium Bromide 1CAP
+Vial 1VIAL
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+Sucralfate 1gm
+OLANZapine 5mg
+Sarna Lotion 1Appl
+Albuterol 0.083% Neb Soln 1NEB
+",A419,"Sepsis, unspecified organism",501,10,104,"['0D598ZZ', '02HV33Z', 'B548ZZA']"
+22954658,10007058,M,48,EW EMER.,Abdominal pain,"Patient is a 48 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+CK-MB Index: 6.9 %
+White Blood Cells: 12.5 K/uL
+Red Blood Cells: 4.32 m/uL
+RDW-SD: 41.0 fL
+MCHC: 33.1 g/dL
+MCH: 28.9 pg
+Platelet Count: 205.0 K/uL
+Hematocrit: 37.8 %
+Hemoglobin: 12.5 g/dL
+MCV: 88.0 fL
+
+Current Medications:
+Vial 1VIAL
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+Atorvastatin 10mg
+Atorvastatin 40mg
+Atorvastatin 80mg
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Nitroglycerin SL 0.3mg
+",I214,Non-ST elevation (NSTEMI) myocardial infarction,149,2,43,"['02C03ZZ', 'B211YZZ']"
+27417763,10017492,M,84,EW EMER.,Abdominal pain,"Patient is a 84 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+RBC: 14.0 #/hpf
+pH: 5.5 units
+Epithelial Cells: 0.0 #/hpf
+Hyaline Casts: 10.0 #/lpf
+WBC: 68.0 #/hpf
+Specific Gravity: 1.011  
+Protein: 30.0 mg/dL
+Glucose: 149.0 mg/dL
+Calcium, Total: 9.0 mg/dL
+Urea Nitrogen: 81.0 mg/dL
+
+Current Medications:
+Enoxaparin Sodium 30mg
+Lidocaine Jelly 2% (Urojet) 1Appl
+CefazoLIN 2g
+Heparin 5000UNIT
+Heparin 5000UNIT
+Lactated Ringers 1000mL
+Lactated Ringers 1000mL
+Tamsulosin 0.4mg
+Bisacodyl 10mg
+Bisacodyl 10mg
+",82021,Closed fracture of intertrochanteric section of neck of femur,208,2,61,['7915']
+27553957,10040025,F,64,EW EMER.,Abdominal pain,"Patient is a 64 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+MCV: 97.0 fL
+PT: 20.7 sec
+INR(PT): 1.9 nan
+RDW: 13.9 %
+MCH: 31.6 pg
+White Blood Cells: 8.2 K/uL
+MCHC: 32.6 %
+Anion Gap: 17.0 mEq/L
+Hemoglobin: 11.2 g/dL
+Platelet Count: 215.0 K/uL
+
+Current Medications:
+Insulin 0UNIT
+Aspirin 81mg
+Lorazepam 0.5mg
+Warfarin 1mg
+Warfarin 2mg
+Warfarin 2mg
+Warfarin 2mg
+Warfarin 5mg
+Diltiazem 30mg
+Diltiazem 30mg
+",42731,Atrial fibrillation,177,0,78,[]
+29176490,10005348,M,76,DIRECT OBSERVATION,Abdominal pain,"Patient is a 76 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT OBSERVATION
+
+Recent Lab Results:
+Sodium: 136.0 mEq/L
+Chloride: 104.0 mEq/L
+Potassium: 3.5 mEq/L
+Platelet Count: 230.0 K/uL
+Platelet Count: 233.0 K/uL
+Hematocrit: 35.9 %
+Urea Nitrogen: 18.0 mg/dL
+Creatinine: 0.9 mg/dL
+Potassium: 4.5 mEq/L
+Sodium: 139.0 mEq/L
+
+Current Medications:
+Multivitamins 1TAB
+Atorvastatin 80mg
+Citalopram 20mg
+Clopidogrel 75mg
+Potassium Chloride 20mEq
+Nitroglycerin SL 0.3mg
+Docusate Sodium 100mg
+Aspirin EC 325mg
+brimonidine 1gtt
+Potassium Chloride 40mEq
+",41401,Coronary atherosclerosis of native coronary artery,14,0,19,"['8856', '0041', '3607', '0066', '0045']"
+24540843,10037861,M,77,EW EMER.,Abdominal pain,"Patient is a 77 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Potassium, Whole Blood: 5.1 mEq/L
+PTT: 31.8 sec
+PT: 12.1 sec
+Hematocrit: 49.0 %
+RDW: 14.9 %
+White Blood Cells: 9.5 K/uL
+MCV: 90.0 fL
+Platelet Count: 173.0 K/uL
+MCHC: 31.6 g/dL
+Red Blood Cells: 5.45 m/uL
+
+Current Medications:
+OxyCODONE--Acetaminophen (5mg-325mg) 1TAB
+Bag 1BAG
+Bag 1BAG
+Atorvastatin 80mg
+CeFAZolin 2g
+Glucagon 1mg
+Heparin 5000UNIT
+Insulin Human Regular 100UNIT
+Insulin Human Regular 100UNIT
+Insulin Human Regular 100UNIT
+",S065X7A,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, initial encounter",531,31,201,"['3E0G76Z', '5A1955Z', '02HV33Z', '0B938ZX', '00U20KZ', '0B978ZX', '00C40ZZ', '009600Z']"
+23112364,10021938,M,65,EW EMER.,Abdominal pain,"Patient is a 65 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Anion Gap: 34.0 mEq/L
+Urea Nitrogen: 107.0 mg/dL
+Phosphate: 7.9 mg/dL
+Creatinine: 15.0 mg/dL
+Sodium: 137.0 mEq/L
+Potassium: 7.4 mEq/L
+Glucose: 122.0 mg/dL
+Bicarbonate: 18.0 mEq/L
+Calcium, Total: 8.3 mg/dL
+Chloride: 92.0 mEq/L
+
+Current Medications:
+Nephrocaps 1CAP
+Ondansetron 4mg
+NIFEdipine CR 30mg
+Cinacalcet 30mg
+Heparin 5000UNIT
+Heparin 5000UNIT
+Famotidine 20mg
+Metoprolol Succinate XL 50mg
+Bisacodyl 10mg
+Calcium Acetate 667mg
+",34839,Other encephalopathy,111,1,23,['3995']
+23143086,10020740,M,56,EU OBSERVATION,Abdominal pain,"Patient is a 56 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",29574,"Schizoaffective disorder, chronic with acute exacerbation",0,0,0,[]
+24470193,10025463,M,66,EW EMER.,Abdominal pain,"Patient is a 66 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+pCO2: 28.0 mm Hg
+Calculated Total CO2: 21.0 mEq/L
+Base Excess: -1.0 mEq/L
+pO2: 153.0 mm Hg
+pH: 7.46 units
+PTT: 27.3 sec
+PT: 13.9 sec
+INR(PT): 1.3 nan
+Base Excess: 0.0 mEq/L
+pCO2: 39.0 mm Hg
+
+Current Medications:
+23.4% Sodium Chloride 120mEq
+Lisinopril 10mg
+Sotalol 80mg
+Bisacodyl 10mg
+Docusate Sodium 100mg
+Iso-Osmotic Sodium Chloride 1BAG
+Ondansetron 4mg
+PNEUMOcoccal 23-valent polysaccharide vaccine 0.5mL
+Famotidine 20mg
+Influenza Virus Vaccine 0.5mL
+",431,Intracerebral hemorrhage,56,1,34,"['0096', '9671', '3893', '0221']"
+27708593,10022880,M,66,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 66 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+White Blood Cells: 9.2 K/uL
+Hemoglobin: 14.6 g/dL
+INR(PT): 1.1 nan
+PTT: 27.7 sec
+PT: 11.7 sec
+MCHC: 35.8 %
+RDW: 13.5 %
+Bicarbonate: 25.0 mEq/L
+Urea Nitrogen: 16.0 mg/dL
+Anion Gap: 13.0 mEq/L
+
+Current Medications:
+Multivitamins 1TAB
+Aspirin 81mg
+Vitamin B Complex 1CAP
+Warfarin 5mg
+CefazoLIN 2g
+Diltiazem 30mg
+Diltiazem 30mg
+Diltiazem 30mg
+Diltiazem 30mg
+Heparin 5000UNIT
+",72403,"Spinal stenosis, lumbar region, with neurogenic claudication",211,0,63,"['8162', '7770', '8107']"
+24997044,10019172,F,63,ELECTIVE,Abdominal pain,"Patient is a 63 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: ELECTIVE
+
+Recent Lab Results:
+PTT: 22.4 sec
+INR(PT): 1.0 nan
+% Hemoglobin A1c: 6.0 %
+eAG: 126.0 mg/dL
+PT: 11.6 sec
+Alkaline Phosphatase: 121.0 IU/L
+Alanine Aminotransferase (ALT): 22.0 IU/L
+Asparate Aminotransferase (AST): 18.0 IU/L
+Amylase: 73.0 IU/L
+Potassium: 4.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Amlodipine 5mg
+Aspirin 81mg
+Bag 50mL
+Lorazepam 1mg
+Lorazepam 0.5mg
+Lorazepam 0.5mg
+Lorazepam 0.5mg
+Warfarin 1dose
+Warfarin 1dose
+",4241,Aortic valve disorders,334,4,148,"['3961', '3522']"
+23403708,10025612,M,82,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 82 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+Base Excess: 0.0 mEq/L
+Oxygen Saturation: 98.0 %
+Free Calcium: 1.14 mmol/L
+Lactate: 1.7 mmol/L
+Hemoglobin: 15.1 g/dL
+Chloride, Whole Blood: 103.0 mEq/L
+Hematocrit, Calculated: 45.0 %
+Sodium, Whole Blood: 139.0 mEq/L
+Potassium, Whole Blood: 4.2 mEq/L
+pO2: 254.0 mm Hg
+
+Current Medications:
+Neutra-Phos 1PKT
+Bag 50mL
+Bag 50mL
+OxycoDONE (Immediate Release)  5mg
+Albumin 25% (12.5g / 50mL) 12.5g
+Albuterol 0.083% Neb Soln 1NEB
+Albuterol 0.083% Neb Soln 1NEB
+CefazoLIN 1g
+Diltiazem 30mg
+Dronabinol 2.5mg
+",1622,Malignant neoplasm of main bronchus,379,0,86,"['3328', '4011', '4059', '3324', '3348', '3422', '3403', '0390', '3479', '3259']"
+22187210,10004235,M,47,DIRECT EMER.,Abdominal pain,"Patient is a 47 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+Phosphate: 3.5 mg/dL
+MCH: 27.2 pg
+RDW-SD: 45.4 fL
+Red Blood Cells: 3.57 m/uL
+Hemoglobin: 9.7 g/dL
+MCHC: 32.3 g/dL
+White Blood Cells: 15.1 K/uL
+MCV: 84.0 fL
+RDW: 14.8 %
+Platelet Count: 257.0 K/uL
+
+Current Medications:
+Vial 1VIAL
+Warfarin 1dose
+Warfarin 5mg
+Heparin 5000UNIT
+Heparin 5000UNIT
+Heparin 5000UNIT
+Pantoprazole 40mg
+Vancomycin 1000mg
+Ciprofloxacin HCl 500mg
+Docusate Sodium 100mg
+",78062,Postprocedural fever,128,3,24,[]
+28019404,10036156,F,88,URGENT,Abdominal pain,"Patient is a 88 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Creatine Kinase, MB Isoenzyme: 4.0 ng/mL
+Hematocrit: 28.6 %
+MCH: 30.1 pg
+Eosinophils: 0.3 %
+Monocytes: 3.6 %
+Basophils: 0.2 %
+Lymphocytes: 9.8 %
+MCHC: 33.6 %
+PTT: 27.4 sec
+MCV: 90.0 fL
+
+Current Medications:
+Insulin 0UNIT
+Bag 1BAG
+Glucagon 1mg
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Pantoprazole 40mg
+0.9% Sodium Chloride 1BAG
+PNEUMOcoccal 23-valent polysaccharide vaccine 0.5mL
+Senna 8.6mg
+Docusate Sodium (Liquid) 100mg
+",53140,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",112,3,38,"['4444', '8847']"
+28998349,10021487,M,43,EW EMER.,Abdominal pain,"Patient is a 43 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+CK-MB Index: 1.4 %
+Potassium: 4.8 mEq/L
+Urea Nitrogen: 14.0 mg/dL
+Bicarbonate: 16.0 mEq/L
+Sodium: 136.0 mEq/L
+Phosphate: 4.6 mg/dL
+Calcium, Total: 7.0 mg/dL
+Creatinine: 1.2 mg/dL
+Glucose: 138.0 mg/dL
+PTT: 25.6 sec
+
+Current Medications:
+Insulin 0UNIT
+Neutra-Phos 1PKT
+Bag 50-100mL
+Bag 50mL
+AcetaZOLamide 250mg
+AcetaZOLamide 250mg
+Albumin 25% (12.5g / 50mL) 12.5g
+Albumin 25% (12.5g / 50mL) 12.5g
+Albumin 25% (12.5g / 50mL) 12.5g
+Albumin 25% (12.5g / 50mL) 12.5g
+",86803,"Injury to other intra-abdominal organs without mention of open wound into cavity, peritoneum",1728,73,211,"['5425', '5491', '5412', '8876', '5419', '9672', '5029', '5475', '9604', '3893', '966', '3891', '3324', '3491', '4573']"
+28697806,10002930,F,48,EU OBSERVATION,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+Hemoglobin: 8.5 g/dL
+Red Blood Cells: 3.0 m/uL
+MCV: 93.0 fL
+Absolute Neutrophil Count: 2.71 K/uL
+RDW-SD: 65.2 fL
+Absolute Lymphocyte Count: 1.59 K/uL
+MCHC: 30.5 g/dL
+Sodium: 140.0 mEq/L
+RDW: 19.2 %
+Chloride: 108.0 mEq/L
+
+Current Medications:
+No current medications.
+",E162,"Hypoglycemia, unspecified",40,0,0,[]
+27670224,10015860,M,53,EU OBSERVATION,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+Platelet Count: 480.0 K/uL
+Hematocrit: 29.5 %
+RDW: 14.1 %
+Red Blood Cells: 3.61 m/uL
+MCH: 28.2 pg
+Hemoglobin: 10.2 g/dL
+Bicarbonate: 27.0 mEq/L
+Potassium: 4.8 mEq/L
+Sodium: 136.0 mEq/L
+Creatinine: 1.3 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Lisinopril 5mg
+Atenolol 25mg
+Glucagon 1mg
+Heparin 5000UNIT
+Simvastatin 40mg
+Vancomycin 1000mg
+Vancomycin 1000mg
+",6827,"Cellulitis and abscess of foot, except toes",20,0,22,[]
+28477649,10002930,F,48,EU OBSERVATION,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",2989,Unspecified psychosis,0,0,0,[]
+20214994,10003400,F,72,URGENT,Abdominal pain,"Patient is a 72 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Urea Nitrogen: 9.0 mg/dL
+Magnesium: 1.9 mg/dL
+Anion Gap: 9.0 mEq/L
+Potassium: 3.7 mEq/L
+Creatinine: 0.7 mg/dL
+Calcium, Total: 8.2 mg/dL
+Hematocrit: 30.3 %
+Phosphate: 2.5 mg/dL
+Sodium: 142.0 mEq/L
+Platelet Count: 92.0 K/uL
+
+Current Medications:
+Neutra-Phos 1PKT
+Neutra-Phos 1PKT
+Neutra-Phos 1PKT
+Neutra-Phos 1PKT
+Neutra-Phos 1PKT
+Neutra-Phos 1PKT
+Neutra-Phos 1PKT
+Neutra-Phos 1PKT
+Bag 1BAG
+Bag 1BAG
+",1543,"Malignant neoplasm of anus, unspecified site",1043,15,227,"['8674', '5459', '8628', '9671', '966', '9977', '3897', '4562', '4852', '5369']"
+20611796,10019385,M,44,OBSERVATION ADMIT,Abdominal pain,"Patient is a 44 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+White Blood Cells: 10.2 K/uL
+Absolute Monocyte Count: 0.92 K/uL
+Basophils: 0.0 %
+Atypical Lymphocytes: 0.0 %
+Absolute Lymphocyte Count: 2.86 K/uL
+Monocytes: 9.0 %
+Myelocytes: 0.0 %
+Lymphocytes: 28.0 %
+Bands: 0.0 %
+Absolute Basophil Count: 0.0 K/uL
+
+Current Medications:
+Aspirin 81mg
+HYDROmorphone (Dilaudid) 2mg
+Clopidogrel 75mg
+Fexofenadine 60mg
+Heparin 5000UNIT
+Lidocaine 5% Patch 1PTCH
+Metoprolol Tartrate 50mg
+Metoprolol Tartrate 50mg
+Nitroglycerin SL 0.3mg
+Docusate Sodium 100mg
+",I25119,Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris,113,0,21,[]
+24717014,10024043,M,67,EW EMER.,Abdominal pain,"Patient is a 67 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Anion Gap: 11.0 mEq/L
+Potassium, Urine: 40.0 mEq/L
+Chloride, Urine: 85.0 mEq/L
+Creatinine, Urine: 129.0 mg/dL
+Protein/Creatinine Ratio: 0.1 Ratio
+Total Protein, Urine: 14.0 mg/dL
+Sodium, Urine: 78.0 mEq/L
+Sodium: 128.0 mEq/L
+Chloride: 93.0 mEq/L
+Creatinine: 1.1 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Multivitamins 1TAB
+Zolpidem Tartrate 5mg
+Zolpidem Tartrate 5mg
+NIFEdipine CR 90mg
+DiphenhydrAMINE 25mg
+DiphenhydrAMINE 25mg
+Glucagon 1mg
+Heparin 5000UNIT
+LR 1000mL
+",33520,Amyotrophic lateral sclerosis,116,1,37,[]
+28157142,10015931,M,87,OBSERVATION ADMIT,Abdominal pain,"Patient is a 87 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+RDW-SD: 49.8 fL
+Anion Gap: 18.0 mEq/L
+Urea Nitrogen: 25.0 mg/dL
+Chloride: 87.0 mEq/L
+Calcium, Total: 9.0 mg/dL
+Sodium: 126.0 mEq/L
+Creatine Kinase, MB Isoenzyme: 2.0 ng/mL
+Hemoglobin: 12.7 g/dL
+MCV: 97.0 fL
+White Blood Cells: 8.0 K/uL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Multivitamins 1TAB
+Multivitamins 1TAB
+Tiotropium Bromide 1CAP
+Aspirin 81mg
+Aspirin 81mg
+",I350,Nonrheumatic aortic (valve) stenosis,408,4,129,"['3E053GC', '02RF38Z']"
+28166872,10027602,F,71,EW EMER.,Abdominal pain,"Patient is a 71 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+pCO2: 39.0 mm Hg
+Free Calcium: 1.06 mmol/L
+Calculated Total CO2: 27.0 mEq/L
+pO2: 156.0 mm Hg
+pH: 7.43 units
+Base Excess: 2.0 mEq/L
+Calcium, Total: 8.3 mg/dL
+Bicarbonate: 24.0 mEq/L
+Phosphate: 2.8 mg/dL
+Magnesium: 1.9 mg/dL
+
+Current Medications:
+Fentanyl Citrate nannan
+Fentanyl Citrate nannan
+Lorazepam nannan
+Midazolam nannan
+Midazolam nannan
+Propofol nannan
+Albuterol 0.083% Neb Soln 0NEB
+Neutra-Phos 1PKT
+Neutra-Phos 1PKT
+Ampicillin Sodium 2g
+",430,Subarachnoid hemorrhage,450,44,138,"['3972', '0221', '9671', '8841', '4311', '8841', '3972', '0221', '9604', '9672', '8841', '966', '3324']"
+24912093,10035631,M,63,ELECTIVE,Abdominal pain,"Patient is a 63 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: ELECTIVE
+
+Recent Lab Results:
+Urea Nitrogen: 14.0 mg/dL
+Magnesium: 2.1 mg/dL
+Hematocrit: 29.0 %
+Hemoglobin: 9.7 g/dL
+MCV: 94.0 fL
+Red Blood Cells: 3.09 m/uL
+Platelet Count: 696.0 K/uL
+RDW: 18.8 %
+White Blood Cells: 4.2 K/uL
+MCHC: 33.4 %
+
+Current Medications:
+Vial 1VIAL
+OxycoDONE (Immediate Release)  5mg
+Heparin 5000UNIT
+TraMADOL (Ultram) 50mg
+Acyclovir 400mg
+Docusate Sodium 100mg
+Fluconazole 400mg
+Ondansetron 16mg
+5% Dextrose 50mL
+Sodium Chloride 0.9%  Flush 3mL
+",V5811,Encounter for antineoplastic chemotherapy,179,0,19,"['3897', '9925']"
+27703517,10001217,F,55,DIRECT EMER.,Abdominal pain,"Patient is a 55 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+Alanine Aminotransferase (ALT): 12.0 IU/L
+Hematocrit: 37.4 %
+Neutrophils: 51.0 %
+Red Blood Cells: 4.52 m/uL
+Basophils: 1.5 %
+Phosphate: 3.8 mg/dL
+Potassium: 4.1 mEq/L
+Creatinine: 0.5 mg/dL
+Urea Nitrogen: 11.0 mg/dL
+Bicarbonate: 30.0 mEq/L
+
+Current Medications:
+Vial 1VIAL
+Bag 50mL
+OxycoDONE (Immediate Release)  5mg
+*NF* Ertapenem Sodium 1g
+Heparin 5000UNIT
+Lactated Ringers 1000mL
+Magnesium Sulfate 2gm
+Meropenem 1000mg
+Meropenem 1000mg
+Meropenem 1000mg
+",3240,Intracranial abscess,137,7,54,['0139']
+25166559,10026406,M,45,EU OBSERVATION,Abdominal pain,"Patient is a 45 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",F10229,"Alcohol dependence with intoxication, unspecified",0,0,0,[]
+22508257,10014354,M,60,OBSERVATION ADMIT,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+RDW-SD: 42.2 fL
+Glucose: 46.0 mg/dL
+Calcium, Total: 8.8 mg/dL
+Potassium: 3.7 mEq/L
+Phosphate: 4.6 mg/dL
+Anion Gap: 14.0 mEq/L
+I: 0.0 nan
+L: 9.0 nan
+Creatinine: 1.1 mg/dL
+Urea Nitrogen: 18.0 mg/dL
+
+Current Medications:
+Aspirin 81mg
+CloNIDine 0.1mg
+LORazepam 1mg
+LORazepam 0.5mg
+LORazepam 0.5mg
+LORazepam 0.5mg
+Sodium Chloride 1gm
+OxyCODONE (Immediate Release) 5mg
+OxyCODONE (Immediate Release) 5mg
+OxyCODONE (Immediate Release) 5mg
+",K625,Hemorrhage of anus and rectum,261,1,92,"['0DBH8ZX', '0DBM8ZX', '0DJD8ZZ', '0DJD8ZZ']"
+21255400,10004422,M,78,EW EMER.,Abdominal pain,"Patient is a 78 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+WBC: 1.0 #/hpf
+pH: 5.5 units
+RBC: 3.0 #/hpf
+Specific Gravity: 1.021  
+Hyaline Casts: 3.0 #/lpf
+Epithelial Cells: 0.0 #/hpf
+Chloride: 103.0 mEq/L
+Anion Gap: 13.0 mEq/L
+Urea Nitrogen: 20.0 mg/dL
+Bicarbonate: 28.0 mEq/L
+
+Current Medications:
+Neutra-Phos 1PKT
+Aspirin 81mg
+Bag 50mL
+Clonazepam 0.5mg
+Clonazepam 0.5mg
+FoLIC Acid 1mg
+FoLIC Acid 1mg
+Lidocaine Jelly 2% (Urojet) 1Appl
+Lidocaine Jelly 2% (Urojet) 1Appl
+Lorazepam 1mg
+",41401,Coronary atherosclerosis of native coronary artery,419,6,134,"['3961', '3722', '3613', '3615', '8856']"
+22741225,10014354,M,60,EW EMER.,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Specific Gravity: 1.02  
+WBC: 0.0 #/hpf
+RBC: 0.0 #/hpf
+pH: 6.5 units
+Epithelial Cells: 0.0 #/hpf
+Protein: 30.0 mg/dL
+Cholesterol Ratio (Total/HDL): 4.2 Ratio
+Cholesterol, Total: 100.0 mg/dL
+Thyroid Stimulating Hormone: 20.0 uIU/mL
+Triglycerides: 230.0 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+Glucagon 1mg
+Heparin 5000UNIT
+Heparin 5000UNIT
+Levothyroxine Sodium 50mcg
+Magnesium Sulfate 2gm
+",I69354,Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side,165,1,48,[]
+24104168,10020187,F,63,OBSERVATION ADMIT,Abdominal pain,"Patient is a 63 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Anion Gap: 17.0 mEq/L
+Bicarbonate: 23.0 mEq/L
+H: 3.0 nan
+Creatine Kinase, MB Isoenzyme: 2.0 ng/mL
+Creatine Kinase (CK): 85.0 IU/L
+Magnesium: 2.0 mg/dL
+Urea Nitrogen: 11.0 mg/dL
+Chloride: 103.0 mEq/L
+L: 12.0 nan
+Calcium, Total: 8.7 mg/dL
+
+Current Medications:
+Acetaminophen-Caff-Butalbital 1TAB
+Acetaminophen-Caff-Butalbital 1TAB
+Neutra-Phos 1PKT
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+OxyCODONE (Immediate Release) 5mg
+Dexamethasone 4mg
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+",I6032,Nontraumatic subarachnoid hemorrhage from left posterior communicating artery,242,0,58,['03VG3DZ']
+25864431,10039708,F,46,URGENT,Abdominal pain,"Patient is a 46 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+RDW-SD: 78.3 fL
+Hemoglobin: 8.5 g/dL
+MCHC: 32.7 g/dL
+MCH: 34.4 pg
+Asparate Aminotransferase (AST): 113.0 IU/L
+MCV: 105.0 fL
+Hematocrit: 26.0 %
+White Blood Cells: 10.3 K/uL
+L: 15.0 nan
+Bilirubin, Direct: 2.5 mg/dL
+
+Current Medications:
+Tuberculin Protein 0.1mL
+Vial 1VIAL
+Bag 1BAG
+FoLIC Acid 1mg
+HYDROmorphone (Dilaudid) 2mg
+HYDROmorphone (Dilaudid) 2mg
+Midodrine 5mg
+Multivitamins W/minerals 1TAB
+Nephrocaps 1CAP
+OxyCODONE (Immediate Release) 5mg
+",K7290,"Hepatic failure, unspecified without coma",701,13,92,"['0DJ08ZZ', '5A1D70Z', '3E0H76Z', '0W9G3ZX', '0W9G3ZX', '0DHA8UZ', '02H633Z', '0W9G3ZZ']"
+24357615,10014354,M,60,EW EMER.,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Specific Gravity: 1.019  
+Glucose: 1000.0 mg/dL
+pH: 6.5 units
+Other Cells: 4.0 %
+Absolute Lymphocyte Count: 4.43 K/uL
+Basophils: 0.0 %
+Neutrophils: 32.0 %
+RDW: 17.1 %
+White Blood Cells: 8.2 K/uL
+Hematocrit: 29.2 %
+
+Current Medications:
+Vial 1VIAL
+Aspirin 81mg
+Sucralfate 1gm
+OxyCODONE (Immediate Release) 5mg
+Atorvastatin 40mg
+CefePIME 1g
+Fenofibrate 48mg
+Glucagon 1mg
+Polyethylene Glycol 17g
+HydrOXYzine 10mg
+",R1030,"Lower abdominal pain, unspecified",68,0,40,[]
+25384176,10040025,F,64,EW EMER.,Abdominal pain,"Patient is a 64 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Creatinine: 1.8 mg/dL
+MCV: 91.0 fL
+Hematocrit: 33.0 %
+Hemoglobin: 10.9 g/dL
+White Blood Cells: 5.5 K/uL
+MCH: 30.2 pg
+Red Blood Cells: 3.62 m/uL
+RDW: 15.5 %
+PT: 21.6 sec
+Platelet Count: 258.0 K/uL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Metolazone 5mg
+Metolazone 5mg
+Warfarin 5mg
+Warfarin 5mg
+Warfarin 5mg
+Aspirin 325mg
+Ezetimibe 10mg
+",42833,Acute on chronic diastolic heart failure,134,0,43,[]
+22326517,10037928,F,78,EW EMER.,Abdominal pain,"Patient is a 78 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+INR(PT): 1.1 nan
+Bicarbonate: 24.0 mEq/L
+Phosphate: 1.7 mg/dL
+Urea Nitrogen: 19.0 mg/dL
+Potassium: 3.5 mEq/L
+Glucose: 203.0 mg/dL
+Sodium: 140.0 mEq/L
+Magnesium: 1.4 mg/dL
+Chloride: 104.0 mEq/L
+PT: 11.7 sec
+
+Current Medications:
+Insulin 0UNIT
+Neutra-Phos 1PKT
+Bag 50mL
+Albuterol 0.083% Neb Soln 1NEB
+Atorvastatin 20mg
+BusPIRone 10mg
+Glucagon 1mg
+Hydrochlorothiazide 25mg
+Heparin 5000UNIT
+Ipratropium Bromide Neb 1NEB
+",486,"Pneumonia, organism unspecified",43,3,32,[]
+25239799,10005348,M,76,EW EMER.,Abdominal pain,"Patient is a 76 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Lactate: 0.8 mmol/L
+Base Excess: 0.0 mEq/L
+pO2: 492.0 mm Hg
+pCO2: 36.0 mm Hg
+Calculated Total CO2: 25.0 mEq/L
+pH: 7.43 units
+Free Calcium: 1.16 mmol/L
+Chloride, Whole Blood: 103.0 mEq/L
+Potassium, Whole Blood: 3.7 mEq/L
+Glucose: 96.0 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Multivitamins 1TAB
+Aspirin 81mg
+Bag 1BAG
+Bag 1mL
+FoLIC Acid 1mg
+FoLIC Acid 1mg
+Warfarin 1dose
+Warfarin 2mg
+",4241,Aortic valve disorders,249,1,100,"['3893', '3722', '3961', '8856', '3521', '3611']"
+26134779,10005866,M,57,EW EMER.,Abdominal pain,"Patient is a 57 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+MCH: 34.7 pg
+Creatinine: 0.6 mg/dL
+Red Blood Cells: 3.46 m/uL
+Eosinophils: 3.9 %
+Absolute Monocyte Count: 0.93 K/uL
+RDW: 15.6 %
+Lymphocytes: 15.4 %
+Neutrophils: 67.3 %
+Absolute Neutrophil Count: 5.24 K/uL
+Immature Granulocytes: 0.4 %
+
+Current Medications:
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Sulfameth/Trimethoprim SS 1TAB
+Sulfameth/Trimethoprim SS 1TAB
+Furosemide 20mg
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+",K56600,"Partial intestinal obstruction, unspecified as to cause",308,3,43,['0W9G3ZZ']
+20457729,10012853,F,91,DIRECT OBSERVATION,Abdominal pain,"Patient is a 91 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT OBSERVATION
+
+Recent Lab Results:
+H: 0.0 nan
+Hemoglobin: 11.2 g/dL
+MCHC: 30.4 g/dL
+Platelet Count: 292.0 K/uL
+MCH: 25.1 pg
+White Blood Cells: 10.1 K/uL
+Hematocrit: 36.8 %
+RDW-SD: 45.5 fL
+MCV: 83.0 fL
+Chloride: 101.0 mEq/L
+
+Current Medications:
+Multivitamins 1TAB
+amLODIPine 5mg
+Aspirin 81mg
+Atorvastatin 40mg
+Calcitriol 0.25mcg
+Metoprolol Succinate XL 25mg
+Calcium Carbonate 1250mg
+Docusate Sodium 100mg
+Ferrous Sulfate 325mg
+Levothyroxine Sodium 112mcg
+",C73,Malignant neoplasm of thyroid gland,25,0,19,[]
+20846853,10002930,F,48,EU OBSERVATION,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",F10129,"Alcohol abuse with intoxication, unspecified",0,0,0,[]
+28778757,10020306,F,74,AMBULATORY OBSERVATION,Abdominal pain,"Patient is a 74 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: AMBULATORY OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+Glucagon 1mg
+Levothyroxine Sodium 75mcg
+Nitroglycerin SL 0.3mg
+GlipiZIDE XL 5mg
+Diltiazem Extended-Release 240mg
+Hydrocodone-Acetaminophen (5mg-500mg) 1TAB
+Glucose Gel 15g
+MetFORMIN (Glucophage) 1000mg
+Sodium Chloride 0.9%  Flush 3mL
+Dextrose 50% 12.5gm
+",1741,Malignant neoplasm of central portion of female breast,0,0,11,"['8541', '4023']"
+22580999,10035185,M,70,URGENT,Abdominal pain,"Patient is a 70 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+pH: 6.5 units
+Specific Gravity: 1.046  
+Hematocrit: 39.9 %
+eAG: 174.0 mg/dL
+Red Blood Cells: 4.44 m/uL
+MCH: 30.9 pg
+White Blood Cells: 6.2 K/uL
+RDW-SD: 40.9 fL
+Platelet Count: 135.0 K/uL
+INR(PT): 1.0 nan
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Aspirin 81mg
+Bag 1mL
+CefazoLIN 2g
+CefazoLIN 2g
+Furosemide 40mg
+",41401,Coronary atherosclerosis of native coronary artery,260,3,104,"['3961', '3613', '3615']"
+23819016,10039708,F,46,OBSERVATION ADMIT,Abdominal pain,"Patient is a 46 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Alkaline Phosphatase: 590.0 IU/L
+PTT: 25.8 sec
+Absolute Eosinophil Count: 0.0 K/uL
+Metamyelocytes: 1.0 %
+Absolute Neutrophil Count: 3.76 K/uL
+Basophils: 0.0 %
+Lymphocytes: 19.0 %
+Absolute Basophil Count: 0.0 K/uL
+Atypical Lymphocytes: 0.0 %
+Absolute Monocyte Count: 0.0 K/uL
+
+Current Medications:
+FoLIC Acid 1mg
+LORazepam 1mg
+LORazepam 0.5mg
+Multivitamins W/minerals 1TAB
+Sarna Lotion 1Appl
+Vitamin B Complex 1CAP
+Heparin 5000UNIT
+HydrOXYzine 25mg
+Vancomycin 1000mg
+Allopurinol 100mg
+",A4189,Other specified sepsis,237,8,46,['02HV33Z']
+29295881,10023239,F,29,EW EMER.,Abdominal pain,"Patient is a 29 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+% Hemoglobin A1c: 10.9 %
+eAG: 266.0 mg/dL
+Red Blood Cells: 3.55 m/uL
+Anion Gap: 17.0 mEq/L
+Creatinine: 0.8 mg/dL
+Magnesium: 1.8 mg/dL
+Potassium: 3.8 mEq/L
+Sodium: 136.0 mEq/L
+Glucose: 180.0 mg/dL
+Calcium, Total: 7.3 mg/dL
+
+Current Medications:
+Insulin Pump (Self Administering Medication) nannan
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Bag 1BAG
+Glucagon 1mg
+",99657,Mechanical complication due to insulin pump,126,2,77,[]
+28829452,10021312,F,55,URGENT,Abdominal pain,"Patient is a 55 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Bicarbonate: 29.0 mEq/L
+Alkaline Phosphatase: 72.0 IU/L
+Bilirubin, Total: 0.2 mg/dL
+Calcium, Total: 9.2 mg/dL
+Creatinine: 0.6 mg/dL
+Urea Nitrogen: 14.0 mg/dL
+Magnesium: 2.1 mg/dL
+Sodium: 137.0 mEq/L
+Potassium: 4.5 mEq/L
+Anion Gap: 15.0 mEq/L
+
+Current Medications:
+Vial 1VIAL
+ALPRAZolam 1mg
+Bag 1BAG
+Albuterol 0.083% Neb Soln 1NEB
+Albuterol 0.083% Neb Soln 1NEB
+Albuterol 0.083% Neb Soln 1NEB
+Polyethylene Glycol 17g
+Heparin 5000UNIT
+Ipratropium-Albuterol Neb 1NEB
+Ipratropium Bromide Neb 1NEB
+",J9601,Acute respiratory failure with hypoxia,271,9,100,"['0BC78ZZ', '0BBF8ZZ', '0B5F8ZZ', '0B778DZ', '0B578ZZ', '0BB78ZZ', '0B978ZX', '0D738DZ', '0BB78ZZ']"
+22595853,10000032,F,52,URGENT,Abdominal pain,"Patient is a 52 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Protein: 30.0 mg/dL
+Urobilinogen: 4.0 mg/dL
+pH: 6.0 units
+Specific Gravity: 1.033  
+PTT: 32.3 sec
+PT: 16.6 sec
+INR(PT): 1.5 nan
+MCH: 33.4 pg
+Glucose: 99.0 mg/dL
+Platelet Count: 71.0 K/uL
+
+Current Medications:
+Furosemide 20mg
+Furosemide 40mg
+Heparin 5000UNIT
+Ipratropium Bromide Neb 1NEB
+Acetaminophen 500mg
+Nicotine Patch 14mg
+Raltegravir 400mg
+Influenza Vaccine Quadrivalent 0.5mL
+Emtricitabine-Tenofovir (Truvada) 1TAB
+Spironolactone 50mg
+",5723,Portal hypertension,57,5,14,['5491']
+22484749,10039997,F,67,OBSERVATION ADMIT,Abdominal pain,"Patient is a 67 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Cholesterol, LDL, Calculated: 98.0 mg/dL
+Cholesterol Ratio (Total/HDL): 4.4 Ratio
+Cholesterol, Total: 155.0 mg/dL
+Cholesterol, HDL: 35.0 mg/dL
+eAG: 120.0 mg/dL
+% Hemoglobin A1c: 5.8 %
+Chloride: 102.0 mEq/L
+Bicarbonate: 22.0 mEq/L
+Creatinine: 0.9 mg/dL
+I: 1.0 nan
+
+Current Medications:
+Aspirin 325mg
+Clopidogrel 75mg
+Heparin 5000UNIT
+Lisinopril 20mg
+Metoprolol Tartrate 50mg
+Rosuvastatin Calcium 20mg
+LamoTRIgine 100mg
+Influenza Vaccine Quadrivalent 0.5mL
+Influenza Vaccine Quadrivalent 0.5mL
+amLODIPine 10mg
+",I6340,Cerebral infarction due to embolism of unspecified cerebral artery,57,0,14,[]
+29780751,10014354,M,60,OBSERVATION ADMIT,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+MCV: 86.0 fL
+Neutrophils: 57.0 %
+Absolute Lymphocyte Count: 8.29 K/uL
+Atypical Lymphocytes: 0.0 %
+MCH: 28.2 pg
+Platelet Count: 92.0 K/uL
+RDW-SD: 61.8 fL
+RDW: 20.5 %
+Hematocrit: 23.7 %
+MCHC: 32.9 g/dL
+
+Current Medications:
+Bag 1BAG
+Sucralfate 1gm
+CloNIDine 0.1mg
+LORazepam 0.5mg
+OxyCODONE (Immediate Release) 5mg
+Clopidogrel 75mg
+Glucagon 1mg
+Polyethylene Glycol 17g
+Polyethylene Glycol 17g
+Heparin 5000UNIT
+",B348,Other viral infections of unspecified site,321,3,69,[]
+29820177,10020740,M,56,DIRECT OBSERVATION,Abdominal pain,"Patient is a 56 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT OBSERVATION
+
+Recent Lab Results:
+RDW: 15.4 %
+Phosphate: 3.6 mg/dL
+Magnesium: 1.4 mg/dL
+Alanine Aminotransferase (ALT): 14.0 IU/L
+Potassium: 3.8 mEq/L
+Creatinine: 0.8 mg/dL
+Alkaline Phosphatase: 79.0 IU/L
+Sodium: 138.0 mEq/L
+Bicarbonate: 26.0 mEq/L
+Calcium, Total: 8.9 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Lorazepam 1mg
+Sarna Lotion 1Appl
+Albuterol 0.083% Neb Soln 1NEB
+Glucagon 1mg
+Heparin 5000UNIT
+Omeprazole 20mg
+Ciprofloxacin HCl 500mg
+Ciprofloxacin HCl 500mg
+Ciprofloxacin HCl 500mg
+",5770,Acute pancreatitis,78,0,21,"['9705', '8874', '4513', '5188']"
+23300884,10014729,F,21,EW EMER.,Abdominal pain,"Patient is a 21 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+RBC: 2.0 #/hpf
+Epithelial Cells: 2.0 #/hpf
+pH: 6.0 units
+Ketone: 80.0 mg/dL
+WBC: 0.0 #/hpf
+Protein: 30.0 mg/dL
+Potassium: 4.0 mEq/L
+Bicarbonate: 22.0 mEq/L
+Sodium: 135.0 mEq/L
+Glucose: 107.0 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Bag 50mL
+Bag 50mL
+Lorazepam 0.5mg
+OxycoDONE (Immediate Release)  5mg
+Sarna Lotion 1Appl
+DiphenhydrAMINE 25mg
+Furosemide 20mg
+Glucagon 1mg
+Polyethylene Glycol 17g
+",99859,Other postoperative infection,252,57,106,"['3897', '3403', '3404', '3452']"
+22380825,10002930,F,48,EU OBSERVATION,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",311,"Depressive disorder, not elsewhere classified",0,0,0,[]
+23688993,10002930,F,48,DIRECT EMER.,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+Vitamin B12: 406.0 pg/mL
+Folate: 15.9 ng/mL
+Thyroid Stimulating Hormone: 0.7 uIU/mL
+Alanine Aminotransferase (ALT): 43.0 IU/L
+Bilirubin, Total: 0.4 mg/dL
+Alkaline Phosphatase: 72.0 IU/L
+Asparate Aminotransferase (AST): 64.0 IU/L
+Creatine Kinase (CK): 99.0 IU/L
+
+Current Medications:
+Nicotine Polacrilex 1STCK
+Amitriptyline 50mg
+HydrOXYzine 25mg
+Milk of Magnesia 30mL
+Sertraline 25mg
+Darunavir 600mg
+Ibuprofen 400mg
+Aluminum-Magnesium Hydrox.-Simethicone 30mL
+RiTONAvir 100mg
+Emtricitabine-Tenofovir (Truvada) 1TAB
+",311,"Depressive disorder, not elsewhere classified",9,1,11,[]
+27568122,10016742,F,58,OBSERVATION ADMIT,Abdominal pain,"Patient is a 58 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+pCO2: 44.0 mm Hg
+Calculated Total CO2: 32.0 mEq/L
+Lactate: 1.5 mmol/L
+Base Excess: 5.0 mEq/L
+pH: 7.45 units
+pO2: 38.0 mm Hg
+Creatinine: 0.5 mg/dL
+MCH: 26.8 pg
+Platelet Count: 448.0 K/uL
+RDW-SD: 43.8 fL
+
+Current Medications:
+Insulin 0UNIT
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+LORazepam 0.5mg
+Atorvastatin 80mg
+Glucagon 1mg
+Polyethylene Glycol 17g
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+",J9621,Acute and chronic respiratory failure with hypoxia,102,1,58,"['3E0H76Z', '5A1945Z', '0D2DXUZ', '0BJ08ZZ']"
+27562275,10014354,M,60,DIRECT EMER.,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+H: 12.0 nan
+L: 20.0 nan
+Glucose: 245.0 mg/dL
+Bicarbonate: 23.0 mEq/L
+Potassium: 4.9 mEq/L
+I: 0.0 nan
+Creatinine: 1.0 mg/dL
+Urea Nitrogen: 17.0 mg/dL
+Chloride: 89.0 mEq/L
+MCHC: 32.2 g/dL
+
+Current Medications:
+Multivitamins 1TAB
+Aspirin 81mg
+Sucralfate 1gm
+Colchicine 0.6mg
+Ondansetron 4mg
+Ondansetron 4mg
+OxyCODONE (Immediate Release) 5mg
+OxyCODONE (Immediate Release) 5mg
+Aspirin 325mg
+Furosemide 20mg
+",I319,"Disease of pericardium, unspecified",235,0,56,[]
+24294180,10039997,F,67,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 67 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+PTT: 29.2 sec
+MCH: 29.6 pg
+Hematocrit: 34.2 %
+RDW: 14.4 %
+RDW-SD: 48.9 fL
+MCHC: 31.9 g/dL
+MCV: 93.0 fL
+Red Blood Cells: 3.68 m/uL
+Platelet Count: 157.0 K/uL
+Alanine Aminotransferase (ALT): 16.0 IU/L
+
+Current Medications:
+Bag 1BAG
+Bag 1BAG
+Aspirin 325mg
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Famotidine 20mg
+Bisacodyl 10mg
+Docusate Sodium 100mg
+Iso-Osmotic Sodium Chloride 1BAG
+0.9% Sodium Chloride 1BAG
+",4373,"Cerebral aneurysm, nonruptured",29,1,45,"['0039', '3951']"
+24656677,10037928,F,78,EW EMER.,Abdominal pain,"Patient is a 78 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Sodium, Whole Blood: 137.0 mEq/L
+pH: 7.43 units
+Glucose: 419.0 mg/dL
+Potassium, Whole Blood: 3.9 mEq/L
+Chloride, Whole Blood: 102.0 mEq/L
+Oxygen Saturation: 97.0 %
+Calculated Bicarbonate, Whole Blood: 20.0 mEq/L
+Calcium, Total: 8.0 mg/dL
+PTT: 24.4 sec
+Potassium: 4.3 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Bag 1BAG
+Bag 1BAG
+Multivitamins W/minerals 1TAB
+Atorvastatin 20mg
+BusPIRone 10mg
+",25012,"Diabetes with ketoacidosis, type II or unspecified type, uncontrolled",121,16,51,[]
+21322534,10010471,F,89,OBSERVATION ADMIT,Abdominal pain,"Patient is a 89 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+L: 7.0 nan
+Troponin T: 0.46 ng/mL
+H: 11.0 nan
+I: 0.0 nan
+CK-MB Index: 11.5 %
+Creatine Kinase, MB Isoenzyme: 12.0 ng/mL
+Creatine Kinase (CK): 104.0 IU/L
+Thyroid Stimulating Hormone: 4.7 uIU/mL
+Thyroxine (T4): 4.7 ug/dL
+Potassium: 4.9 mEq/L
+
+Current Medications:
+Methadone 5mg
+Nephrocaps 1CAP
+Albuterol 0.083% Neb Soln 1NEB
+Heparin 5000UNIT
+Heparin 5000UNIT
+Levofloxacin 500mg
+Metoprolol Tartrate 5mg
+Rosuvastatin Calcium 20mg
+Docusate Sodium 100mg
+Gabapentin 100mg
+",I4891,Unspecified atrial fibrillation,92,0,27,['5A1D60Z']
+27672872,10017492,M,84,EW EMER.,Abdominal pain,"Patient is a 84 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+pH: 7.5 units
+Specific Gravity: 1.01  
+Epithelial Cells: 1.0 #/hpf
+RBC: 10.0 #/hpf
+WBC: 18.0 #/hpf
+Hemoglobin: 12.9 g/dL
+Hematocrit: 36.2 %
+MCH: 32.3 pg
+White Blood Cells: 9.1 K/uL
+Platelet Count: 304.0 K/uL
+
+Current Medications:
+Multivitamins 1TAB
+Amlodipine 5mg
+Amlodipine 5mg
+Amlodipine 2.5mg
+Aspirin 325mg
+CeftriaXONE 1gm
+Heparin 5000UNIT
+Docusate Sodium 100mg
+Pneumococcal Vac Polyvalent 0.5mL
+Docusate Sodium (Liquid) 100mg
+",43491,"Cerebral artery occlusion, unspecified with cerebral infarction",97,4,29,['0331']
+20044587,10023771,M,70,ELECTIVE,Abdominal pain,"Patient is a 70 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: ELECTIVE
+
+Recent Lab Results:
+Lactate: 1.4 mmol/L
+Potassium, Whole Blood: 3.6 mEq/L
+Hemoglobin: 12.0 g/dL
+Free Calcium: 1.16 mmol/L
+Sodium, Whole Blood: 142.0 mEq/L
+Chloride, Whole Blood: 114.0 mEq/L
+pO2: 405.0 mm Hg
+pCO2: 41.0 mm Hg
+pH: 7.37 units
+Base Excess: -1.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Amlodipine 5mg
+Aspirin 81mg
+Bag 50mL
+Finasteride 5mg
+Atorvastatin 80mg
+Atorvastatin 80mg
+Clopidogrel 75mg
+Clopidogrel 75mg
+Furosemide 20mg
+",41401,Coronary atherosclerosis of native coronary artery,282,1,86,"['3961', '3613', '3615']"
+22342963,10022017,M,59,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 59 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+Lactate: 1.6 mmol/L
+Hemoglobin: 14.6 g/dL
+Glucose: 151.0 mg/dL
+Chloride, Whole Blood: 104.0 mEq/L
+Potassium, Whole Blood: 3.9 mEq/L
+Free Calcium: 1.1 mmol/L
+pCO2: 41.0 mm Hg
+pH: 7.4 units
+pO2: 374.0 mm Hg
+Base Excess: 0.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Bag 1mL
+Bag 1BAG
+Albuterol 0.083% Neb Soln 1NEB
+Albuterol 0.083% Neb Soln 1NEB
+Atorvastatin 80mg
+CeFAZolin 2g
+Furosemide 20mg
+",I2510,Atherosclerotic heart disease of native coronary artery without angina pectoris,365,1,104,"['5A1221Z', '06BQ4ZZ', '021209W', '02100Z9']"
+26013492,10014354,M,60,EW EMER.,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Thyroid Stimulating Hormone: 4.0 uIU/mL
+Myelocytes: 0.0 %
+Absolute Monocyte Count: 0.41 K/uL
+Neutrophils: 87.0 %
+Monocytes: 1.0 %
+Eosinophils: 0.0 %
+Absolute Eosinophil Count: 0.0 K/uL
+Lymphocytes: 12.0 %
+Atypical Lymphocytes: 0.0 %
+Absolute Lymphocyte Count: 4.91 K/uL
+
+Current Medications:
+Aspirin 81mg
+Sucralfate 1gm
+LORazepam 0.5mg
+Ramelteon 8mg
+Atorvastatin 80mg
+Clopidogrel 75mg
+Glucagon 1mg
+Polyethylene Glycol 17g
+Levothyroxine Sodium 25mcg
+Pantoprazole 40mg
+",N179,"Acute kidney failure, unspecified",77,0,45,[]
+26332470,10020306,F,74,EU OBSERVATION,Abdominal pain,"Patient is a 74 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+Specific Gravity: 1.005  
+pH: 6.0 units
+Potassium: 5.0 mEq/L
+I: 0.0 nan
+L: 12.0 nan
+H: 24.0 nan
+D-Dimer: 1179.0 ng/mL FEU
+L: 11.0 nan
+I: 0.0 nan
+NTproBNP: 534.0 pg/mL
+
+Current Medications:
+No current medications.
+",J811,Chronic pulmonary edema,61,0,0,[]
+28909879,10022041,M,64,EW EMER.,Abdominal pain,"Patient is a 64 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Hyaline Casts: 1.0 #/lpf
+Anion Gap: 13.0 mEq/L
+Bicarbonate: 24.0 mEq/L
+Calcium, Total: 8.3 mg/dL
+Potassium: 3.7 mEq/L
+Urea Nitrogen: 12.0 mg/dL
+Creatine Kinase (CK): 694.0 IU/L
+Glucose: 99.0 mg/dL
+Magnesium: 1.9 mg/dL
+Sodium: 141.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Bag 50mL
+Bag 50mL
+Glucagon 1mg
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+OxyCODONE SR (OxyconTIN) 20mg
+Pantoprazole 40mg
+Calcium Carbonate 500mg
+",29181,Alcohol withdrawal,192,2,63,"['9671', '7931']"
+27525946,10019003,F,65,EW EMER.,Abdominal pain,"Patient is a 65 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Bilirubin, Total: 0.4 mg/dL
+MCHC: 31.1 g/dL
+RDW: 19.7 %
+RDW-SD: 67.0 fL
+Red Blood Cells: 2.29 m/uL
+MCV: 98.0 fL
+Hemoglobin: 7.0 g/dL
+MCH: 30.6 pg
+Alkaline Phosphatase: 37.0 IU/L
+Creatinine: 0.8 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Tiotropium Bromide 1CAP
+Vial 1VIAL
+Bag 1BAG
+Bag 1BAG
+",K264,Chronic or unspecified duodenal ulcer with hemorrhage,444,7,98,"['04L33DZ', '0D598ZZ', '0DQ98ZZ', 'B548ZZA', '0DJ08ZZ', '04L23DZ', '3E0G8GC', '02HV33Z']"
+21457723,10019003,F,65,EW EMER.,Abdominal pain,"Patient is a 65 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+MCV: 91.0 fL
+Alanine Aminotransferase (ALT): 19.0 IU/L
+Asparate Aminotransferase (AST): 90.0 IU/L
+Bicarbonate: 24.0 mEq/L
+Magnesium: 1.7 mg/dL
+Bilirubin, Total: 3.3 mg/dL
+Bilirubin, Direct: 0.5 mg/dL
+I: 3.0 nan
+L: 28.0 nan
+Chloride: 100.0 mEq/L
+
+Current Medications:
+Multivitamins 1TAB
+Tiotropium Bromide 1CAP
+Vial 1VIAL
+Bag 1BAG
+CefTRIAXone 1gm
+Furosemide 20mg
+Glucagon 1mg
+Levothyroxine Sodium 88mcg
+Magnesium Sulfate 2gm
+Pantoprazole 40mg
+",D61818,Other pancytopenia,798,3,37,['07DR3ZX']
+22607171,10015860,M,53,EU OBSERVATION,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+Absolute Neutrophil Count: 8.96 K/uL
+Immature Granulocytes: 0.8 %
+Neutrophils: 74.3 %
+Hematocrit: 30.6 %
+PTT: 30.3 sec
+INR(PT): 1.0 nan
+RDW: 13.3 %
+PT: 11.1 sec
+Creatinine: 3.1 mg/dL
+Chloride: 92.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+OxycoDONE (Immediate Release)  5mg
+Atorvastatin 40mg
+Glucagon 1mg
+Heparin 5000UNIT
+Levofloxacin 500mg
+Lisinopril 10mg
+Influenza Vaccine Quadrivalent 0.5mL
+",E1165,Type 2 diabetes mellitus with hyperglycemia,86,0,18,[]
+24420677,10015931,M,87,OBSERVATION ADMIT,Abdominal pain,"Patient is a 87 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Chloride: 97.0 mEq/L
+Lactate Dehydrogenase (LD): 278.0 IU/L
+Anion Gap: 13.0 mEq/L
+Alanine Aminotransferase (ALT): 9.0 IU/L
+Bicarbonate: 33.0 mEq/L
+Glucose: 160.0 mg/dL
+Creatinine: 1.7 mg/dL
+Potassium: 4.0 mEq/L
+Phosphate: 4.2 mg/dL
+Asparate Aminotransferase (AST): 17.0 IU/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Multivitamins 1TAB
+Tiotropium Bromide 1CAP
+Aspirin 81mg
+Bag 1BAG
+",I5023,Acute on chronic systolic (congestive) heart failure,716,4,140,['02HV33Z']
+21216581,10004457,M,65,AMBULATORY OBSERVATION,Abdominal pain,"Patient is a 65 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: AMBULATORY OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+Apixaban 5mg
+OxycoDONE (Immediate Release)  5mg
+Potassium Chloride 20mEq
+Nitroglycerin SL 0.3mg
+Diltiazem Extended-Release 120mg
+Aspirin EC 325mg
+TraZODone 25mg
+Influenza Virus Vaccine 0.5mL
+Potassium Chloride 40mEq
+Acetaminophen 650mg
+",42732,Atrial flutter,0,0,13,"['3727', '3734']"
+27259207,10040025,F,64,OBSERVATION ADMIT,Abdominal pain,"Patient is a 64 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Potassium: 3.5 mEq/L
+PT: 10.0 sec
+INR(PT): 0.9 nan
+Hematocrit: 33.3 %
+Hemoglobin: 9.8 g/dL
+MCV: 99.0 fL
+Platelet Count: 227.0 K/uL
+MCH: 29.2 pg
+RDW: 18.8 %
+Red Blood Cells: 3.36 m/uL
+
+Current Medications:
+Aspirin 81mg
+FoLIC Acid 1mg
+LORazepam 0.5mg
+OxyCODONE (Immediate Release) 5mg
+OxyCODONE (Immediate Release) 5mg
+OxyCODONE (Immediate Release) 5mg
+OxyCODONE (Immediate Release) 5mg
+OxyCODONE (Immediate Release) 5mg
+Sarna Lotion 1Appl
+Ezetimibe 10mg
+",E11621,Type 2 diabetes mellitus with foot ulcer,175,0,83,"['0LBW0ZZ', 'B410ZZZ', 'B41GYZZ']"
+27327816,10025463,M,66,DIRECT EMER.,Abdominal pain,"Patient is a 66 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+INR(PT): 3.1 nan
+PT: 34.2 sec
+Magnesium: 1.9 mg/dL
+Chloride: 104.0 mEq/L
+Sodium: 139.0 mEq/L
+Potassium: 3.5 mEq/L
+PT: 35.6 sec
+INR(PT): 3.3 nan
+Chloride: 101.0 mEq/L
+Sodium: 137.0 mEq/L
+
+Current Medications:
+Oxycodone-Acetaminophen (5mg-325mg) 1TAB
+Zolpidem Tartrate 5mg
+Bag 50mL
+Lisinopril 5mg
+OxycoDONE (Immediate Release)  5mg
+Warfarin 1mg
+Warfarin 2mg
+Aspirin 325mg
+Potassium Chloride 20mEq
+Magnesium Sulfate 2gm
+",42731,Atrial fibrillation,14,0,29,"['3727', '3734', '9962', '3726']"
+22168393,10008287,F,43,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 43 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+pCO2: 33.0 mm Hg
+Base Excess: -2.0 mEq/L
+pO2: 348.0 mm Hg
+Chloride, Whole Blood: 103.0 mEq/L
+Hematocrit, Calculated: 37.0 %
+Hemoglobin: 12.2 g/dL
+Potassium, Whole Blood: 3.5 mEq/L
+Free Calcium: 1.01 mmol/L
+Sodium, Whole Blood: 133.0 mEq/L
+Glucose: 98.0 mg/dL
+
+Current Medications:
+Bag 1BAG
+Bag 1BAG
+CeFAZolin 1g
+Heparin 5000UNIT
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Bisacodyl 10mg
+Docusate Sodium 100mg
+Iso-Osmotic Sodium Chloride 1BAG
+",D1802,Hemangioma of intracranial structures,68,0,58,['00B60ZZ']
+28710730,10019568,F,59,EW EMER.,Abdominal pain,"Patient is a 59 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Urea Nitrogen: 13.0 mg/dL
+INR(PT): 0.9 nan
+PTT: 34.6 sec
+PT: 10.0 sec
+Potassium: 4.6 mEq/L
+Anion Gap: 16.0 mEq/L
+Calcium, Total: 8.7 mg/dL
+Creatinine: 0.6 mg/dL
+Bicarbonate: 22.0 mEq/L
+Sodium: 134.0 mEq/L
+
+Current Medications:
+FoLIC Acid 1mg
+Ondansetron 4mg
+HYDROmorphone 2500mcg
+HYDROmorphone 2500mcg
+HYDROmorphone 2500mcg
+Heparin 5000UNIT
+Heparin 5000UNIT
+Lidocaine 5% Patch 1PTCH
+Multivitamins 1TAB
+Naloxone 2mg
+",80707,Closed fracture of seven ribs,45,1,44,['3404']
+24885579,10037928,F,78,OBSERVATION ADMIT,Abdominal pain,"Patient is a 78 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+PTT: 21.2 sec
+Basophils: 0.3 %
+MCHC: 33.3 g/dL
+Neutrophils: 82.6 %
+Lymphocytes: 10.6 %
+Absolute Lymphocyte Count: 0.82 K/uL
+Absolute Eosinophil Count: 0.03 K/uL
+Eosinophils: 0.4 %
+Monocytes: 6.0 %
+Immature Granulocytes: 0.1 %
+
+Current Medications:
+Vial 1VIAL
+Bag 1BAG
+Bag 1BAG
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 4UNIT
+Insulin 0UNIT
+Atorvastatin 40mg
+Glucagon 1mg
+Heparin 5000UNIT
+",K3580,Unspecified acute appendicitis,183,0,46,[]
+25172300,10040025,F,64,EW EMER.,Abdominal pain,"Patient is a 64 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+WBC: 1.0 #/hpf
+Hyaline Casts: 13.0 #/lpf
+pH: 6.0 units
+RBC: 3.0 #/hpf
+Specific Gravity: 1.01  
+Epithelial Cells: 0.0 #/hpf
+Glucose: 70.0 mg/dL
+Protein: 100.0 mg/dL
+Urea Nitrogen: 74.0 mg/dL
+Glucose: 322.0 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Aspirin 81mg
+Warfarin 5mg
+Ezetimibe 10mg
+Febuxostat 40mg
+Glucagon 1mg
+Spironolactone 25mg
+Ampicillin-Sulbactam 3g
+Vancomycin 1000mg
+BuPROPion (Sustained Release) 150mg
+",6820,Cellulitis and abscess of face,43,0,30,[]
+28889419,10014729,F,21,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 21 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+Lactate: 1.8 mmol/L
+Free Calcium: 1.28 mmol/L
+Calculated Total CO2: 24.0 mEq/L
+pCO2: 37.0 mm Hg
+pO2: 498.0 mm Hg
+Base Excess: 0.0 mEq/L
+pH: 7.4 units
+Potassium, Whole Blood: 4.0 mEq/L
+Hematocrit, Calculated: 39.0 %
+Glucose: 93.0 mg/dL
+
+Current Medications:
+Neutra-Phos 1PKT
+Bag 50mL
+Bag 50mL
+Bag 50mL
+Bag 50mL
+CefazoLIN 1g
+CefazoLIN 1g
+CefazoLIN 2g
+CefazoLIN 2g
+HYDROmorphone 2500mcg
+",9010,Injury to thoracic aorta,276,0,151,"['3845', '0390', '0391', '3961', '3959', '8605']"
+26722126,10014354,M,60,EU OBSERVATION,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+MCH: 27.3 pg
+Creatine Kinase (CK): 122.0 IU/L
+Alanine Aminotransferase (ALT): 12.0 IU/L
+Albumin: 3.6 g/dL
+Metamyelocytes: 0.0 %
+Lymphocytes: 87.0 %
+Atypical Lymphocytes: 0.0 %
+Myelocytes: 0.0 %
+Absolute Eosinophil Count: 0.0 K/uL
+Absolute Basophil Count: 0.0 K/uL
+
+Current Medications:
+No current medications.
+",R079,"Chest pain, unspecified",56,0,0,[]
+25282382,10002930,F,48,EU OBSERVATION,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+Red Blood Cells: 4.13 m/uL
+MCHC: 29.7 %
+Monocytes: 5.1 %
+RDW: 17.9 %
+Lymphocytes: 26.8 %
+Hemoglobin: 9.8 g/dL
+Basophils: 0.4 %
+MCV: 79.0 fL
+Eosinophils: 1.5 %
+Platelet Count: 252.0 K/uL
+
+Current Medications:
+No current medications.
+",V6284,Suicidal ideation,31,0,0,[]
+20364112,10005866,M,57,OBSERVATION ADMIT,Abdominal pain,"Patient is a 57 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+H: 5.0 nan
+Red Blood Cells: 2.72 m/uL
+Asparate Aminotransferase (AST): 33.0 IU/L
+Sodium: 140.0 mEq/L
+I: 2.0 nan
+Potassium: 4.2 mEq/L
+Glucose: 103.0 mg/dL
+L: 6.0 nan
+Alkaline Phosphatase: 62.0 IU/L
+Anion Gap: 13.0 mEq/L
+
+Current Medications:
+Multivitamins 1TAB
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Sucralfate 1gm
+OxyCODONE (Immediate Release) 5mg
+Sulfameth/Trimethoprim DS 1TAB
+Sulfameth/Trimethoprim SS 1TAB
+",K265,Chronic or unspecified duodenal ulcer with perforation,977,4,145,"['0D963ZX', '0WJP0ZZ', '0DH98UZ', '02HV33Z', '3E0G76Z', '0DJ08ZZ', '0D9630Z', '3E0336Z']"
+26842957,10020187,F,63,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 63 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+PTT: 28.6 sec
+White Blood Cells: 6.1 K/uL
+Platelet Count: 190.0 K/uL
+Red Blood Cells: 4.38 m/uL
+RDW-SD: 46.1 fL
+MCHC: 32.5 g/dL
+Hemoglobin: 12.0 g/dL
+Hematocrit: 36.9 %
+MCH: 27.4 pg
+Potassium: 3.4 mEq/L
+
+Current Medications:
+Aspirin 325mg
+Clopidogrel 75mg
+Hydrochlorothiazide 25mg
+Heparin 5000UNIT
+Bisacodyl 10mg
+Docusate Sodium 100mg
+Iso-Osmotic Sodium Chloride 1BAG
+Ondansetron 4mg
+Famotidine 20mg
+Influenza Vaccine Quadrivalent 0.5mL
+",I671,"Cerebral aneurysm, nonruptured",28,0,17,['03VG3DZ']
+28258130,10039708,F,46,EW EMER.,Abdominal pain,"Patient is a 46 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Bilirubin, Total: 0.8 mg/dL
+Calcium, Total: 6.4 mg/dL
+Alanine Aminotransferase (ALT): 70.0 IU/L
+Anion Gap: 14.0 mEq/L
+Chloride: 120.0 mEq/L
+Sodium: 142.0 mEq/L
+Urea Nitrogen: 45.0 mg/dL
+Potassium: 2.8 mEq/L
+Phosphate: 3.7 mg/dL
+Bicarbonate: 11.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Multivitamins 1TAB
+Multivitamins 1TAB
+Tuberculin Protein 0.1mL
+Neutra-Phos 1PKT
+Vial 1VIAL
+Vial 1VIAL
+Vial 1VIAL
+Vial 1VIAL
+Vial 1VIAL
+",D649,"Anemia, unspecified",2390,33,314,"['B54BZZA', '0B9D8ZZ', '0DJ08ZZ', '05HM33Z', '05HM33Z', '5A1935Z', '0DJD8ZZ', '0B9D8ZZ', '06H03DZ', '5A1945Z', 'B543ZZ3', '0DJD8ZZ', '5A1D60Z', '3E0G76Z', '0BH17EZ', '0BH17EZ', '02HV33Z', '0BH17EZ', '5A1945Z', '06HM33Z', 'B548ZZA']"
+20973395,10016810,F,66,EW EMER.,Abdominal pain,"Patient is a 66 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+MCH: 32.8 pg
+Hemoglobin: 12.5 g/dL
+Eosinophils: 0.8 %
+Hematocrit: 35.3 %
+White Blood Cells: 18.5 K/uL
+Basophils: 0.1 %
+Monocytes: 2.6 %
+Platelet Count: 221.0 K/uL
+Red Blood Cells: 3.82 m/uL
+MCV: 92.0 fL
+
+Current Medications:
+Insulin 0UNIT
+Multivitamins 1TAB
+Vial 1VIAL
+Aspirin 81mg
+Bag 1BAG
+Chlorpheniramine Maleate 4mg
+OxycoDONE (Immediate Release)  5mg
+Sarna Lotion 1Appl
+Glucagon 1mg
+Hydrochlorothiazide 50mg
+",5400,Acute appendicitis with generalized peritonitis,156,1,89,"['4572', '4709']"
+29858644,10023117,M,53,EW EMER.,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+MCV: 89.0 fL
+Anion Gap: 15.0 mEq/L
+Bicarbonate: 30.0 mEq/L
+Sodium: 142.0 mEq/L
+Glucose: 82.0 mg/dL
+Creatinine: 1.9 mg/dL
+Potassium: 4.0 mEq/L
+Magnesium: 2.1 mg/dL
+Phosphate: 4.8 mg/dL
+Calcium, Total: 8.9 mg/dL
+
+Current Medications:
+Multivitamins 1TAB
+Aspirin 81mg
+Atorvastatin 10mg
+Heparin 5000UNIT
+HydrALAzine 10mg
+HydrALAzine 10mg
+Isosorbide Mononitrate 30mg
+OLANZapine 10mg
+Omeprazole 20mg
+Allopurinol 100mg
+",42823,Acute on chronic systolic heart failure,97,0,27,[]
+27496788,10035631,M,63,DIRECT EMER.,Abdominal pain,"Patient is a 63 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+MCV: 101.0 fL
+PTT: 27.4 sec
+INR(PT): 1.0 nan
+Hematocrit: 38.8 %
+Eosinophils: 11.2 %
+RDW: 12.6 %
+Hemoglobin: 13.3 g/dL
+Neutrophils: 66.8 %
+PT: 11.2 sec
+MCHC: 34.4 %
+
+Current Medications:
+FoLIC Acid 1mg
+Lorazepam 0.5mg
+Heparin 5000UNIT
+Acyclovir 400mg
+Tacrolimus 0.5mg
+Acetaminophen 650mg
+Sodium Chloride 0.9%  Flush 3mL
+",78609,Other respiratory abnormalities,128,17,7,"['3327', '3324']"
+29462354,10035631,M,63,DIRECT EMER.,Abdominal pain,"Patient is a 63 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+Bands: 0.0 %
+Alanine Aminotransferase (ALT): 41.0 IU/L
+Sodium: 139.0 mEq/L
+Bicarbonate: 26.0 mEq/L
+Potassium: 4.2 mEq/L
+Urea Nitrogen: 18.0 mg/dL
+Calcium, Total: 9.7 mg/dL
+PTT: 28.2 sec
+INR(PT): 1.1 nan
+PT: 11.7 sec
+
+Current Medications:
+Vial 1VIAL
+Vial 1VIAL
+Vial 1VIAL
+Lorazepam 0.5mg
+Omeprazole 20mg
+Vancomycin 1000mg
+Vancomycin 1000mg
+Acyclovir 400mg
+Acyclovir 400mg
+Acyclovir 400mg
+",20500,"Acute myeloid leukemia, without mention of having achieved remission",1469,29,84,"['4131', '3897', '4131', '4131', '9925']"
+25559382,10004457,M,65,DIRECT OBSERVATION,Abdominal pain,"Patient is a 65 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT OBSERVATION
+
+Recent Lab Results:
+Anion Gap: 11.0 mEq/L
+Cholesterol, LDL, Measured: 227.0 mg/dL
+Cholesterol, HDL: 55.0 mg/dL
+Cholesterol, Total: 283.0 mg/dL
+Cholesterol Ratio (Total/HDL): 5.1 Ratio
+Bilirubin, Total: 0.3 mg/dL
+Creatinine: 1.1 mg/dL
+Bicarbonate: 27.0 mEq/L
+L: 19.0 nan
+Urea Nitrogen: 18.0 mg/dL
+
+Current Medications:
+Aspirin 81mg
+Ramelteon 8mg
+Clopidogrel 75mg
+Isosorbide Mononitrate (Extended Release) 30mg
+Diltiazem Extended-Release 120mg
+Fish Oil (Omega 3) 1000mg
+Niacin 1000mg
+Acetaminophen 500-1000mg
+Sodium Chloride 0.9% 1000mL
+Sodium Chloride 0.9%  Flush 3-10mL
+",I25110,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,24,0,11,[]
+27984218,10020640,F,91,EW EMER.,Abdominal pain,"Patient is a 91 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Urea Nitrogen: 33.0 mg/dL
+Red Blood Cells: 4.15 m/uL
+RDW: 14.9 %
+Eosinophils: 0.1 %
+MCHC: 31.2 %
+Anion Gap: 18.0 mEq/L
+Neutrophils: 91.4 %
+Lymphocytes: 5.9 %
+Basophils: 0.2 %
+Hematocrit: 37.1 %
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Neutra-Phos 1PKT
+Aspirin 81mg
+Bag 50mL
+",486,"Pneumonia, organism unspecified",369,5,88,[]
+25177949,10032725,F,38,EW EMER.,Abdominal pain,"Patient is a 38 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Creatine Kinase (CK): 142.0 IU/L
+Creatine Kinase, MB Isoenzyme: 55.0 ng/mL
+CK-MB Index: 38.7 %
+MCH: 25.4 pg
+MCV: 74.0 fL
+Sodium: 137.0 mEq/L
+Magnesium: 1.4 mg/dL
+Calcium, Total: 11.7 mg/dL
+Bicarbonate: 27.0 mEq/L
+Urea Nitrogen: 11.0 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+",1985,Secondary malignant neoplasm of bone and bone marrow,678,14,214,"['7855', '7745', '9925', '9229']"
+28676446,10002428,F,80,EU OBSERVATION,Abdominal pain,"Patient is a 80 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+Magnesium: 1.6 mg/dL
+MCH: 30.7 pg
+Red Blood Cells: 3.16 m/uL
+MCHC: 33.1 %
+Hematocrit: 29.3 %
+Platelet Count: 236.0 K/uL
+Hemoglobin: 9.7 g/dL
+RDW: 13.0 %
+MCV: 93.0 fL
+Glucose: 120.0 mg/dL
+
+Current Medications:
+Multivitamins 1CAP
+Neutra-Phos 1PKT
+Oxycodone-Acetaminophen (5mg-325mg) 1TAB
+Lisinopril 5mg
+CefazoLIN 2g
+Levothyroxine Sodium 75mcg
+Milk of Magnesia 30mL
+0.9% Sodium Chloride 100mL
+Pantoprazole 40mg
+Bisacodyl 10mg
+",82009,Other closed transcervical fracture of neck of femur,29,0,32,['7915']
+28477280,10031757,F,67,DIRECT EMER.,Abdominal pain,"Patient is a 67 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+Chloride: 98.0 mEq/L
+Neutrophils: 88.0 %
+RDW: 13.6 %
+MCV: 82.0 fL
+Basophils: 0.2 %
+Hemoglobin: 11.2 g/dL
+MCHC: 32.7 %
+MCH: 26.6 pg
+Eosinophils: 0.7 %
+Lymphocytes: 5.5 %
+
+Current Medications:
+Multivitamins 1TAB
+Vial 1VIAL
+Vial 1VIAL
+Vial 1VIAL
+Enoxaparin Sodium 30mg
+Lorazepam 0.5mg
+Lorazepam 0.5mg
+Lorazepam 0.5mg
+Phytonadione 5mg
+Polyethylene Glycol 17g
+",1551,Malignant neoplasm of intrahepatic bile ducts,731,48,133,"['8842', '3979', '8847', '3897']"
+25826145,10020740,M,56,EW EMER.,Abdominal pain,"Patient is a 56 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+MCHC: 32.3 %
+White Blood Cells: 6.9 K/uL
+Hemoglobin: 10.1 g/dL
+RDW: 15.3 %
+MCH: 25.8 pg
+Platelet Count: 178.0 K/uL
+Red Blood Cells: 3.92 m/uL
+Hematocrit: 31.3 %
+MCV: 80.0 fL
+Hematocrit: 27.4 %
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Vial 1VIAL
+Bag 1BAG
+Albumin 25% (12.5g / 50mL) 12.5g
+Glucagon 1mg
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Omeprazole 20mg
+",5770,Acute pancreatitis,61,1,48,"['5343', '5451', '5124']"
+24256866,10037861,M,77,URGENT,Abdominal pain,"Patient is a 77 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Glucose: 262.0 mg/dL
+Calculated Total CO2: 37.0 mEq/L
+Base Excess: 6.0 mEq/L
+pCO2: 66.0 mm Hg
+pO2: 89.0 mm Hg
+Hemoglobin: 14.6 g/dL
+Potassium, Whole Blood: 3.8 mEq/L
+pH: 7.34 units
+Free Calcium: 1.23 mmol/L
+Chloride, Whole Blood: 99.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Vial 1VIAL
+Aspirin 81mg
+Bag 1BAG
+Warfarin 5mg
+Atorvastatin 80mg
+Furosemide 20mg
+Furosemide 20mg
+",42823,Acute on chronic systolic heart failure,416,16,64,['3721']
+21606243,10031404,F,82,URGENT,Abdominal pain,"Patient is a 82 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Lactate Dehydrogenase (LD): 192.0 IU/L
+Creatine Kinase, MB Isoenzyme: 6.0 ng/mL
+MCHC: 32.5 g/dL
+Hemoglobin: 12.4 g/dL
+MCH: 30.5 pg
+Hematocrit: 38.1 %
+Urea Nitrogen: 12.0 mg/dL
+White Blood Cells: 9.5 K/uL
+MCV: 94.0 fL
+RDW-SD: 45.3 fL
+
+Current Medications:
+amLODIPine 5mg
+Bag 1BAG
+Bag 1BAG
+LORazepam 0.5mg
+Atorvastatin 20mg
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Metoprolol Succinate XL 50mg
+0.9% Sodium Chloride 1BAG
+0.9% Sodium Chloride 1BAG
+",I308,Other forms of acute pericarditis,57,0,34,['0W9D3ZZ']
+22987108,10007818,M,69,DIRECT EMER.,Abdominal pain,"Patient is a 69 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+Albumin: 3.6 g/dL
+Magnesium: 2.1 mg/dL
+Creatinine: 2.0 mg/dL
+Anion Gap: 16.0 mEq/L
+Urea Nitrogen: 68.0 mg/dL
+Asparate Aminotransferase (AST): 45.0 IU/L
+Alkaline Phosphatase: 84.0 IU/L
+Glucose: 230.0 mg/dL
+Alanine Aminotransferase (ALT): 22.0 IU/L
+Bilirubin, Total: 1.2 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Bag 1BAG
+Multivitamins 1TAB
+Tuberculin Protein 0.1mL
+",K7469,Other cirrhosis of liver,2257,98,320,"['02H633Z', '0BH17EZ', 'B211YZZ', '3E0G76Z', '0BCH8ZZ', '02HV33Z', '3E0436Z', '0BCJ8ZZ', '03LP3DZ', 'B518YZA', '0BC78ZZ', '04LK3DZ', '0W9G3ZX', '0W9G3ZZ', '0B968ZX', 'B214YZZ', '0BCJ8ZZ', '5A1D60Z', '0W9G3ZZ', '0BCJ8ZZ', '0W9G3ZX', '5A1955Z', '0BC78ZZ']"
+21390688,10039997,F,67,EU OBSERVATION,Abdominal pain,"Patient is a 67 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+UTX2: -630.0 nan
+UTX5: -186.0 nan
+UTX1: -308.0 nan
+UTX4: -419.0 nan
+UTX7: -438.0 nan
+UTX3: 0.0 nan
+UTX6: -67.0 nan
+Absolute Monocyte Count: 0.5 K/uL
+Lymphocytes: 27.9 %
+MCH: 29.3 pg
+
+Current Medications:
+No current medications.
+",F309,"Manic episode, unspecified",66,0,0,[]
+20854119,10015860,M,53,EW EMER.,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Lymphocytes: 4.9 %
+Glucose: 523.0 mg/dL
+Potassium: 5.1 mEq/L
+Chloride: 91.0 mEq/L
+Creatinine: 2.1 mg/dL
+Anion Gap: 17.0 mEq/L
+Sodium: 126.0 mEq/L
+Neutrophils: 90.0 %
+MCH: 28.3 pg
+MCHC: 34.5 %
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Amlodipine 5mg
+Aspirin 81mg
+Lisinopril 5mg
+",25082,"Diabetes with other specified manifestations, type II or unspecified type, uncontrolled",163,11,52,"['7769', '8604', '3893', '7769']"
+20429160,10021487,M,43,ELECTIVE,Abdominal pain,"Patient is a 43 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: ELECTIVE
+
+Recent Lab Results:
+Hematocrit: 34.2 %
+Chloride: 100.0 mEq/L
+Magnesium: 2.0 mg/dL
+Sodium: 138.0 mEq/L
+Potassium: 4.3 mEq/L
+Red Blood Cells: 3.87 m/uL
+MCV: 84.0 fL
+RDW: 14.8 %
+Hematocrit: 32.7 %
+MCHC: 32.1 %
+
+Current Medications:
+Heparin 5000UNIT
+Heparin 5000UNIT
+Levofloxacin 500mg
+Lactated Ringers 1000mL
+Lactated Ringers 1000mL
+Lactated Ringers 1000mL
+Lactated Ringers 1000mL
+Lactated Ringers 1000mL
+Milk of Magnesia 30mL
+0.9% Sodium Chloride 100mL
+",5720,Abscess of liver,146,7,50,"['3897', '5459', '4573', '5029']"
+26173805,10014354,M,60,EU OBSERVATION,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+eAG: 192.0 mg/dL
+PTT: 31.0 sec
+L: 14.0 nan
+Bilirubin, Total: 0.5 mg/dL
+Thyroxine (T4): 6.9 ug/dL
+Calcium, Total: 9.2 mg/dL
+Sodium: 133.0 mEq/L
+Glucose: 262.0 mg/dL
+I: 1.0 nan
+Phosphate: 3.3 mg/dL
+
+Current Medications:
+Aspirin 81mg
+Losartan Potassium 25mg
+Glucagon 1mg
+Insulin 135UNIT
+Insulin 125UNIT
+Levothyroxine Sodium 75mcg
+Rivaroxaban 20mg
+ZIPRASidone Hydrochloride 40mg
+Acyclovir 400mg
+Docusate Sodium 100mg
+",R61,Generalized hyperhidrosis,46,0,22,[]
+26226543,10019003,F,65,ELECTIVE,Abdominal pain,"Patient is a 65 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: ELECTIVE
+
+Recent Lab Results:
+Phosphate: 4.4 mg/dL
+NTproBNP: 4027.0 pg/mL
+Potassium: 2.9 mEq/L
+Chloride: 99.0 mEq/L
+Uric Acid: 11.5 mg/dL
+Glucose: 83.0 mg/dL
+Urea Nitrogen: 18.0 mg/dL
+Creatinine: 1.2 mg/dL
+H: 10.0 nan
+L: 12.0 nan
+
+Current Medications:
+ruxolitinib 5mg
+Multivitamins 1TAB
+Neutra-Phos 1PKT
+Tiotropium Bromide 1CAP
+Vial 1VIAL
+Vial 1VIAL
+Bag 1BAG
+OxyCODONE (Immediate Release) 5mg
+OxyCODONE (Immediate Release) 5mg
+CefTRIAXone 1gm
+",I110,Hypertensive heart disease with heart failure,1036,25,121,[]
+23473524,10002428,F,80,EW EMER.,Abdominal pain,"Patient is a 80 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Base Excess: 0.0 mEq/L
+pH: 7.35 units
+pCO2: 46.0 mm Hg
+Calculated Total CO2: 26.0 mEq/L
+pO2: 153.0 mm Hg
+Free Calcium: 1.3 mmol/L
+Lactate: 1.5 mmol/L
+Troponin T: 0.03 ng/mL
+Creatine Kinase, MB Isoenzyme: 7.0 ng/mL
+Creatine Kinase (CK): 29.0 IU/L
+
+Current Medications:
+Insulin 0UNIT
+Bag 50-100mL
+Bag 50mL
+Lidocaine Jelly 2% (Urojet) 1Appl
+Lisinopril 5mg
+CeftriaXONE 1gm
+Furosemide 20mg
+Furosemide 20mg
+Furosemide 20mg
+Furosemide 20mg
+",03843,Septicemia due to pseudomonas,452,9,102,"['9672', '9604', '3891', '3897']"
+28301173,10002930,F,48,URGENT,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+OLANZapine 5mg
+Amitriptyline 50mg
+QUEtiapine Fumarate 50mg
+Sertraline 25mg
+Ibuprofen 400mg
+Acetaminophen 650mg
+Aluminum-Magnesium Hydrox.-Simethicone 15-30mL
+",29633,"Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior",0,0,7,[]
+23132022,10014354,M,60,OBSERVATION ADMIT,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Creatine Kinase, MB Isoenzyme: 1.0 ng/mL
+Magnesium: 1.8 mg/dL
+Potassium: 4.8 mEq/L
+Glucose: 198.0 mg/dL
+Creatinine: 1.0 mg/dL
+Urea Nitrogen: 14.0 mg/dL
+Chloride: 98.0 mEq/L
+Anion Gap: 12.0 mEq/L
+Phosphate: 3.3 mg/dL
+Sodium: 136.0 mEq/L
+
+Current Medications:
+Multivitamins 1TAB
+Aspirin 81mg
+Aspirin 81mg
+Aspirin 81mg
+Sucralfate 1gm
+CloNIDine 0.1mg
+Colchicine 0.6mg
+Colchicine 0.6mg
+LORazepam 0.5mg
+Ramelteon 8mg
+",I309,"Acute pericarditis, unspecified",200,0,69,[]
+24244087,10023117,M,53,URGENT,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Hematocrit: 38.8 %
+Lactate Dehydrogenase (LD): 415.0 IU/L
+Potassium: 4.0 mEq/L
+Magnesium: 2.4 mg/dL
+Creatinine: 2.9 mg/dL
+Chloride: 97.0 mEq/L
+Bicarbonate: 22.0 mEq/L
+Alkaline Phosphatase: 91.0 IU/L
+Phosphate: 3.7 mg/dL
+Bilirubin, Total: 2.2 mg/dL
+
+Current Medications:
+Multivitamins 1TAB
+Aspirin 81mg
+Lidocaine Jelly 2% (Urojet) 1Appl
+Atorvastatin 10mg
+Heparin 5000UNIT
+HydrALAzine 10mg
+HydrALAzine 10mg
+HydrALAzine 10mg
+HydrALAzine 10mg
+Isosorbide Mononitrate (Extended Release) 30mg
+",5849,"Acute kidney failure, unspecified",201,0,43,[]
+27876215,10040025,F,64,EW EMER.,Abdominal pain,"Patient is a 64 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+MCHC: 30.8 g/dL
+PTT: 30.8 sec
+PT: 13.6 sec
+INR(PT): 1.2 nan
+MCV: 94.0 fL
+RDW: 17.4 %
+Red Blood Cells: 2.36 m/uL
+Hemoglobin: 6.8 g/dL
+Hematocrit: 22.1 %
+RDW-SD: 57.2 fL
+
+Current Medications:
+Vial 1VIAL
+Aspirin 81mg
+FoLIC Acid 1mg
+Cyanocobalamin 1000mcg
+Ezetimibe 10mg
+Febuxostat 40mg
+Glucagon 1mg
+Polyethylene Glycol 17g
+Polyethylene Glycol 17g
+Isosorbide Dinitrate 20mg
+",K5791,"Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding",172,0,55,"['30283B1', '02HV33Z']"
+27993466,10015272,F,78,EW EMER.,Abdominal pain,"Patient is a 78 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Potassium, Whole Blood: 5.1 mEq/L
+Calcium, Total: 8.9 mg/dL
+Hemoglobin: 9.3 g/dL
+White Blood Cells: 7.4 K/uL
+Red Blood Cells: 2.62 m/uL
+RDW: 17.7 %
+MCV: 112.0 fL
+RDW-SD: 70.8 fL
+Alanine Aminotransferase (ALT): 33.0 IU/L
+Asparate Aminotransferase (AST): 45.0 IU/L
+
+Current Medications:
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Warfarin 2mg
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Metoprolol Tartrate 25mg
+Metoprolol Tartrate 25mg
+",I2699,Other pulmonary embolism without acute cor pulmonale,196,1,60,[]
+25135483,10007795,F,53,URGENT,Abdominal pain,"Patient is a 53 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Urea Nitrogen: 8.0 mg/dL
+Alkaline Phosphatase: 152.0 IU/L
+Amylase: 17.0 IU/L
+Sodium: 133.0 mEq/L
+Asparate Aminotransferase (AST): 12.0 IU/L
+Glucose: 111.0 mg/dL
+Chloride: 95.0 mEq/L
+Phosphate: 3.8 mg/dL
+Lipase: 18.0 IU/L
+Alanine Aminotransferase (ALT): 13.0 IU/L
+
+Current Medications:
+Multivitamins 1TAB
+Vial 1VIAL
+Bag 50mL
+Heparin 5000UNIT
+Lactated Ringers 1000mL
+Lactated Ringers 1000mL
+Lactated Ringers 1000mL
+Magnesium Sulfate 2gm
+Morphine SR (MS Contin) 15mg
+Morphine SR (MS Contin) 15mg
+",5770,Acute pancreatitis,97,10,47,"['5201', '3897', '966', '5222']"
+22942076,10006053,M,52,URGENT,Abdominal pain,"Patient is a 52 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Calculated Total CO2: 15.0 mEq/L
+Potassium, Whole Blood: 6.1 mEq/L
+Base Excess: -17.0 mEq/L
+Hemoglobin: 7.8 g/dL
+pCO2: 53.0 mm Hg
+Free Calcium: 0.71 mmol/L
+Lactate: 11.9 mmol/L
+pO2: 137.0 mm Hg
+pH: 7.04 units
+Glucose: 179.0 mg/dL
+
+Current Medications:
+Multivitamins 1TAB
+Bag 1BAG
+FoLIC Acid 1mg
+Magnesium Sulfate 2gm
+Multivitamins 1TAB
+Dextrose 50% 25gm
+Midazolam 100mg
+Sodium Bicarbonate 50mEq
+0.9% Sodium Chloride 1BAG
+0.9% Sodium Chloride 1BAG
+",5722,Hepatic encephalopathy,313,7,63,"['3893', '5491', '391']"
+22490490,10037928,F,78,EW EMER.,Abdominal pain,"Patient is a 78 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Red Blood Cells: 3.13 m/uL
+Urea Nitrogen: 28.0 mg/dL
+Glucose: 436.0 mg/dL
+Chloride: 106.0 mEq/L
+Calcium, Total: 8.4 mg/dL
+Creatinine: 1.4 mg/dL
+Anion Gap: 17.0 mEq/L
+Bicarbonate: 20.0 mEq/L
+Phosphate: 2.3 mg/dL
+Sodium: 139.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+",25022,"Diabetes with hyperosmolarity, type II or unspecified type, uncontrolled",280,14,103,[]
+27089790,10012552,M,78,URGENT,Abdominal pain,"Patient is a 78 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Specific Gravity: 1.023  
+pH: 7.0 units
+MCV: 94.0 fL
+RDW: 13.4 %
+Albumin: 3.8 g/dL
+White Blood Cells: 5.9 K/uL
+MCH: 31.5 pg
+MCHC: 33.6 %
+Chloride: 105.0 mEq/L
+Urea Nitrogen: 15.0 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Neutra-Phos 1PKT
+Aspirin 81mg
+Aspirin 81mg
+Lisinopril 5mg
+Lisinopril 5mg
+Atorvastatin 20mg
+Atorvastatin 20mg
+Atorvastatin 20mg
+CefazoLIN 2g
+",41071,"Subendocardial infarction, initial episode of care",263,3,120,"['3615', '3612', '3961']"
+20192635,10037928,F,78,EW EMER.,Abdominal pain,"Patient is a 78 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Potassium: 4.6 mEq/L
+Magnesium: 1.5 mg/dL
+Bicarbonate: 22.0 mEq/L
+Chloride: 101.0 mEq/L
+Anion Gap: 17.0 mEq/L
+Phosphate: 2.8 mg/dL
+Glucose: 361.0 mg/dL
+Sodium: 135.0 mEq/L
+Calcium, Total: 9.1 mg/dL
+Thyroid Stimulating Hormone: 1.6 uIU/mL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Bag 50mL
+Multivitamins W/minerals 1TAB
+Atorvastatin 20mg
+Glucagon 1mg
+Hydrochlorothiazide 25mg
+",9623,Poisoning by insulins and antidiabetic agents,79,0,45,[]
+20764029,10029484,M,64,EW EMER.,Abdominal pain,"Patient is a 64 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Eosinophils: 0.3 %
+MCHC: 32.8 %
+Platelet Count: 261.0 K/uL
+MCH: 29.9 pg
+Hemoglobin: 13.9 g/dL
+Lymphocytes: 2.0 %
+RDW: 12.8 %
+Hematocrit: 42.5 %
+Monocytes: 2.8 %
+Red Blood Cells: 4.66 m/uL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Bag 1BAG
+Cyclobenzaprine 10mg
+Glucagon 1mg
+Heparin 5000UNIT
+Insulin Human Regular 100UNIT
+",0088,"Intestinal infection due to other organism, not elsewhere classified",131,4,49,[]
+28236161,10015860,M,53,EW EMER.,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Urea Nitrogen: 25.0 mg/dL
+Platelet Count: 389.0 K/uL
+Red Blood Cells: 3.62 m/uL
+Hematocrit: 29.8 %
+RDW: 12.5 %
+MCV: 82.0 fL
+White Blood Cells: 10.2 K/uL
+MCH: 27.5 pg
+Vancomycin: 11.5 ug/mL
+Magnesium: 1.9 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Zolpidem Tartrate 5mg
+Aspirin 81mg
+GlyBURIDE 5mg
+Lisinopril 5mg
+Atenolol 25mg
+Glucagon 1mg
+Heparin 5000UNIT
+Omeprazole 20mg
+Simvastatin 40mg
+",70715,Ulcer of other part of foot,22,0,26,['8622']
+27962747,10007795,F,53,DIRECT OBSERVATION,Abdominal pain,"Patient is a 53 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT OBSERVATION
+
+Recent Lab Results:
+MCV: 83.0 fL
+Bilirubin, Total: 0.2 mg/dL
+Creatinine: 0.4 mg/dL
+Calcium, Total: 9.6 mg/dL
+Alkaline Phosphatase: 111.0 IU/L
+Bicarbonate: 23.0 mEq/L
+Anion Gap: 16.0 mEq/L
+Urea Nitrogen: 7.0 mg/dL
+Phosphate: 3.0 mg/dL
+Potassium: 3.8 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Bag 50mL
+Glucagon 1mg
+Heparin 5000UNIT
+Lactated Ringers 1000mL
+Magnesium Sulfate 2gm
+Milk of Magnesia 30mL
+Senna 1TAB
+Docusate Sodium 100mg
+Gabapentin 300mg
+",5772,Cyst and pseudocyst of pancreas,41,0,33,['966']
+25696644,10002930,F,48,EW EMER.,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+MCHC: 27.8 %
+Sodium: 136.0 mEq/L
+Phosphate: 2.6 mg/dL
+Creatinine: 0.6 mg/dL
+Calcium, Total: 7.8 mg/dL
+Bicarbonate: 21.0 mEq/L
+Urea Nitrogen: 15.0 mg/dL
+Chloride: 107.0 mEq/L
+Potassium: 3.4 mEq/L
+Glucose: 107.0 mg/dL
+
+Current Medications:
+Diazepam 5mg
+FoLIC Acid 1mg
+Multivitamins W/minerals 1TAB
+Polyethylene Glycol 17g
+Heparin 5000UNIT
+Docusate Sodium 100mg
+Senna 8.6mg
+Thiamine 100mg
+Acetaminophen 650mg
+Influenza Virus Vaccine 0.5mL
+",2511,Other specified hypoglycemia,31,1,24,[]
+23831430,10020740,M,56,URGENT,Abdominal pain,"Patient is a 56 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Platelet Count: 169.0 K/uL
+Bicarbonate: 27.0 mEq/L
+Alkaline Phosphatase: 134.0 IU/L
+Monocytes: 6.9 %
+Potassium: 4.4 mEq/L
+Phosphate: 3.1 mg/dL
+Bilirubin, Total: 1.1 mg/dL
+Lipase: 23.0 IU/L
+Calcium, Total: 7.0 mg/dL
+Urea Nitrogen: 15.0 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+",03842,Septicemia due to escherichia coli [E. coli],1357,42,348,"['9427', '9604', '9915', '966', '9671', '9671', '9427', '9427', '9427', '9427', '9427', '9671', '9427', '9427', '9604', '3897']"
+22059910,10026255,M,66,EW EMER.,Abdominal pain,"Patient is a 66 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Albumin: 3.4 g/dL
+Magnesium: 1.6 mg/dL
+Phosphate: 2.4 mg/dL
+Thyroid Stimulating Hormone: 1.6 uIU/mL
+Calcium, Total: 9.3 mg/dL
+Lactate: 1.3 mmol/L
+Lactate Dehydrogenase (LD): 369.0 IU/L
+Platelet Count: 441.0 K/uL
+Red Blood Cells: 3.75 m/uL
+Hematocrit: 35.6 %
+
+Current Medications:
+Tiotropium Bromide 1CAP
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+Albuterol 0.083% Neb Soln 1NEB
+Atorvastatin 10mg
+Diltiazem 30mg
+Haloperidol 0.5mg
+Heparin 5000UNIT
+Ipratropium Bromide Neb 1NEB
+",1629,"Malignant neoplasm of bronchus and lung, unspecified",191,5,105,[]
+27154822,10021938,M,65,EW EMER.,Abdominal pain,"Patient is a 65 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Urea Nitrogen: 23.0 mg/dL
+Anion Gap: 23.0 mEq/L
+Creatinine: 5.8 mg/dL
+Potassium: 4.5 mEq/L
+Phosphate: 3.8 mg/dL
+Urea Nitrogen: 32.0 mg/dL
+Glucose: 120.0 mg/dL
+Chloride: 93.0 mEq/L
+Magnesium: 2.1 mg/dL
+MCHC: 31.6 %
+
+Current Medications:
+Vial 1VIAL
+Nephrocaps 1CAP
+Nephrocaps 1CAP
+Ondansetron 4mg
+NIFEdipine CR 30mg
+NIFEdipine CR 30mg
+Cinacalcet 30mg
+Cinacalcet 30mg
+NIFEdipine 10mg
+Famotidine 20mg
+",2767,Hyperpotassemia,67,1,25,['3995']
+21607814,10023117,M,53,OBSERVATION ADMIT,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Hematocrit: 38.6 %
+Potassium: 3.8 mEq/L
+Phosphate: 4.3 mg/dL
+Urea Nitrogen: 56.0 mg/dL
+Creatinine: 2.0 mg/dL
+PTT: 41.0 sec
+Red Blood Cells: 5.19 m/uL
+MCV: 74.0 fL
+MCHC: 28.0 g/dL
+RDW-SD: 67.8 fL
+
+Current Medications:
+Zolpidem Tartrate 5mg
+Aspirin 81mg
+Bag 1BAG
+Isosorbide Dinitrate 5mg
+Lidocaine Jelly 2% (Urojet) 1Appl
+Midodrine 5mg
+Warfarin 1dose
+Warfarin 1mg
+Warfarin 2mg
+Atorvastatin 10mg
+",I5023,Acute on chronic systolic (congestive) heart failure,486,1,106,"['02HV33Z', '02HV33Z']"
+29842315,10010471,F,89,EW EMER.,Abdominal pain,"Patient is a 89 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Thyroid Stimulating Hormone: 6.6 uIU/mL
+PTT: 60.1 sec
+Creatine Kinase (CK): 3034.0 IU/L
+CK-MB Index: 18.5 %
+Creatine Kinase, MB Isoenzyme: 560.0 ng/mL
+L: 10.0 nan
+Troponin T: 5.3 ng/mL
+I: 1.0 nan
+H: 14.0 nan
+Thyroxine (T4): 5.2 ug/dL
+
+Current Medications:
+Bag 1BAG
+Bag 1BAG
+Aspirin 81mg
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+HYDROmorphone (Dilaudid) 2mg
+HYDROmorphone (Dilaudid) 2mg
+Midodrine 5mg
+Nephrocaps 1CAP
+",I214,Non-ST elevation (NSTEMI) myocardial infarction,235,9,92,"['4A023N6', 'B211YZZ']"
+26486158,10014354,M,60,OBSERVATION ADMIT,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Urea Nitrogen: 11.0 mg/dL
+Asparate Aminotransferase (AST): 16.0 IU/L
+Bilirubin, Total: 0.2 mg/dL
+Uric Acid: 4.7 mg/dL
+I: 0.0 nan
+Potassium: 4.5 mEq/L
+Magnesium: 1.7 mg/dL
+Calcium, Total: 8.1 mg/dL
+Alanine Aminotransferase (ALT): 11.0 IU/L
+Bicarbonate: 22.0 mEq/L
+
+Current Medications:
+venetoclax 100mg
+venetoclax 50mg
+Multivitamins 1TAB
+Aspirin 81mg
+Bag 1BAG
+Colchicine 0.6mg
+Sodium Chloride 1gm
+Sarna Lotion 1Appl
+Losartan Potassium 25mg
+Losartan Potassium 25mg
+",Z5111,Encounter for antineoplastic chemotherapy,2538,9,116,['3E04305']
+22205327,10029291,F,50,EW EMER.,Abdominal pain,"Patient is a 50 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+PEEP: 5.0 nan
+pCO2: 28.0 mm Hg
+Calculated Total CO2: 10.0 mEq/L
+pH: 7.15 units
+Lactate: 3.9 mmol/L
+Base Excess: -17.0 mEq/L
+pO2: 333.0 mm Hg
+Oxygen Saturation: 99.0 %
+Temperature: 36.1 nan
+Chloride: 119.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Bag 1BAG
+Bag 1BAG
+Click Change <--- to Choose a Base Solution 10mL
+Bag 1BAG
+CloniDINE 0.1mg
+CloniDINE 0.1mg
+CloniDINE 0.1mg
+",I2602,Saddle embolus of pulmonary artery with acute cor pulmonale,1070,28,188,"['B548ZZA', '5A1955Z', '0CJS8ZZ', 'B548ZZA', '3E04317', '02HV33Z', '3E0G76Z', '02HV33Z', '0BH17EZ', '5A1D60Z']"
+20297618,10019385,M,44,URGENT,Abdominal pain,"Patient is a 44 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+INR(PT): 0.9 nan
+Glucose: 119.0 mg/dL
+Anion Gap: 15.0 mEq/L
+Calcium, Total: 9.4 mg/dL
+Magnesium: 2.2 mg/dL
+Hemoglobin: 15.5 g/dL
+Red Blood Cells: 5.21 m/uL
+MCH: 29.8 pg
+RDW: 13.8 %
+RDW-SD: 44.9 fL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Aspirin 81mg
+Bag 1mL
+Diazepam 2mg
+Diazepam 5mg
+Clopidogrel 75mg
+Clopidogrel 75mg
+",I25110,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,459,2,114,"['5A1221Z', '02100Z9']"
+29079034,10000032,F,52,EW EMER.,Abdominal pain,"Patient is a 52 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Urea Nitrogen: 33.0 mg/dL
+Bicarbonate: 21.0 mEq/L
+Magnesium: 2.3 mg/dL
+Sodium: 132.0 mEq/L
+Creatinine: 0.5 mg/dL
+Calcium, Total: 9.3 mg/dL
+Glucose: 115.0 mg/dL
+Chloride: 102.0 mEq/L
+Potassium: 4.7 mEq/L
+Phosphate: 2.4 mg/dL
+
+Current Medications:
+Tiotropium Bromide 1CAP
+Albuterol 0.083% Neb Soln 1NEB
+Heparin 5000UNIT
+Bisacodyl 10mg
+Bisacodyl 10mg
+Calcium Carbonate 500mg
+Lactulose 30mL
+Raltegravir 400mg
+Rifaximin 550mg
+Senna 8.6mg
+",45829,Other iatrogenic hypotension,68,2,24,[]
+25563031,10001725,F,46,EW EMER.,Abdominal pain,"Patient is a 46 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+RDW: 11.8 %
+Red Blood Cells: 4.33 m/uL
+Hematocrit: 39.1 %
+MCV: 90.0 fL
+MCHC: 35.6 %
+White Blood Cells: 17.0 K/uL
+MCH: 32.2 pg
+Monocytes: 0.7 %
+Lymphocytes: 4.3 %
+Eosinophils: 0.1 %
+
+Current Medications:
+Zolpidem Tartrate 5mg
+Zolpidem Tartrate 5mg
+Bag 50mL
+Lorazepam 1mg
+Lorazepam 1mg
+Lorazepam 1mg
+Lorazepam 1mg
+Lorazepam 0.5mg
+Lorazepam 0.5mg
+Ondansetron 4mg
+",78829,Other specified retention of urine,102,11,70,"['7094', '7055', '8696']"
+26924951,10039831,F,57,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 57 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+Chloride, Whole Blood: 103.0 mEq/L
+Hematocrit, Calculated: 27.0 %
+Lactate: 5.5 mmol/L
+Sodium, Whole Blood: 133.0 mEq/L
+Hemoglobin: 9.0 g/dL
+Free Calcium: 1.05 mmol/L
+Calculated Total CO2: 24.0 mEq/L
+pCO2: 40.0 mm Hg
+pO2: 50.0 mm Hg
+pH: 7.36 units
+
+Current Medications:
+Insulin 0UNIT
+Neutra-Phos 1PKT
+Vial 1VIAL
+Aspirin 81mg
+HYDROmorphone (Dilaudid) 2mg
+OxycoDONE (Immediate Release)  5mg
+Warfarin 5mg
+Warfarin 5mg
+Warfarin 5mg
+Glucagon 1mg
+",1962,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes,321,1,66,"['3956', '403']"
+23251352,10004457,M,65,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 65 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+pO2: 465.0 mm Hg
+Hemoglobin: 10.5 g/dL
+Glucose: 103.0 mg/dL
+Potassium, Whole Blood: 3.9 mEq/L
+Free Calcium: 1.14 mmol/L
+Sodium, Whole Blood: 137.0 mEq/L
+Lactate: 1.3 mmol/L
+Chloride, Whole Blood: 106.0 mEq/L
+Calculated Total CO2: 28.0 mEq/L
+pCO2: 43.0 mm Hg
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Bag 50mL
+Bag 50mL
+Bag 50mL
+CefazoLIN 2g
+CefazoLIN 2g
+Furosemide 20mg
+Glucagon 1mg
+",3968,Multiple involvement of mitral and aortic valves,203,1,82,"['3611', '3521', '3961']"
+24982426,10002495,M,81,URGENT,Abdominal pain,"Patient is a 81 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Monocytes: 6.0 %
+Absolute Monocyte Count: 2.21 K/uL
+Lymphocytes: 3.0 %
+Bands: 10.0 %
+Absolute Basophil Count: 0.0 K/uL
+Metamyelocytes: 0.0 %
+INR(PT): 1.3 nan
+PTT: 49.6 sec
+PT: 14.5 sec
+% Hemoglobin A1c: 5.9 %
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Bag 1BAG
+Bag 1BAG
+Lidocaine Jelly 2% (Urojet) 1Appl
+Atorvastatin 80mg
+Clopidogrel 75mg
+Furosemide 20mg
+Glucagon 1mg
+Heparin 5000UNIT
+",I214,Non-ST elevation (NSTEMI) myocardial infarction,391,29,113,"['4A023N7', '027034Z', '5A02210', '4A023N6', '3E1K78Z', 'B211YZZ', 'B211YZZ']"
+20338077,10007928,F,59,EW EMER.,Abdominal pain,"Patient is a 59 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Hyaline Casts: 8.0 #/lpf
+RBC: 5.0 #/hpf
+Protein: 30.0 mg/dL
+Epithelial Cells: 1.0 #/hpf
+Ketone: 40.0 mg/dL
+pH: 5.5 units
+Specific Gravity: 1.013  
+Granular Casts: 13.0 #/lpf
+Urobilinogen: 2.0 mg/dL
+MCH: 30.4 pg
+
+Current Medications:
+Multivitamins 1TAB
+Neutra-Phos 1PKT
+Neutra-Phos 1PKT
+Diazepam 5mg
+Albuterol 0.083% Neb Soln 1NEB
+CeftriaXONE 1gm
+CeftriaXONE 1gm
+Furosemide 20mg
+Heparin 5000UNIT
+Lactated Ringers 1000mL
+",53140,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",325,30,69,['4513']
+29757856,10014354,M,60,EW EMER.,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Platelet Count: 149.0 K/uL
+Absolute Neutrophil Count: 4.77 K/uL
+Neutrophils: 45.0 %
+Absolute Basophil Count: 0.0 K/uL
+Absolute Lymphocyte Count: 5.51 K/uL
+Basophils: 0.0 %
+Absolute Eosinophil Count: 0.0 K/uL
+Eosinophils: 0.0 %
+Monocytes: 3.0 %
+Uric Acid: 7.0 mg/dL
+
+Current Medications:
+Aspirin 81mg
+Sucralfate 1gm
+Colchicine 0.6mg
+Amitriptyline 10mg
+Atorvastatin 40mg
+Escitalopram Oxalate 10mg
+Fenofibrate 48mg
+Furosemide 20mg
+Furosemide 20mg
+Glucagon 1mg
+",K289,"Gastrojejunal ulcer, unspecified as acute or chronic, without hemorrhage or perforation",410,1,104,['0DD68ZX']
+25103777,10015860,M,53,OBSERVATION ADMIT,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+MCHC: 32.5 g/dL
+Calcium, Total: 9.1 mg/dL
+Magnesium: 2.1 mg/dL
+Anion Gap: 16.0 mEq/L
+H: 3.0 nan
+Chloride: 94.0 mEq/L
+Asparate Aminotransferase (AST): 18.0 IU/L
+I: 0.0 nan
+Albumin: 3.3 g/dL
+Alkaline Phosphatase: 95.0 IU/L
+
+Current Medications:
+Vancomycin 0mg
+Bag 1BAG
+Aspirin 81mg
+Lisinopril 5mg
+Lisinopril 5mg
+LORazepam 0.5mg
+Nephrocaps 1CAP
+Atorvastatin 20mg
+Calcitriol 0.25mcg
+Calcitriol 0.25mcg
+",T827XXA,"Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts, initial encounter",205,8,58,"['02PAX3Z', '5A1D70Z', '0JPTXXZ', '0JH63XZ', '02H633Z']"
+23559586,10003400,F,72,URGENT,Abdominal pain,"Patient is a 72 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Absolute Neutrophil Count: 2.28 K/uL
+Lymphocytes: 14.0 %
+Bands: 0.0 %
+Absolute Basophil Count: 0.0 K/uL
+Absolute Monocyte Count: 1.08 K/uL
+Myelocytes: 3.0 %
+Neutrophils: 53.0 %
+Eosinophils: 3.0 %
+Absolute Lymphocyte Count: 0.6 K/uL
+Red Blood Cells: 2.88 m/uL
+
+Current Medications:
+Multivitamins 1TAB
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Multivitamins W/minerals 1TAB
+CefePIME 2g
+CefePIME 2g
+Diltiazem 30mg
+Diltiazem 30mg
+",T8131XA,"Disruption of external operation (surgical) wound, not elsewhere classified, initial encounter",1436,26,249,"['0BH17EZ', 'BT1FYZZ', '5A1945Z', 'B548ZZA', '5A1945Z', '0W9930Z', '02HV33Z', '0TP98DZ', 'BT1DYZZ', '0T768DZ', '3E0G76Z', '0TJB8ZZ']"
+27411876,10004733,M,51,URGENT,Abdominal pain,"Patient is a 51 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Hematocrit: 30.9 %
+Monocytes: 5.3 %
+Hemoglobin: 10.0 g/dL
+Lymphocytes: 8.8 %
+Basophils: 0.3 %
+MCHC: 32.3 %
+RDW: 16.2 %
+Neutrophils: 81.8 %
+MCV: 92.0 fL
+PTT: 34.1 sec
+
+Current Medications:
+Amlodipine 5mg
+Aspirin 81mg
+Aspirin 81mg
+Aspirin 81mg
+Bag 1BAG
+CloniDINE 0.2mg
+Lidocaine Jelly 2% (Urojet) 1Appl
+Lisinopril 5mg
+Lorazepam 0.5mg
+Captopril 25mg
+",34839,Other encephalopathy,729,31,184,"['3322', '4523', '9671', '5523', '966', '3897', '4513']"
+25797028,10002428,F,80,EU OBSERVATION,Abdominal pain,"Patient is a 80 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+Glucose: 100.0 mg/dL
+White Blood Cells: 6.0 K/uL
+MCV: 94.0 fL
+Platelet Count: 308.0 K/uL
+MCH: 32.7 pg
+Red Blood Cells: 3.62 m/uL
+Hematocrit: 34.1 %
+RDW: 13.3 %
+Sodium: 136.0 mEq/L
+Magnesium: 1.9 mg/dL
+
+Current Medications:
+Sulfameth/Trimethoprim DS 1TAB
+Heparin 5000UNIT
+Levothyroxine Sodium 50mcg
+Lisinopril 10mg
+Lisinopril 20mg
+Sodium Chloride 0.9%  Flush 3mL
+0.45% Sodium Chloride 1000mL
+",7802,Syncope and collapse,27,2,7,[]
+24928679,10039708,F,46,OBSERVATION ADMIT,Abdominal pain,"Patient is a 46 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Troponin T: 0.06 ng/mL
+I: 1.0 nan
+H: 6.0 nan
+L: 8.0 nan
+MCHC: 31.4 g/dL
+White Blood Cells: 7.7 K/uL
+MCV: 104.0 fL
+Hematocrit: 21.0 %
+RDW-SD: 80.9 fL
+Red Blood Cells: 2.02 m/uL
+
+Current Medications:
+Multivitamins 1TAB
+Vial 1VIAL
+Vial 1VIAL
+Vial 1VIAL
+Sucralfate 1gm
+Sucralfate 1gm
+FoLIC Acid 1mg
+Nicotine Polacrilex 2mg
+CefTRIAXone 1gm
+CefTRIAXone 1gm
+",K7031,Alcoholic cirrhosis of liver with ascites,170,0,37,"['5A1D70Z', '06L38CZ']"
+29496232,10005348,M,76,ELECTIVE,Abdominal pain,"Patient is a 76 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: ELECTIVE
+
+Recent Lab Results:
+Lactate: 0.6 mmol/L
+Base Excess: 2.0 mEq/L
+pCO2: 40.0 mm Hg
+pH: 7.44 units
+Calculated Total CO2: 28.0 mEq/L
+Potassium, Whole Blood: 3.5 mEq/L
+Hemoglobin: 11.4 g/dL
+Glucose: 89.0 mg/dL
+Chloride, Whole Blood: 106.0 mEq/L
+Hematocrit, Calculated: 34.0 %
+
+Current Medications:
+Neutra-Phos 1PKT
+Bag 50mL
+Lidocaine Jelly 2% (Urojet) 1Appl
+Lidocaine Jelly 2% (Urojet) 1Appl
+Albuterol 0.083% Neb Soln 1NEB
+Aspirin 325mg
+Atorvastatin 80mg
+Citalopram 20mg
+Heparin 5000UNIT
+Heparin 5000UNIT
+",1625,"Malignant neoplasm of lower lobe, bronchus or lung",188,11,51,"['3241', '403']"
+27504040,10039708,F,46,EU OBSERVATION,Abdominal pain,"Patient is a 46 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",I120,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,0,0,0,[]
+25020332,10021312,F,55,URGENT,Abdominal pain,"Patient is a 55 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Magnesium: 2.1 mg/dL
+PTT: 30.5 sec
+PT: 11.5 sec
+INR(PT): 1.1 nan
+Alkaline Phosphatase: 98.0 IU/L
+Urea Nitrogen: 18.0 mg/dL
+Sodium: 136.0 mEq/L
+Alanine Aminotransferase (ALT): 38.0 IU/L
+Phosphate: 3.4 mg/dL
+Creatinine: 0.6 mg/dL
+
+Current Medications:
+ALPRAZolam 1mg
+Albuterol 0.083% Neb Soln 1NEB
+Heparin 5000UNIT
+Ipratropium-Albuterol Neb 1NEB
+Lidocaine 5% Patch 1PTCH
+Morphine SR (MS Contin) 30mg
+Ampicillin-Sulbactam 3g
+Guaifenesin-Dextromethorphan 10mL
+Nicotine Patch 21mg
+Guaifenesin ER 600mg
+",C3402,Malignant neoplasm of left main bronchus,63,6,26,"['0B778DZ', '0B538ZZ', '0BJ08ZZ', '0BB78ZX', '0BB38ZX', '0B738DZ', '0B578ZZ']"
+22585261,10019917,M,44,URGENT,Abdominal pain,"Patient is a 44 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Anion Gap: 12.0 mEq/L
+INR(PT): 1.2 nan
+RDW: 13.0 %
+Hemoglobin: 9.6 g/dL
+Red Blood Cells: 2.88 m/uL
+MCH: 33.4 pg
+MCHC: 34.9 %
+Platelet Count: 184.0 K/uL
+White Blood Cells: 6.8 K/uL
+MCV: 96.0 fL
+
+Current Medications:
+Vial 1VIAL
+FoLIC Acid 1mg
+Pantoprazole 40mg
+MoviPrep 1L
+Pantoprazole 40mg
+Epoetin Alfa 4000UNIT
+Epoetin Alfa 20,000UNIT
+Epoetin Alfa 20,000UNIT
+Epoetin Alfa 4000UNIT
+Ferric Gluconate 125mg
+",53240,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction",75,2,18,"['4516', '4523']"
+28477357,10007795,F,53,URGENT,Abdominal pain,"Patient is a 53 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Chloride: 102.0 mEq/L
+Bicarbonate: 28.0 mEq/L
+Calcium, Total: 8.7 mg/dL
+Potassium: 3.4 mEq/L
+Phosphate: 3.9 mg/dL
+Glucose: 89.0 mg/dL
+Alanine Aminotransferase (ALT): 24.0 IU/L
+Urea Nitrogen: 5.0 mg/dL
+Creatinine: 0.3 mg/dL
+Sodium: 139.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Multivitamins 1TAB
+Vial 1VIAL
+Albuterol 0.083% Neb Soln 1NEB
+Albuterol 0.083% Neb Soln 1NEB
+Glucagon 1mg
+",5772,Cyst and pseudocyst of pancreas,557,13,111,"['8874', '4699', '5491', '9915', '8874', '4513', '4699', '966', '4513']"
+21540783,10019172,F,63,ELECTIVE,Abdominal pain,"Patient is a 63 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: ELECTIVE
+
+Recent Lab Results:
+pH: 5.0 units
+Specific Gravity: 1.025  
+PTT: 21.9 sec
+INR(PT): 1.0 nan
+% Hemoglobin A1c: 5.8 %
+eAG: 120.0 mg/dL
+Hematocrit: 41.0 %
+Hemoglobin: 14.0 g/dL
+RDW: 14.3 %
+MCV: 86.0 fL
+
+Current Medications:
+Metoprolol Tartrate 50mg
+Ciprofloxacin HCl 500mg
+Docusate Sodium 100mg
+Senna 1TAB
+Mupirocin Nasal Ointment 2% 1Appl
+Clindamycin 600mg
+Heparin Sodium 25,000UNIT
+Heparin Sodium 25,000UNIT
+Heparin Sodium 25,000UNIT
+Influenza Virus Vaccine 0.5mL
+",4241,Aortic valve disorders,118,4,20,"['244', '2309']"
+22413744,10015860,M,53,OBSERVATION ADMIT,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Bicarbonate: 13.0 mEq/L
+Hemoglobin: 7.3 g/dL
+MCV: 81.0 fL
+RDW: 15.0 %
+Phosphate: 4.5 mg/dL
+Creatinine: 5.2 mg/dL
+Potassium: 4.4 mEq/L
+Anion Gap: 22.0 mEq/L
+Glucose: 184.0 mg/dL
+Calcium, Total: 8.8 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+amLODIPine 5mg
+Aspirin 81mg
+Bag 1BAG
+",A408,Other streptococcal sepsis,535,20,81,['0S993ZX']
+24159665,10006580,F,63,ELECTIVE,Abdominal pain,"Patient is a 63 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: ELECTIVE
+
+Recent Lab Results:
+Urea Nitrogen: 9.0 mg/dL
+Creatinine: 0.4 mg/dL
+PT: 13.1 sec
+PTT: 46.3 sec
+INR(PT): 1.2 nan
+Anion Gap: 16.0 mEq/L
+Potassium: 3.3 mEq/L
+Hematocrit: 27.3 %
+Bicarbonate: 23.0 mEq/L
+Chloride: 92.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Sucralfate 1gm
+Glucagon 1mg
+",2397,Neoplasm of unspecified nature of endocrine glands and other parts of nervous system,67,1,50,"['3989', '3981']"
+28861356,10018081,M,79,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 79 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+Calcium, Total: 9.1 mg/dL
+Magnesium: 1.7 mg/dL
+Phosphate: 1.9 mg/dL
+Sodium: 140.0 mEq/L
+Potassium: 3.8 mEq/L
+MCV: 100.0 fL
+Hemoglobin: 13.8 g/dL
+RDW: 14.9 %
+Red Blood Cells: 4.25 m/uL
+Chloride: 106.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Vial 1VIAL
+Vial 1VIAL
+Vial 1VIAL
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+OxycoDONE (Immediate Release)  5mg
+Cyanocobalamin 1000mcg
+",V552,Attention to ileostomy,361,3,103,"['3891', '4651', '8628', '4513', '9357', '3897']"
+22797747,10038992,M,70,URGENT,Abdominal pain,"Patient is a 70 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+WBC: 8.0 #/hpf
+pH: 6.0 units
+Protein: 30.0 mg/dL
+Epithelial Cells: 0.0 #/hpf
+RBC: 47.0 #/hpf
+Specific Gravity: 1.013  
+Absolute Neutrophil Count: 13.25 K/uL
+Atypical Lymphocytes: 0.0 %
+Myelocytes: 1.0 %
+Creatinine: 1.7 mg/dL
+
+Current Medications:
+vancomycin 125mg
+Aspirin 81mg
+Lidocaine Jelly 2% (Urojet) 1Appl
+Phytonadione 5mg
+Furosemide 40mg
+Heparin 5000UNIT
+Ipratropium-Albuterol Neb 1NEB
+Fluoxetine 20mg
+Tamsulosin 0.4mg
+Allopurinol 300mg
+",5070,Pneumonitis due to inhalation of food or vomitus,270,12,28,[]
+26048429,10003046,M,64,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 64 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+Lactate: 1.3 mmol/L
+Hematocrit, Calculated: 44.0 %
+pCO2: 44.0 mm Hg
+Potassium, Whole Blood: 3.5 mEq/L
+Free Calcium: 1.15 mmol/L
+Sodium, Whole Blood: 137.0 mEq/L
+pH: 7.33 units
+Chloride, Whole Blood: 106.0 mEq/L
+Base Excess: -2.0 mEq/L
+Glucose: 159.0 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Bag 1BAG
+Bag 1BAG
+Bag 1BAG
+Neutra-Phos 1PKT
+Vial 1VIAL
+Bag 50mL
+Bag 50mL
+Bag 50mL
+Glucagon 1mg
+",1505,Malignant neoplasm of lower third of esophagus,215,1,84,"['4639', '4242', '966']"
+23720373,10002930,F,48,EU OBSERVATION,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+No current medications.
+",F29,Unspecified psychosis not due to a substance or known physiological condition,0,0,0,[]
+25922998,10002930,F,48,EW EMER.,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Bicarbonate: 26.0 mEq/L
+INR(PT): 1.0 nan
+PT: 11.3 sec
+PTT: 36.7 sec
+Platelet Count: 124.0 K/uL
+Red Blood Cells: 3.62 m/uL
+White Blood Cells: 1.9 K/uL
+RDW: 17.8 %
+MCH: 26.0 pg
+Hemoglobin: 9.4 g/dL
+
+Current Medications:
+Multivitamins 1TAB
+Bag 1BAG
+FoLIC Acid 1mg
+Sulfameth/Trimethoprim DS 1TAB
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Docusate Sodium 100mg
+0.9% Sodium Chloride 1BAG
+Senna 8.6mg
+Thiamine 100mg
+",F10239,"Alcohol dependence with withdrawal, unspecified",72,1,27,[]
+23488445,10020786,F,86,URGENT,Abdominal pain,"Patient is a 86 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+PTT: 29.7 sec
+MCV: 96.0 fL
+Eosinophils: 0.0 %
+RDW: 13.8 %
+Absolute Basophil Count: 0.09 K/uL
+Monocytes: 3.5 %
+Hematocrit: 36.5 %
+Platelet Count: 214.0 K/uL
+MCHC: 33.7 g/dL
+Red Blood Cells: 3.81 m/uL
+
+Current Medications:
+Apixaban 5mg
+Bag 1BAG
+Bag 1BAG
+Atorvastatin 10mg
+Heparin 5000UNIT
+Ipratropium-Albuterol Neb 1NEB
+Levothyroxine Sodium 75mcg
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Mirtazapine 30mg
+",A419,"Sepsis, unspecified organism",149,8,56,[]
+21928381,10021487,M,43,EW EMER.,Abdominal pain,"Patient is a 43 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+RDW: 14.5 %
+Magnesium: 2.2 mg/dL
+MCH: 29.0 pg
+Red Blood Cells: 4.46 m/uL
+MCV: 86.0 fL
+Hemoglobin: 12.9 g/dL
+MCHC: 33.7 %
+White Blood Cells: 8.8 K/uL
+Albumin: 3.7 g/dL
+Phosphate: 4.4 mg/dL
+
+Current Medications:
+Levofloxacin 500mg
+MetRONIDAZOLE (FLagyl) 500mg
+Piperacillin-Tazobactam 4.5g
+Sodium Chloride 0.9%  Flush 3mL
+OxycoDONE (Immediate Release)  5-10mg
+Iso-Osmotic Dextrose 100mL
+Vancomycin 1250mg
+5% Dextrose 250mL
+HYDROmorphone (Dilaudid) 0.25mg
+",99859,Other postoperative infection,46,1,9,['5491']
+21759936,10023239,F,29,EW EMER.,Abdominal pain,"Patient is a 29 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+pH: 5.5 units
+Ketone: 150.0 mg/dL
+Glucose: 1000.0 mg/dL
+Hyaline Casts: 17.0 #/lpf
+WBC: 1.0 #/hpf
+RBC: 1.0 #/hpf
+Specific Gravity: 1.019  
+Epithelial Cells: 0.0 #/hpf
+Chloride, Whole Blood: 100.0 mEq/L
+Calculated Bicarbonate, Whole Blood: 8.0 mEq/L
+
+Current Medications:
+Insulin Pump (Self Administering Medication) nannan
+Insulin Pump (Self Administering Medication) nannan
+Bag 1BAG
+Bag 1BAG
+LORazepam 0.5mg
+LORazepam 0.5mg
+Citalopram 20mg
+Glucagon 1mg
+Heparin 5000UNIT
+Insulin Human Regular 100UNIT
+",T85694A,"Other mechanical complication of insulin pump, initial encounter",389,33,71,"['0B9D8ZX', '0BBD8ZX', '07B74ZX']"
+28543425,10037928,F,78,EU OBSERVATION,Abdominal pain,"Patient is a 78 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+MCHC: 32.1 %
+Red Blood Cells: 3.72 m/uL
+RDW: 15.4 %
+Platelet Count: 435.0 K/uL
+Neutrophils: 55.8 %
+MCV: 80.0 fL
+White Blood Cells: 7.6 K/uL
+MCH: 25.6 pg
+Hemoglobin: 9.5 g/dL
+Lymphocytes: 33.8 %
+
+Current Medications:
+No current medications.
+",8052,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury,25,0,0,[]
+22251969,10040025,F,64,OBSERVATION ADMIT,Abdominal pain,"Patient is a 64 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+WBC: 2.0 #/hpf
+RBC: 1.0 #/hpf
+Absolute Eosinophil Count: 0.11 K/uL
+RDW-SD: 53.1 fL
+MCH: 31.6 pg
+Immature Granulocytes: 1.2 %
+MCV: 99.0 fL
+MCHC: 31.8 g/dL
+Absolute Neutrophil Count: 9.08 K/uL
+White Blood Cells: 11.3 K/uL
+
+Current Medications:
+Aspirin 81mg
+LORazepam 0.5mg
+Ondansetron 4mg
+Warfarin 1dose
+Warfarin 5mg
+Warfarin 5mg
+Ezetimibe 10mg
+Febuxostat 40mg
+Glucagon 1mg
+Miconazole Powder 2% 1Appl
+",N170,Acute kidney failure with tubular necrosis,165,0,39,[]
+28196804,10015860,M,53,OBSERVATION ADMIT,Abdominal pain,"Patient is a 53 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Sodium: 140.0 mEq/L
+Chloride: 92.0 mEq/L
+Phosphate: 4.6 mg/dL
+RDW-SD: 56.5 fL
+MCH: 27.4 pg
+MCV: 92.0 fL
+Hematocrit: 42.9 %
+MCHC: 29.8 g/dL
+RDW: 16.8 %
+Hemoglobin: 12.8 g/dL
+
+Current Medications:
+Bag 1BAG
+Bag 1BAG
+Aspirin 81mg
+Lisinopril 5mg
+Lisinopril 5mg
+LORazepam 0.5mg
+Nephrocaps 1CAP
+Ramelteon 8mg
+Sarna Lotion 1Appl
+Atorvastatin 20mg
+",T82868A,"Thrombosis due to vascular prosthetic devices, implants and grafts, initial encounter",101,0,51,"['B51W1ZZ', '057F3ZZ', '5A1D70Z', '057A3ZZ']"
+26321862,10021487,M,43,EW EMER.,Abdominal pain,"Patient is a 43 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Potassium: 4.1 mEq/L
+Asparate Aminotransferase (AST): 17.0 IU/L
+Albumin: 2.8 g/dL
+Creatinine: 0.4 mg/dL
+Lipase: 44.0 IU/L
+Bilirubin, Total: 0.7 mg/dL
+Sodium: 130.0 mEq/L
+Chloride: 93.0 mEq/L
+Glucose: 91.0 mg/dL
+Lactate Dehydrogenase (LD): 143.0 IU/L
+
+Current Medications:
+HYDROmorphone (Dilaudid) 2mg
+CeftriaXONE 2gm
+Heparin 5000UNIT
+Heparin 5000UNIT
+Ampicillin-Sulbactam 3g
+Vancomycin 1000mg
+Bisacodyl 10mg
+Docusate Sodium 100mg
+Docusate Sodium 100mg
+Levofloxacin 750mg
+",5720,Abscess of liver,216,19,42,"['9729', '9729', '5091', '5091']"
+21476294,10035631,M,63,OBSERVATION ADMIT,Abdominal pain,"Patient is a 63 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Creatinine: 1.3 mg/dL
+Absolute Eosinophil Count: 1.06 K/uL
+Monocytes: 0.0 %
+Myelocytes: 0.0 %
+Lymphocytes: 13.0 %
+Absolute Lymphocyte Count: 4.96 K/uL
+Blasts: 71.0 %
+Neutrophils: 9.0 %
+Absolute Monocyte Count: 0.0 K/uL
+Eosinophils: 3.0 %
+
+Current Medications:
+Multivitamins 1TAB
+Vial 1VIAL
+LOPERamide 2mg
+LORazepam 0.5mg
+Midodrine 5mg
+Midodrine 5mg
+Midodrine 2.5mg
+Midodrine 5mg
+Midodrine 5mg
+OxyCODONE (Immediate Release) 5mg
+",C92Z2,"Other myeloid leukemia, in relapse",1872,11,143,"['02HV33Z', '3E04305', '07DR3ZX']"
+25508812,10019003,F,65,OBSERVATION ADMIT,Abdominal pain,"Patient is a 65 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+H: 0.0 nan
+PTT: 29.6 sec
+Fibrinogen, Functional: 206.0 mg/dL
+PT: 14.2 sec
+Lactate Dehydrogenase (LD): 1040.0 IU/L
+Blasts: 3.0 %
+Neutrophils: 63.0 %
+Absolute Neutrophil Count: 58.11 K/uL
+Basophils: 7.0 %
+Lymphocytes: 5.0 %
+
+Current Medications:
+Multivitamins 1TAB
+Tiotropium Bromide 1CAP
+OxyCODONE (Immediate Release) 5mg
+OxyCODONE (Immediate Release) 5mg
+OxyCODONE (Immediate Release) 5mg
+Albuterol 0.083% Neb Soln 1NEB
+Glucagon 1mg
+Polyethylene Glycol 17g
+Levothyroxine Sodium 88mcg
+Pantoprazole 40mg
+",R0902,Hypoxemia,618,22,37,"['0B9J8ZX', '0B9D8ZX']"
+28662225,10002428,F,80,EW EMER.,Abdominal pain,"Patient is a 80 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+White Blood Cells: 22.4 K/uL
+Red Blood Cells: 3.02 m/uL
+Hematocrit: 28.7 %
+RDW: 12.8 %
+MCHC: 32.2 %
+MCV: 95.0 fL
+Platelet Count: 269.0 K/uL
+Hemoglobin: 9.3 g/dL
+Bicarbonate: 20.0 mEq/L
+Magnesium: 1.4 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Tiotropium Bromide 1CAP
+Bag 50mL
+CeftriaXONE 1gm
+Glucagon 1mg
+Heparin 5000UNIT
+Heparin 5000UNIT
+Levothyroxine Sodium 50mcg
+Lactated Ringers 1000mL
+",0383,Septicemia due to anaerobes,794,21,142,"['9915', '3893', '3324', '3409', '9671', '3491', '9604', '3893', '966', '3891']"
+21027282,10018081,M,79,EW EMER.,Abdominal pain,"Patient is a 79 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Hematocrit: 37.1 %
+MCH: 32.9 pg
+Platelet Count: 154.0 K/uL
+MCV: 96.0 fL
+Hemoglobin: 12.7 g/dL
+Urea Nitrogen: 53.0 mg/dL
+Metamyelocytes: 2.0 %
+Myelocytes: 0.0 %
+Monocytes: 4.0 %
+Bicarbonate: 17.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Bag 1BAG
+Bag 1BAG
+Lidocaine Jelly 2% (Urojet) 1Appl
+LOPERamide 2mg
+LOPERamide 2mg
+Sodium Chloride 1gm
+Warfarin 2mg
+Warfarin 5mg
+",0389,Unspecified septicemia,1264,10,190,"['966', '4620', '5359', '9672', '4311', '4573']"
+24745425,10038992,M,70,SURGICAL SAME DAY ADMISSION,Abdominal pain,"Patient is a 70 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: SURGICAL SAME DAY ADMISSION
+
+Recent Lab Results:
+Base Excess: 6.0 mEq/L
+Hemoglobin: 11.2 g/dL
+Hematocrit, Calculated: 34.0 %
+Glucose: 115.0 mg/dL
+Potassium, Whole Blood: 3.7 mEq/L
+Calculated Total CO2: 32.0 mEq/L
+Chloride, Whole Blood: 99.0 mEq/L
+pCO2: 45.0 mm Hg
+pO2: 303.0 mm Hg
+pH: 7.44 units
+
+Current Medications:
+Aspirin 81mg
+Bag 1mL
+Lidocaine Jelly 2% (Urojet) 1Appl
+Sarna Lotion 1Appl
+CeFAZolin 2g
+Losartan Potassium 25mg
+Glucagon 1mg
+Polyethylene Glycol 17g
+Insulin Human Regular 100UNIT
+Lactated Ringers 1000mL
+",I082,Rheumatic disorders of both aortic and tricuspid valves,273,0,82,"['5A1221Z', '02RF08Z']"
+20199380,10005909,F,40,OBSERVATION ADMIT,Abdominal pain,"Patient is a 40 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+PTT: 87.3 sec
+Hematocrit: 33.7 %
+Hematocrit: 35.3 %
+Platelet Count: 198.0 K/uL
+RDW-SD: 44.8 fL
+Red Blood Cells: 3.82 m/uL
+Hemoglobin: 11.8 g/dL
+MCHC: 33.4 g/dL
+MCH: 30.9 pg
+MCV: 92.0 fL
+
+Current Medications:
+ClonazePAM 0.5mg
+ClonazePAM 0.5mg
+ClonazePAM 0.5mg
+OxyCODONE (Immediate Release) 5mg
+Warfarin 1dose
+Warfarin 5mg
+Polyethylene Glycol 17g
+Polyethylene Glycol 17g
+Levothyroxine Sodium 75mcg
+Levothyroxine Sodium 75mcg
+",I82422,Acute embolism and thrombosis of left iliac vein,197,1,59,"['067D3DZ', '3E03317', '06CN3ZZ', '06H03DZ', '06CD3ZZ', '06CD3ZZ', '067G3DZ']"
+26228185,10014354,M,60,OBSERVATION ADMIT,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+MCV: 85.0 fL
+Absolute Lymphocyte Count: 6.1 K/uL
+Calcium, Total: 8.2 mg/dL
+Potassium: 4.4 mEq/L
+Alanine Aminotransferase (ALT): 59.0 IU/L
+I: 0.0 nan
+Chloride: 100.0 mEq/L
+Magnesium: 2.0 mg/dL
+Bicarbonate: 19.0 mEq/L
+Monocytes: 8.0 %
+
+Current Medications:
+Vial 1VIAL
+Aspirin 81mg
+Sucralfate 1gm
+Insulin 0UNIT
+Prochlorperazine 5mg
+Amitriptyline 10mg
+Atorvastatin 80mg
+CefTRIAXone 1gm
+Glucagon 1mg
+Glucagon 1mg
+",N179,"Acute kidney failure, unspecified",334,0,68,[]
+25809882,10014078,F,60,EW EMER.,Abdominal pain,"Patient is a 60 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Hyaline Casts: 4.0 #/lpf
+pH: 5.0 units
+Specific Gravity: 1.014  
+RBC: 5.0 #/hpf
+WBC: 2.0 #/hpf
+MCHC: 34.9 %
+MCH: 26.6 pg
+Hematocrit: 32.9 %
+Red Blood Cells: 4.32 m/uL
+Magnesium: 1.6 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Ampicillin Sodium 2g
+Bag 50mL
+Glucagon 1mg
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Vancomycin 1000mg
+Chlorhexidine Gluconate 0.12% Oral Rinse 15mL
+0.9% Sodium Chloride 1BAG
+0.9% Sodium Chloride 1BAG
+",3453,Grand mal status,201,18,77,"['0331', '3897', '9671', '3891']"
+20285402,10007795,F,53,EW EMER.,Abdominal pain,"Patient is a 53 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+White Blood Cells: 12.5 K/uL
+Glucose: 98.0 mg/dL
+Bicarbonate: 29.0 mEq/L
+Magnesium: 1.8 mg/dL
+Anion Gap: 12.0 mEq/L
+Chloride: 99.0 mEq/L
+Sodium: 136.0 mEq/L
+Phosphate: 3.4 mg/dL
+Creatinine: 0.4 mg/dL
+Potassium: 3.6 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Multivitamins 1TAB
+Lorazepam 1mg
+Glucagon 1mg
+Heparin 5000UNIT
+Lactated Ringers 1000mL
+Lactated Ringers 1000mL
+Lactated Ringers 1000mL
+Milk of Magnesia 30mL
+Pantoprazole 40mg
+",00845,Intestinal infection due to Clostridium difficile,64,5,52,"['3897', '966', '3897']"
+21599196,10035631,M,63,DIRECT EMER.,Abdominal pain,"Patient is a 63 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+Uric Acid: 7.0 mg/dL
+MCV: 98.0 fL
+White Blood Cells: 6.0 K/uL
+Platelet Count: 59.0 K/uL
+RDW: 13.9 %
+RDW-SD: 49.4 fL
+MCH: 34.2 pg
+Hemoglobin: 13.2 g/dL
+MCHC: 34.9 g/dL
+Blasts: 10.0 %
+
+Current Medications:
+Multivitamins 1TAB
+Bag 1BAG
+Magnesium Sulfate 2gm
+Acyclovir 400mg
+Lidocaine 1% (For PICC/Midline Insertions) 5mL
+Vitamin D 1000UNIT
+Bag 2BAG
+Bag 2BAG
+Magnesium Sulfate 4gm
+Magnesium Sulfate 4gm
+",Z5111,Encounter for antineoplastic chemotherapy,166,0,28,"['02H633Z', '3E04305']"
+20291550,10008454,F,26,EW EMER.,Abdominal pain,"Patient is a 26 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Hemoglobin: 11.1 g/dL
+Glucose: 226.0 mg/dL
+Free Calcium: 1.17 mmol/L
+Potassium, Whole Blood: 4.4 mEq/L
+Hematocrit, Calculated: 33.0 %
+Lactate: 4.5 mmol/L
+Sodium, Whole Blood: 138.0 mEq/L
+pCO2: 48.0 mm Hg
+pH: 7.26 units
+pO2: 86.0 mm Hg
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Bag 50mL
+Bag 50mL
+Bag 50-100mL
+Bag 50-100mL
+Warfarin 5mg
+Aspirin 325mg
+Glucagon 1mg
+Heparin 5000UNIT
+",82111,Open fracture of shaft of femur,287,8,139,['7915']
+27494880,10014354,M,60,EU OBSERVATION,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EU OBSERVATION
+
+Recent Lab Results:
+Creatinine: 0.9 mg/dL
+L: 15.0 nan
+Urea Nitrogen: 9.0 mg/dL
+Glucose: 122.0 mg/dL
+Potassium: 3.9 mEq/L
+H: 8.0 nan
+Chloride: 91.0 mEq/L
+Bicarbonate: 23.0 mEq/L
+Anion Gap: 18.0 mEq/L
+Sodium: 128.0 mEq/L
+
+Current Medications:
+Insulin 0UNIT
+Aspirin 81mg
+Atorvastatin 80mg
+Clopidogrel 75mg
+Furosemide 20mg
+Glucagon 1mg
+Levothyroxine Sodium 50mcg
+Lidocaine 5% Patch 1PTCH
+Pantoprazole 40mg
+Losartan Potassium 50mg
+",R0789,Other chest pain,116,0,32,[]
+29654498,10035631,M,63,AMBULATORY OBSERVATION,Abdominal pain,"Patient is a 63 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: AMBULATORY OBSERVATION
+
+Recent Lab Results:
+No lab results available.
+
+Current Medications:
+Multivitamins 1TAB
+FoLIC Acid 1mg
+OxycoDONE (Immediate Release)  5mg
+Sulfameth/Trimethoprim SS 1TAB
+Heparin 5000UNIT
+Acyclovir 400mg
+Acetaminophen 500mg
+Magnesium Oxide 400mg
+Tacrolimus 0.5mg
+Voriconazole 200mg
+",1759,Malignant neoplasm of other and unspecified sites of male breast,0,0,13,"['4011', '8523']"
+26703331,10019003,F,65,EW EMER.,Abdominal pain,"Patient is a 65 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Potassium: 4.0 mEq/L
+Uric Acid: 13.8 mg/dL
+Sodium: 139.0 mEq/L
+H: 21.0 nan
+Urea Nitrogen: 19.0 mg/dL
+Creatinine: 1.2 mg/dL
+Glucose: 90.0 mg/dL
+Bilirubin, Total: 0.4 mg/dL
+Anion Gap: 17.0 mEq/L
+Asparate Aminotransferase (AST): 27.0 IU/L
+
+Current Medications:
+Multivitamins 1TAB
+Tiotropium Bromide 1CAP
+Ramelteon 8mg
+Glucagon 1mg
+Ipratropium-Albuterol Neb 1NEB
+Levothyroxine Sodium 88mcg
+Pantoprazole 40mg
+Ciprofloxacin HCl 250mg
+Ciprofloxacin HCl 250mg
+Ciprofloxacin HCl 250mg
+",J9601,Acute respiratory failure with hypoxia,385,1,35,"['D7021ZZ', '02HV33Z']"
+27488741,10027445,F,48,URGENT,Abdominal pain,"Patient is a 48 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Asparate Aminotransferase (AST): 44.0 IU/L
+Platelet Count: 146.0 K/uL
+Hematocrit: 48.6 %
+MCH: 28.2 pg
+Sodium: 142.0 mEq/L
+Chloride: 95.0 mEq/L
+Glucose: 125.0 mg/dL
+Magnesium: 1.5 mg/dL
+Bicarbonate: 35.0 mEq/L
+Creatinine: 1.1 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Tiotropium Bromide 1CAP
+Diazepam 2mg
+Diazepam 5mg
+Albuterol 0.083% Neb Soln 1NEB
+Furosemide 40mg
+Glucagon 1mg
+Heparin 5000UNIT
+",42833,Acute on chronic diastolic heart failure,297,0,68,[]
+29026789,10038999,M,45,EW EMER.,Abdominal pain,"Patient is a 45 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+MCH: 25.1 pg
+Red Blood Cells: 4.47 m/uL
+MCV: 83.0 fL
+RDW: 15.4 %
+White Blood Cells: 7.9 K/uL
+Hemoglobin: 11.2 g/dL
+MCHC: 30.3 g/dL
+Hematocrit: 37.0 %
+RDW-SD: 46.1 fL
+Platelet Count: 177.0 K/uL
+
+Current Medications:
+Multivitamins 1TAB
+OxyCODONE (Immediate Release) 5mg
+TraZODone 50mg
+TraZODone 50mg
+Divalproex (DELayed Release) 500mg
+Docusate Sodium 100mg
+Ketorolac 15mg
+Enoxaparin Sodium 40mg
+Ondansetron 4mg
+CeFAZolin 2g
+",S82251A,"Displaced comminuted fracture of shaft of right tibia, initial encounter for closed fracture",21,0,21,['0QSG06Z']
+20385771,10035631,M,63,ELECTIVE,Abdominal pain,"Patient is a 63 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: ELECTIVE
+
+Recent Lab Results:
+Specific Gravity: 1.012  
+pH: 6.0 units
+Lactate Dehydrogenase (LD): 154.0 IU/L
+Bicarbonate: 29.0 mEq/L
+Globulin: 2.5 g/dL
+Bilirubin, Direct: 0.1 mg/dL
+Alkaline Phosphatase: 106.0 IU/L
+Phosphate: 3.6 mg/dL
+Anion Gap: 12.0 mEq/L
+Asparate Aminotransferase (AST): 20.0 IU/L
+
+Current Medications:
+Multivitamins 1CAP
+Neutra-Phos 1PKT
+Vial 1VIAL
+Bag 1BAG
+FoLIC Acid 1mg
+LOPERamide 2mg
+Tacrolimus 1mg
+Tacrolimus 1mg
+Amlodipine 2.5mg
+Amlodipine 2.5mg
+",20500,"Acute myeloid leukemia, without mention of having achieved remission",841,5,113,"['4105', '3897', '0091']"
+27660781,10021487,M,43,DIRECT EMER.,Abdominal pain,"Patient is a 43 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: DIRECT EMER.
+
+Recent Lab Results:
+RDW: 16.2 %
+Glucose: 112.0 mg/dL
+Sodium: 131.0 mEq/L
+Albumin: 2.9 g/dL
+Creatinine: 0.4 mg/dL
+Asparate Aminotransferase (AST): 19.0 IU/L
+Chloride: 96.0 mEq/L
+Bilirubin, Total: 0.6 mg/dL
+Bicarbonate: 28.0 mEq/L
+Magnesium: 1.9 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Multivitamins 1TAB
+Bag 50mL
+Bag 50mL
+Bag 50mL
+HYDROmorphone (Dilaudid) 2mg
+HYDROmorphone (Dilaudid) 2mg
+Lidocaine Jelly 2% (Urojet) 1Appl
+Albumin 25% (12.5g / 50mL) 12.5g
+Albumin 25% (12.5g / 50mL) 12.5g
+",5720,Abscess of liver,558,17,133,"['966', '5187', '5293', '5491', '9915', '5185', '3893']"
+29802992,10037928,F,78,EW EMER.,Abdominal pain,"Patient is a 78 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: EW EMER.
+
+Recent Lab Results:
+Hemoglobin: 13.8 g/dL
+Anion Gap: 17.0 mEq/L
+Bicarbonate: 26.0 mEq/L
+Creatinine: 1.8 mg/dL
+Sodium: 125.0 mEq/L
+Urea Nitrogen: 47.0 mg/dL
+Chloride: 87.0 mEq/L
+Potassium: 4.9 mEq/L
+Glucose: 670.0 mg/dL
+White Blood Cells: 15.6 K/uL
+
+Current Medications:
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Insulin 0UNIT
+Neutra-Phos 1PKT
+Bag 1BAG
+Multivitamins W/minerals 1TAB
+Atorvastatin 20mg
+Sulfameth/Trimethoprim DS 1TAB
+",5849,"Acute kidney failure, unspecified",132,0,39,[]
+28335091,10014354,M,60,URGENT,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+Platelet Count: 195.0 K/uL
+White Blood Cells: 11.3 K/uL
+RDW: 14.9 %
+MCHC: 31.7 g/dL
+RDW-SD: 46.3 fL
+Red Blood Cells: 3.62 m/uL
+Hemoglobin: 9.9 g/dL
+MCH: 27.3 pg
+Hematocrit: 31.2 %
+Creatinine: 1.1 mg/dL
+
+Current Medications:
+Insulin 0UNIT
+Aspirin 81mg
+LORazepam 1mg
+LORazepam 1mg
+LORazepam 0.5mg
+Atorvastatin 80mg
+Clopidogrel 75mg
+Furosemide 20mg
+Glucagon 1mg
+Isosorbide Mononitrate (Extended Release) 30mg
+",I214,Non-ST elevation (NSTEMI) myocardial infarction,62,0,48,"['027134Z', 'B211YZZ', 'B211YZZ']"
+22196214,10010867,F,28,OBSERVATION ADMIT,Abdominal pain,"Patient is a 28 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+MCHC: 30.0 g/dL
+MCV: 82.0 fL
+RDW-SD: 42.3 fL
+RDW: 14.2 %
+Hematocrit: 34.7 %
+Platelet Count: 353.0 K/uL
+White Blood Cells: 11.6 K/uL
+MCH: 24.6 pg
+Anion Gap: 18.0 mEq/L
+Hemoglobin: 10.4 g/dL
+
+Current Medications:
+Zolpidem Tartrate 5mg
+Diazepam 5mg
+Tizanidine 2mg
+Baclofen 10mg
+Polyethylene Glycol 17g
+Heparin 5000UNIT
+Morphine SR (MS Contin) 30mg
+Pregabalin 25mg
+Pregabalin 75mg
+Acetaminophen 325mg
+",J90,"Pleural effusion, not elsewhere classified",64,4,23,['0W9930Z']
+27189241,10038999,M,45,OBSERVATION ADMIT,Abdominal pain,"Patient is a 45 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+Polys: 93.0 %
+Total Nucleated Cells, Other: 8375.0 #/uL
+Lymphocytes: 3.0 %
+Monos: 4.0 %
+Hematocrit, Other Fluid: 2.0 %
+Red Blood Cells: 3.86 m/uL
+MCV: 81.0 fL
+RDW-SD: 44.7 fL
+RDW: 15.3 %
+MCH: 24.9 pg
+
+Current Medications:
+Bag 1BAG
+Bag 1BAG
+Colchicine 0.6mg
+Colchicine 0.6mg
+CefePIME 2g
+Polyethylene Glycol 17g
+Heparin 5000UNIT
+Magnesium Sulfate 2gm
+Magnesium Sulfate 2gm
+Senna 8.6mg
+",J189,"Pneumonia, unspecified organism",762,53,100,"['0B988ZX', '0W9B3ZZ', '0W9B3ZX', '0W9D30Z', '5A1955Z', '0BH17EZ', '02HV33Z', '3E0H76Z', '0BB88ZX']"
+27487226,10014354,M,60,URGENT,Abdominal pain,"Patient is a 60 year old m.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: URGENT
+
+Recent Lab Results:
+RDW: 14.9 %
+Magnesium: 2.1 mg/dL
+PT: 12.5 sec
+Urea Nitrogen: 35.0 mg/dL
+Creatinine: 1.7 mg/dL
+INR(PT): 1.2 nan
+Glucose: 194.0 mg/dL
+Potassium: 5.7 mEq/L
+Anion Gap: 14.0 mEq/L
+Bands: 1.0 %
+
+Current Medications:
+Multivitamins 1TAB
+Neutra-Phos 1PKT
+Vial 1VIAL
+Aspirin 81mg
+Bag 1BAG
+CloNIDine 0.1mg
+Colchicine 0.6mg
+Lisinopril 5mg
+OxyCODONE (Immediate Release) 5mg
+OxyCODONE (Immediate Release) 5mg
+",J189,"Pneumonia, unspecified organism",929,10,164,['0W9D30Z']
+26706939,10018328,F,83,OBSERVATION ADMIT,Abdominal pain,"Patient is a 83 year old f.
+
+Chief Complaint: Abdominal pain
+
+Admission Type: OBSERVATION ADMIT
+
+Recent Lab Results:
+WBC: 70.0 #/hpf
+Specific Gravity: 1.024  
+Ketone: 10.0 mg/dL
+pH: 6.5 units
+RBC: 4.0 #/hpf
+MCV: 86.0 fL
+Hemoglobin: 11.5 g/dL
+Red Blood Cells: 3.9 m/uL
+Hematocrit: 33.6 %
+MCHC: 34.2 g/dL
+
+Current Medications:
+amLODIPine 5mg
+amLODIPine 5mg
+Aspirin 81mg
+Bag 1BAG
+Bag 1BAG
+Atenolol 50mg
+Heparin 5000UNIT
+HydrALAZINE 10mg
+Lidocaine 5% Patch 1PTCH
+Magnesium Sulfate 2gm
+",R55,Syncope and collapse,133,1,35,[]

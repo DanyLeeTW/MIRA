@@ -1,0 +1,30 @@
+{
+  "hadm_id": 22205327,
+  "subject_id": 10029291,
+  "gender": "F",
+  "age": 50,
+  "admission_type": "EW EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "I2602",
+  "diagnosis_name": "Saddle embolus of pulmonary artery with acute cor pulmonale",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10029291\nAdmission ID: 22205327\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 1070,
+  "microbiology_count": 28,
+  "medication_count": 188,
+  "procedure_codes": [
+    "B548ZZA",
+    "5A1955Z",
+    "0CJS8ZZ",
+    "B548ZZA",
+    "3E04317",
+    "02HV33Z",
+    "3E0G76Z",
+    "02HV33Z",
+    "0BH17EZ",
+    "5A1D60Z"
+  ]
+}

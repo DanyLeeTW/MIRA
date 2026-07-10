@@ -1,0 +1,20 @@
+{
+  "hadm_id": 24547356,
+  "subject_id": 10026354,
+  "gender": "M",
+  "age": 34,
+  "admission_type": "URGENT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 34 year old m.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: URGENT\n\nRecent Lab Results:\nHematocrit, Calculated: 45.0 %\nChloride, Whole Blood: 110.0 mEq/L\nFree Calcium: 1.04 mmol/L\nGlucose: 125.0 mg/dL\nLactate: 2.6 mmol/L\nHemoglobin: 14.9 g/dL\nOxygen Saturation: 97.0 %\nPotassium, Whole Blood: 4.5 mEq/L\nBase Excess: -7.0 mEq/L\npO2: 361.0 mm Hg\n\nCurrent Medications:\nBag 1BAG\nBag 1BAG\nBag 1BAG\nHeparin 5000UNIT\nMagnesium Sulfate 2gm\nMagnesium Sulfate 2gm\nMagnesium Sulfate 2gm\nMilk of Magnesia 30mL\n0.9% Sodium Chloride 100mL\nSenna 8.6mg\n",
+  "diagnosis_icd": "S0262XA",
+  "diagnosis_name": "Fracture of subcondylar process of mandible, initial encounter for closed fracture",
+  "lab_events_count": 153,
+  "microbiology_count": 0,
+  "medication_count": 60,
+  "procedure_codes": [
+    "0NST04Z",
+    "0NSS35Z",
+    "0NSV35Z",
+    "03QY0ZZ"
+  ]
+}

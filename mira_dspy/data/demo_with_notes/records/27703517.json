@@ -1,0 +1,21 @@
+{
+  "hadm_id": 27703517,
+  "subject_id": 10001217,
+  "gender": "F",
+  "age": 55,
+  "admission_type": "DIRECT EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "3240",
+  "diagnosis_name": "Intracranial abscess",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10001217\nAdmission ID: 27703517\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 137,
+  "microbiology_count": 7,
+  "medication_count": 54,
+  "procedure_codes": [
+    "0139"
+  ]
+}

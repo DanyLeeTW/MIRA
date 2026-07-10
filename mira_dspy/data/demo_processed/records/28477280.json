@@ -1,0 +1,20 @@
+{
+  "hadm_id": 28477280,
+  "subject_id": 10031757,
+  "gender": "F",
+  "age": 67,
+  "admission_type": "DIRECT EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient is a 67 year old f.\n\nChief Complaint: Abdominal pain\n\nAdmission Type: DIRECT EMER.\n\nRecent Lab Results:\nChloride: 98.0 mEq/L\nNeutrophils: 88.0 %\nRDW: 13.6 %\nMCV: 82.0 fL\nBasophils: 0.2 %\nHemoglobin: 11.2 g/dL\nMCHC: 32.7 %\nMCH: 26.6 pg\nEosinophils: 0.7 %\nLymphocytes: 5.5 %\n\nCurrent Medications:\nMultivitamins 1TAB\nVial 1VIAL\nVial 1VIAL\nVial 1VIAL\nEnoxaparin Sodium 30mg\nLorazepam 0.5mg\nLorazepam 0.5mg\nLorazepam 0.5mg\nPhytonadione 5mg\nPolyethylene Glycol 17g\n",
+  "diagnosis_icd": "1551",
+  "diagnosis_name": "Malignant neoplasm of intrahepatic bile ducts",
+  "lab_events_count": 731,
+  "microbiology_count": 48,
+  "medication_count": 133,
+  "procedure_codes": [
+    "8842",
+    "3979",
+    "8847",
+    "3897"
+  ]
+}

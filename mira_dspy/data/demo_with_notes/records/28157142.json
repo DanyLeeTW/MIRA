@@ -1,0 +1,22 @@
+{
+  "hadm_id": 28157142,
+  "subject_id": 10015931,
+  "gender": "M",
+  "age": 87,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "I350",
+  "diagnosis_name": "Nonrheumatic aortic (valve) stenosis",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10015931\nAdmission ID: 28157142\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 408,
+  "microbiology_count": 4,
+  "medication_count": 129,
+  "procedure_codes": [
+    "3E053GC",
+    "02RF38Z"
+  ]
+}

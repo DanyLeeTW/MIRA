@@ -1,0 +1,29 @@
+{
+  "hadm_id": 27189241,
+  "subject_id": 10038999,
+  "gender": "M",
+  "age": 45,
+  "admission_type": "OBSERVATION ADMIT",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "J189",
+  "diagnosis_name": "Pneumonia, unspecified organism",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10038999\nAdmission ID: 27189241\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 762,
+  "microbiology_count": 53,
+  "medication_count": 100,
+  "procedure_codes": [
+    "0B988ZX",
+    "0W9B3ZZ",
+    "0W9B3ZX",
+    "0W9D30Z",
+    "5A1955Z",
+    "0BH17EZ",
+    "02HV33Z",
+    "3E0H76Z",
+    "0BB88ZX"
+  ]
+}

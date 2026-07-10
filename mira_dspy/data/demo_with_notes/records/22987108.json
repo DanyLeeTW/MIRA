@@ -1,0 +1,43 @@
+{
+  "hadm_id": 22987108,
+  "subject_id": 10007818,
+  "gender": "M",
+  "age": 69,
+  "admission_type": "DIRECT EMER.",
+  "chief_complaint": "Abdominal pain",
+  "history": "Patient presents with abdominal pain.\n\nDIAGNOSIS:\nUnspecified condition",
+  "diagnosis_icd": "K7469",
+  "diagnosis_name": "Other cirrhosis of liver",
+  "diagnosis_text": "Unknown",
+  "radiology_reports": [
+    "RADIOLOGY REPORT\n\nExam: CT Abdomen and Pelvis with Contrast\nPatient ID: 10007818\nAdmission ID: 22987108\n\nINDICATION:\nAbdominal pain\n\nFINDINGS:\nCT Abdomen: No acute findings.\n\nIMPRESSION:\nClinical correlation recommended."
+  ],
+  "lab_events_count": 2257,
+  "microbiology_count": 98,
+  "medication_count": 320,
+  "procedure_codes": [
+    "02H633Z",
+    "0BH17EZ",
+    "B211YZZ",
+    "3E0G76Z",
+    "0BCH8ZZ",
+    "02HV33Z",
+    "3E0436Z",
+    "0BCJ8ZZ",
+    "03LP3DZ",
+    "B518YZA",
+    "0BC78ZZ",
+    "04LK3DZ",
+    "0W9G3ZX",
+    "0W9G3ZZ",
+    "0B968ZX",
+    "B214YZZ",
+    "0BCJ8ZZ",
+    "5A1D60Z",
+    "0W9G3ZZ",
+    "0BCJ8ZZ",
+    "0W9G3ZX",
+    "5A1955Z",
+    "0BC78ZZ"
+  ]
+}
